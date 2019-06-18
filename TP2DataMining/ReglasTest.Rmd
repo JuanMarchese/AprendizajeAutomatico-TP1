@@ -1,0 +1,38 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(arules)
+```
+
+
+```{r}
+precios.data.frame <- read.csv("data/PreciosWideTransformadosFinal.csv", row.names = 1)
+precios.data.frame <- precios.data.frame[,c("BARRIO","nombre","PrecioRelativoDiscretizadoMedio","VariacionDiscretizadaTotal")]
+str(precios.data.frame)
+```
+
+```{r}
+write.csv(precios.data.frame, file = "Temporal.csv")
+precios <- read.transactions("Temporal.csv", format = "basket",header = TRUE,sep = ",")
+file.remove("Temporal.csv")
+str(precios)
+```
+
+```{r}
+reglas <- apriori(precios, parameter = list(support=0.01, confidence=0.01, target = "rules"))
+```
+
+
+```{r}
+print(reglas)
+```
+
+
+```{r}
+inspect(head(sort(reglas, by="lift", decreasing = TRUE),100))
+```
+
