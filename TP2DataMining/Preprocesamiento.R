@@ -136,6 +136,29 @@ preprocesar <- function(precios.wide){
     ))
 }
 
+datosSocioEconomicos <- function(precios){
+
+	sucursales <- read.csv("data/Sucursales.csv",stringsAsFactors=FALSE)
+	sucursales <- sucursales[,c("id","BARRIO","COMUNA","sucursalTipo","cadena","nombre")]
+	Alquiler <- read.csv(file="data/AlquilerDepartamentos.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+	colnames(Alquiler) <- c("Barrio","USDm2Alquiler")
+
+	Venta <- read.csv(file="data/VentasDepartamentos.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+	colnames(Venta) <- c("Barrio","USDm2Venta")
+
+	Poblacion <- read.csv(file="data/PoblacionBarrio.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+
+	Alquiler[,"Barrio"] <- toupper(Alquiler[,"Barrio"])
+	Venta[,"Barrio"] <- toupper(Venta[,"Barrio"])
+	Poblacion[,"Barrio"] <- toupper(Poblacion[,"Barrio"])
+
+	mergeado <- merge(sucursales, Alquiler,by.x = "BARRIO", by.y = "Barrio")
+	mergeado <- merge(mergeado, Venta,by.x = "BARRIO", by.y = "Barrio")
+	mergeado <- merge(mergeado, Poblacion,by.x = "BARRIO", by.y = "Barrio")
+	mergeado.final <- merge(mergeado, precios,by.x = "id", by.y = "sucursal")
+	return(mergeado.final)
+}
+
 
 #Cargo los precios
 precios <- load.data.precios()
@@ -146,8 +169,12 @@ precios.wide <- to.wide(precios)
 #Hago las transformaciones
 precios.wide.transformados <- preprocesar(precios.wide)
 
-#Finalmente elegimos los atributos
+#Elegimos los atributos
 precios.wide.transformados.final <- select(precios.wide.transformados, producto, sucursal, PrecioRelativoDiscretizado1, PrecioRelativoDiscretizado2, PrecioRelativoDiscretizado3, PrecioRelativoDiscretizado4, PrecioRelativoDiscretizadoMedio, VariacionDiscretizada1, VariacionDiscretizada2, VariacionDiscretizada3, VariacionDiscretizadaTotal)
+
+#Agregamos datos de socioeconomicos barrios 
+
+precios.wide.transformados.barruis <- datosSocioEconomicos(precios.wide.transformados.final)
 
 #Guardar a CSV
 #write.csv(precios.wide, "PreciosWide.csv")
