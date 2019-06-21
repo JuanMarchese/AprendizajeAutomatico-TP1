@@ -1,0 +1,1000 @@
+{"_id":{"$oid":"5cbc69be7af152186c0cd484"},"nombre":"Huevo de Chocolate Sorpresa Kinder 20 Gr","marca":"KINDER","presentacion":"20.0 gr","id":"0000040084107"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd485"},"nombre":"Desodorante Original Dove 50 Gr","marca":"DOVE","presentacion":"50.0 gr","id":"0000075027513"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd486"},"nombre":"Cerveza Rubia Corona 335 Cc","marca":"CORONA","presentacion":"355.0 cc","id":"0000075032715"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd487"},"nombre":"Galletitas Obleas Rellena Opera 92 Gr","marca":"OPERA","presentacion":"92.0 gr","id":"0000077903518"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd488"},"nombre":"Turron Arcor 25 Gr","marca":"ARCOR","presentacion":"25.0 gr","id":"0000077940131"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd489"},"nombre":"Desodorante en Crema en Pote Odorono Rexona 60 Gr","marca":"REXONA","presentacion":"60.0 gr","id":"0000077940704"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48a"},"nombre":"Postre Dulce de Leche Danette Pack 2 Un 190 Gr","marca":"DANETTE","presentacion":"190.0 gr","id":"0000077953063"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48b"},"nombre":"Postre Chocolate Danette Pack 2 Un 190 Gr","marca":"DANETTE","presentacion":"190.0 gr","id":"0000077953070"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48c"},"nombre":"Desodorante Antitranspirante Roll On Original Dove 50 Ml","marca":"DOVE","presentacion":"50.0 ml","id":"0000078924468"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48d"},"nombre":"Desodorante Roll On Invisible Dove 50 Ml","marca":"DOVE","presentacion":"50.0 ml","id":"0000078924529"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48e"},"nombre":"Tableta de Chocolate Kinder Bueno 43 Gr","marca":"KINDER","presentacion":"43.0 gr","id":"0000080052760"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd48f"},"nombre":"Papas Fritas Original Pringles 37 Gr","marca":"PRINGLES","presentacion":"37.0 gr","id":"0038000846731"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd490"},"nombre":"Sopa Instantanea Pollo Maruchan 64 Gr","marca":"MARUCHAN","presentacion":"64.0 gr","id":"0041789001918"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd491"},"nombre":"Sopa Instantanea Carne Maruchan 85 Gr","marca":"MARUCHAN","presentacion":"94.0 gr","id":"0041789002922"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd492"},"nombre":"Toalla Desmaquillante Neutrogena Ultra Soft Paquete 25 Un","marca":"NEUTRÓGENA","presentacion":"25.0 un","id":"0070501051054"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd493"},"nombre":"Cepillo Dental Max Fresh Medium Colgate 2 Un","marca":"COLGATE","presentacion":"2.0 un","id":"0099176316565"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd494"},"nombre":"Sardinillas en Aceite Lata Coto 81 Gr","marca":"COTO","presentacion":"81.0 gr","id":"12-1-2800000937881"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd495"},"nombre":"Espuma de Afeitar Regular en Aerosol Foamy 322 Ml","marca":"GILLETTE","presentacion":"322.0 ml","id":"3014260273903"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd496"},"nombre":"Espuma de Afeitar en Aerosol Mentol Foamy 322 Ml","marca":"GILLETTE","presentacion":"322.0 ml","id":"3014260273910"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd497"},"nombre":"Crema Corporal para Piel Extra Seca en Botella Nivea Body Milk 250 Ml","marca":"NIVEA","presentacion":"250.0 ml","id":"4005808315093"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd498"},"nombre":"Crema Corporal para Piel Normal en Botella Nivea Body Milk 250 Ml","marca":"NIVEA","presentacion":"250.0 ml","id":"4005808352630"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd499"},"nombre":"Desodorante Antitranspirante Aerosol Nivea Clear Invisible Black \u0026 White 150 Ml","marca":"NIVEA","presentacion":"150.0 ml","id":"4005808979813"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49a"},"nombre":"Desodorante Antitranspirante Hombre Aerosol Nivea Invisible Black \u0026 White 150 Ml","marca":"NIVEA","presentacion":"150.0 ml","id":"4005808980239"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49b"},"nombre":"Ron Blanco Capitan Morgan 750 Ml","marca":"CAPITÁN MORGAN","presentacion":"750.0 ml","id":"5000281040356"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49c"},"nombre":"Jabon Liquido Ropa Agua Fria Ariel 800 Cc","marca":"ARIEL","presentacion":"800.0 cc","id":"7500435004633"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49d"},"nombre":"Jabon Liquido Ropa Agua Fria Ariel 3 Lt","marca":"ARIEL","presentacion":"3.0 lt","id":"7500435004657"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49e"},"nombre":"Jabon Liquido Ropa Agua Fria en Doypack Ariel 3 Lt","marca":"ARIEL","presentacion":"3.0 lt","id":"7500435004664"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd49f"},"nombre":"Shampoo Restauracion Profunda Max Pro V Pantene 200 Ml","marca":"PANTENE","presentacion":"200.0 ml","id":"7500435012034"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a0"},"nombre":"Shampoo Restauracion Profunda Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012041"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a1"},"nombre":"Acondicionador Restauracion Max ProV Pantene 200 Ml","marca":"PANTENE","presentacion":"200.0 ml","id":"7500435012072"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a2"},"nombre":"Acondicionador Restauracion Max ProV Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012089"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a3"},"nombre":"Shampoo Maximo Brillo Extremo Max Pro V Pantene 200 Ml","marca":"PANTENE","presentacion":"200.0 ml","id":"7500435012140"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a4"},"nombre":"Shampoo Maximo Brillo Extremo Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012157"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a5"},"nombre":"Shampoo Control Caida Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012201"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a6"},"nombre":"Acondicionador Brillo Extremo Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012225"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a7"},"nombre":"Acondicionador Control Caida Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012263"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a8"},"nombre":"Shampoo Hidratacion Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012287"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4a9"},"nombre":"Acondicionador Hidratacion Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012355"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4aa"},"nombre":"Shampoo Liso Extremo Max Por V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012461"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ab"},"nombre":"Acondicionador Liso Extremo Max Pro V Pantene 400 Ml","marca":"PANTENE","presentacion":"400.0 ml","id":"7500435012652"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ac"},"nombre":"Detergente Lavavajilla de Limon botella Magistral 300 Cc","marca":"MAGISTRAL","presentacion":"300.0 cc","id":"7500435019224"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ad"},"nombre":"Detergente de Limon Magistral 500 Ml","marca":"MAGISTRAL","presentacion":"500.0 ml","id":"7500435019231"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ae"},"nombre":"Detergente Espuma Activa de Limon Magistral 750 Cc","marca":"MAGISTRAL","presentacion":"750.0 cc","id":"7500435019248"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4af"},"nombre":"Toalla Femenina Plus Seca con Alas Always 16 Un","marca":"ALWAYS","presentacion":"16.0 un","id":"7500435023306"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b0"},"nombre":"Acondicionador 3 Minute Miracle Restauracion Pantene 170 Ml","marca":"PANTENE","presentacion":"170.0 ml","id":"7500435106382"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b1"},"nombre":"Acondicionador 3 Minute Miracle Liso Extremo Pantene 170 Ml","marca":"PANTENE","presentacion":"170.0 ml","id":"7500435106405"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b2"},"nombre":"Acondicionador 3 Minute Miracle Hidratante Extrema Pantene 170 Ml","marca":"PANTENE","presentacion":"170.0 ml","id":"7500435106412"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b3"},"nombre":"Pañal P Confort Sec Pampers 30 Un","marca":"PAMPERS","presentacion":"30.0 un","id":"7500435112734"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b4"},"nombre":"Pañal M Confort Sec Pampers 26 Un","marca":"PAMPERS","presentacion":"26.0 un","id":"7500435112741"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b5"},"nombre":"Pañal G Confort Sec Pampers 22 Un","marca":"PAMPERS","presentacion":"22.0 un","id":"7500435112758"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b6"},"nombre":"Pañal XG Confort Sec Pampers 18 Un","marca":"PAMPERS","presentacion":"18.0 un","id":"7500435112765"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b7"},"nombre":"Crema Humectante Ponds Pote 100 Gr","marca":"PONDS","presentacion":"100.0 gr","id":"7501056326142"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b8"},"nombre":"Cafe en Capsulas Lungo NesCafe Dolce Gusto 16 Un 112 Gr","marca":"NESCAFÉ","presentacion":"112.0 gr","id":"7501059273245"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4b9"},"nombre":"Cafe en Capsulas Expreso NesCafe Dolce Gusto 16 Un 96 Gr","marca":"NESCAFÉ","presentacion":"16.0 un","id":"7501059273252"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ba"},"nombre":"Cafe en Capsulas Cappuccino NesCafe 8 Un 200 Gr","marca":"NESCAFÉ","presentacion":"8.0 un","id":"7501059273276"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4bb"},"nombre":"Acondicionador Hidradisiaco Herbal Essences 300 Ml","marca":"HERBAL ESSENCES","presentacion":"300.0 ml","id":"7501065904522"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4bc"},"nombre":"Shampoo Hidradisiaco Herbal Essences 300 Ml","marca":"HERBAL ESSENCES","presentacion":"300.0 ml","id":"7506295302292"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4bd"},"nombre":"Detergente Manzana Verde Magistral 500 Ml","marca":"MAGISTRAL","presentacion":"500.0 ml","id":"7506309878997"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4be"},"nombre":"Maquina Afeitar Masculina Prestobarba Sense Care Gillette 2 Un","marca":"GILLETTE","presentacion":"2.0 un","id":"7506339337525"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4bf"},"nombre":"Rasuradora Male Prestobarba Sense Care Gillette 4 Un","marca":"GILLETTE","presentacion":"4.0 un","id":"7506339337532"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c0"},"nombre":"Cepillo Zigzag Suave Colgate 2 Un","marca":"COLGATE","presentacion":"2.0 un","id":"7509546012100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c1"},"nombre":"Cafe en Capsulas Cortado Expreso Macchiato NesCafe Dolce Gusto 159 Gr","marca":"NESCAFÉ","presentacion":"100.0 gr","id":"7613032396350"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c2"},"nombre":"Cafe en Capsulas Au Lait NesCafe Dolce Gusto 16 Un 160 Gr","marca":"NESCAFÉ","presentacion":"160.0 gr","id":"7613033174728"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c3"},"nombre":"Cereales Infantiles con Vegetales en Estuche Nestum 200 Gr","marca":"NESTUM","presentacion":"200.0 gr","id":"7613034191182"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c4"},"nombre":"Cafe Suave Doypack Dolca 170 Gr","marca":"NESCAFÉ","presentacion":"170.0 gr","id":"7613034235374"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c5"},"nombre":"Cafe Instantaneo Torrado Dolca NesCafe 170 Gr","marca":"NESCAFÉ","presentacion":"170.0 gr","id":"7613034235404"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c6"},"nombre":"Cereales Integrales con forma de Frutas Trix 230 Gr","marca":"TRIX","presentacion":"230.0 gr","id":"7613034412904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c7"},"nombre":"Cereales Chocolate Nesquik 230 Gr","marca":"NESQUIK","presentacion":"230.0 gr","id":"7613034413154"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c8"},"nombre":"Alimento para Perros Adulto Dog Chow 3 Kg","marca":"DOG CHOW","presentacion":"3.0 kg","id":"7613034416902"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4c9"},"nombre":"Alimento para Perros Adultos Dog Chow 1.5Kg","marca":"DOG CHOW","presentacion":"1.5 kg","id":"7613034416926"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ca"},"nombre":"Cereal de Arroz con Hierro Nestum 200 Gr","marca":"NESTUM","presentacion":"200.0 gr","id":"7613034428271"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4cb"},"nombre":"Alimento para Perros Cachorros Medianos y Grandes Dog Chow 1.5 Kg","marca":"DOG CHOW","presentacion":"1.5 kg","id":"7613034435408"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4cc"},"nombre":"Cacao en Polvo Instantaneo Nesquik 360 Gr","marca":"NESQUIK","presentacion":"360.0 gr","id":"7613034449993"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4cd"},"nombre":"Cacao en Polvo Instantaneo Nesquik 800 Gr","marca":"NESQUIK","presentacion":"800.0 gr","id":"7613034453600"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ce"},"nombre":"Pure de Papas Cremoso Instantaneo Maggi 125 Gr","marca":"MAGGI","presentacion":"125.0 gr","id":"7613034497062"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4cf"},"nombre":"Cereal Infantil Multicereal con Hierro Nestum 200 Gr","marca":"NESTUM","presentacion":"200.0 gr","id":"7613034680778"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d0"},"nombre":"Alimento para Gatos Adultos Cat Chow 500 Gr","marca":"CAT CHOW","presentacion":"500.0 gr","id":"7613034875068"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d1"},"nombre":"Cafe Instantaneo Suave NesCafe Dolca 170 Gr","marca":"NESCAFÉ","presentacion":"170.0 gr","id":"7613035067837"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d2"},"nombre":"Cafe Instantaneo NesCafe Dolca 170 Gr","marca":"NESCAFÉ","presentacion":"170.0 gr","id":"7613035068391"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d3"},"nombre":"Cafe Instantaneo Suave NesCafe Dolca 100 Gr","marca":"NESCAFÉ","presentacion":"100.0 gr","id":"7613035070981"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d4"},"nombre":"Cafe Mokaccino Instantaneo NesCafe Dolca 125 Gr","marca":"NESCAFÉ","presentacion":"125.0 gr","id":"7613035161580"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d5"},"nombre":"Cafe Instantaneo Descafeinado NesCafe 100 Gr","marca":"NESCAFÉ","presentacion":"100.0 gr","id":"7613035379213"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d6"},"nombre":"Galletitas Clasicas Surtidas Terrabusi Variedad 400 Gr","marca":"TERRABUSI","presentacion":"400.0 gr","id":"7622210649225"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d7"},"nombre":"Galletitas Surtidas Chocolate Terrabusi Variedad 300 Gr","marca":"TERRABUSI","presentacion":"300.0 gr","id":"7622210649249"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d8"},"nombre":"Galletitas Clasicas Surtidas Terrabusi Variedad 600 Gr","marca":"TERRABUSI","presentacion":"600.0 gr","id":"7622210649287"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4d9"},"nombre":"Jugo en Polvo Manzana Deliciosa Clight Nereidas 7 Gr","marca":"CLIGHT","presentacion":"7.0 gr","id":"7622210812711"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4da"},"nombre":"Jugo en Polvo Diet Naranja Clight Nereidas 9 Gr","marca":"CLIGHT","presentacion":"9.0 gr","id":"7622210812759"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4db"},"nombre":"Jugo en Polvo Diet Naranja Dulce Clight Nereidas 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210812797"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4dc"},"nombre":"Jugo en Polvo Anana Clight Nereidas 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210812872"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4dd"},"nombre":"Jugo en Polvo Diet Naranja Mango Clight Nereidas 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210813237"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4de"},"nombre":"Jugo en Polvo Diet Naranja Durazno Clight Nereidas 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210813244"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4df"},"nombre":"Jugo en Polvo Pomelo Amarillo Clight Nereidas 10 Gr","marca":"CLIGHT","presentacion":"10.0 gr","id":"7622210813497"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e0"},"nombre":"Jugo en Polvo Duo Mango y Pera Clight 7 Gr","marca":"CLIGHT","presentacion":"7.0 gr","id":"7622210813534"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e1"},"nombre":"Jugo en Polvo Diet Manzana Verde Clight Nereidas 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210813572"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e2"},"nombre":"Jugo en Polvo Manzana Verde Clight 8 Gr","marca":"CLIGHT","presentacion":"8.0 gr","id":"7622210813619"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e3"},"nombre":"Galletitas Anillos Glaseados Originales Terrabusi 160 Gr","marca":"TERRABUSI","presentacion":"160.0 gr","id":"7622300398569"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e4"},"nombre":"Alfajor de Chocolate Terrabusi 6 Un 300 Gr","marca":"TERRABUSI","presentacion":"300.0 gr","id":"7622300742584"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e5"},"nombre":"Galletitas Chocolate Lincoln 153 Gr","marca":"LINCOLN","presentacion":"153.0 gr","id":"7622300742676"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e6"},"nombre":"Obleas Bañada Terrabusi Rhodesia Pack 4 Un 88 Gr","marca":"RHODESIA","presentacion":"88.0 gr","id":"7622300742935"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e7"},"nombre":"Galletitas Tita 5 Un 90 Gr","marca":"TITA","presentacion":"90.0 gr","id":"7622300742973"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e8"},"nombre":"Galletitas Vainilla Boca de Dama Terrabusi 160 Gr","marca":"TERRABUSI","presentacion":"160.0 gr","id":"7622300829087"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4e9"},"nombre":"Galletitas Vainilla Lincoln Angry Birds 153 Gr","marca":"LINCOLN","presentacion":"153.0 gr","id":"7622300829643"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ea"},"nombre":"Galletitas Chocolate con Relleno de Limon Melba 120 Gr","marca":"MELBA","presentacion":"120.0 gr","id":"7622300829728"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4eb"},"nombre":"Galletitas Vainilla con Chips de Chocolate Pepitos 118 Gr","marca":"PEPITOS","presentacion":"118.0 gr","id":"7622300833909"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ec"},"nombre":"Galletitas con Chips Chocolate Pepitos Pack 3 Un 354 Gr","marca":"PEPITOS","presentacion":"354.0 gr","id":"7622300833930"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ed"},"nombre":"Galletitas Clasicas Cerealitas 200 Gr","marca":"CEREALITAS","presentacion":"200.0 gr","id":"7622300840259"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ee"},"nombre":"Galletitas con Cereal Clasicas Cerealitas Pack 3 Un 600 Gr","marca":"CEREALITAS","presentacion":"600.0 gr","id":"7622300840273"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ef"},"nombre":"Galletitas Chocolate con Relleno de Vainilla Oreo Mini 50 Gr","marca":"OREO","presentacion":"50.0 gr","id":"7622300841461"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f0"},"nombre":"Galletitas Clasicas Express Pack 3 Un 324 Gr","marca":"EXPRESS","presentacion":"324.0 gr","id":"7622300847234"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f1"},"nombre":"Galletitas Clasicas Express Pack 5 Un 540 Gr","marca":"EXPRESS","presentacion":"540.0 gr","id":"7622300847265"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f2"},"nombre":"Galletitas Light Express 110 Gr","marca":"EXPRESS","presentacion":"110.0 gr","id":"7622300847340"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f3"},"nombre":"Galletitas Light Express Pack 3 Un 330 Gr","marca":"EXPRESS","presentacion":"330.0 gr","id":"7622300847364"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f4"},"nombre":"Jugo en Polvo Naranja Verao 10 Gr","marca":"VERAO","presentacion":"10.0 gr","id":"7622300861049"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f5"},"nombre":"Jugo en Polvo Naranja Durazno Verao 10 Gr","marca":"VERAO","presentacion":"10.0 gr","id":"7622300861100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f6"},"nombre":"Jugo en Polvo Naranja Tang Fresh 25 Gr","marca":"TANG","presentacion":"25.0 gr","id":"7622300864088"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f7"},"nombre":"Jugo en Polvo Limonada Fresh Tang 25 Gr","marca":"TANG","presentacion":"25.0 gr","id":"7622300864118"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f8"},"nombre":"Jugo en Polvo Frutilla Tang Fresh 25 Gr","marca":"TANG","presentacion":"25.0 gr","id":"7622300864149"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4f9"},"nombre":"Galletitas Chocolate con Relleno de Vainilla Oreo 117 Gr","marca":"OREO","presentacion":"117.0 gr","id":"7622300864934"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4fa"},"nombre":"Galletitas Chocolate con Relleno de Vainilla Oreo 351 Gr","marca":"OREO","presentacion":"351.0 gr","id":"7622300864958"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4fb"},"nombre":"Polvo para Preparar Gelatina Frambuesa Royal 40 Gr","marca":"ROYAL","presentacion":"40.0 gr","id":"7622300865542"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4fc"},"nombre":"Gelatina sin Sabor Royal 14 Gr","marca":"ROYAL","presentacion":"14.0 gr","id":"7622300865658"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4fd"},"nombre":"Jugo en Polvo Naranja Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868482"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4fe"},"nombre":"Jugo en Polvo Manzana Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868512"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd4ff"},"nombre":"Jugo en Polvo Naranja Dulce Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868543"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd500"},"nombre":"Jugo en Polvo Naranja Mango Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868635"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd501"},"nombre":"Jugo en Polvo Limonada Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868697"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd502"},"nombre":"Jugo en Polvo Multifruta Vitaminas Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868727"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd503"},"nombre":"Jugo en Polvo Pomelo Rosado Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868758"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd504"},"nombre":"Jugo en Polvo Naranja Banana Tang 18 Gr","marca":"TANG","presentacion":"18.0 gr","id":"7622300868789"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd505"},"nombre":"Galletitas Chocolate con Relleno de Chocolate Oreo 117 Gr","marca":"OREO","presentacion":"117.0 gr","id":"7622300869915"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd506"},"nombre":"Flan para Preparar Vainilla Royal 60 Gr","marca":"ROYAL","presentacion":"60.0 gr","id":"7622300871550"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd507"},"nombre":"Polvo para Mousse Chocolate Royal Light 40 Gr","marca":"ROYAL","presentacion":"40.0 gr","id":"7622300871772"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd508"},"nombre":"Cepillo Dental Triple Accion Colgate 2 Un","marca":"COLGATE","presentacion":"2.0 un","id":"7702010631207"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd509"},"nombre":"Rasuradora Desechable Simply Venus Gillette 2 Un","marca":"GILLETTE","presentacion":"2.0 un","id":"7702018072392"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50a"},"nombre":"Cepillo Dental Oral B Classic 1 Un","marca":"ORAL B","presentacion":"1.0 un","id":"7702018652372"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50b"},"nombre":"Shampoo para Bebe Cabellos Claros Mollusk Johnsons Baby 400 Ml","marca":"JOHNSON'S","presentacion":"400.0 ml","id":"7790010570541"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50c"},"nombre":"Shampoo para Bebe Clasico Johnsons Baby 200 Ml","marca":"JOHNSON'S","presentacion":"200.0 ml","id":"7790010570626"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50d"},"nombre":"Toalla Femenina Fit con Alas Siempre Libre 16 Un","marca":"SIEMPRE LIBRE","presentacion":"16.0 un","id":"7790010596602"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50e"},"nombre":"Toalla Femenina Tanga con Alas Siempre Libre 8 Un","marca":"SIEMPRE LIBRE","presentacion":"8.0 un","id":"7790010599269"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd50f"},"nombre":"Protectores Diarios Todos Los Dias Carefree 20 Un","marca":"CAREFREE","presentacion":"20.0 un","id":"7790010616737"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd510"},"nombre":"Protectores Diarios Todos Los Dias Carefree 100 Un","marca":"CAREFREE","presentacion":"100.0 un","id":"7790010616751"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd511"},"nombre":"Protectores Todos Los Dias Tanga Carefree 20 Un","marca":"CAREFREE","presentacion":"20.0 un","id":"7790010616768"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd512"},"nombre":"Protectores Todos Los Dias Tanga Carefree 60 Un","marca":"CAREFREE","presentacion":"60.0 un","id":"7790010616775"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd513"},"nombre":"Protectores Diarios Largos Carefree 20 Uni","marca":"CAREFREE","presentacion":"20.0 un","id":"7790010616805"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd514"},"nombre":"Protectores Diarios Largos Carefree 60 Uni","marca":"CAREFREE","presentacion":"60.0 un","id":"7790010616812"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd515"},"nombre":"Toalla Femenina Especial Super Absorcion Siempre Libre X16Un","marca":"SIEMPRE LIBRE","presentacion":"16.0 un","id":"7790010669078"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd516"},"nombre":"Tostadas de Clasicas Ser 110 Gr","marca":"SER","presentacion":"110.0 gr","id":"7790040001022"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd517"},"nombre":"Galletitas Sabor Miel Melitas 170 Gr","marca":"MELITAS","presentacion":"170.0 gr","id":"7790040001855"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd518"},"nombre":"Galletitas Saladas Tipo Snacks Rex 75 Gr","marca":"REX","presentacion":"75.0 gr","id":"7790040003569"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd519"},"nombre":"Galletitas Kesitas 75 Gr","marca":"KESITAS","presentacion":"75.0 gr","id":"7790040003606"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51a"},"nombre":"Galletitas Obleas Clasicas Opera 220 Gr","marca":"OPERA","presentacion":"220.0 gr","id":"7790040008175"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51b"},"nombre":"Galletitas Vainilla con Relleno de Chocolate Formis Pack 3 Un 324 Gr","marca":"FORMIS","presentacion":"324.0 gr","id":"7790040102989"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51c"},"nombre":"Tostadas Horneadas Ser 200 Gr","marca":"SER","presentacion":"200.0 gr","id":"7790040107311"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51d"},"nombre":"Galletitas Sabor Chocolate Chocolinas 250 Gr","marca":"CHOCOLINAS","presentacion":"250.0 gr","id":"7790040111004"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51e"},"nombre":"Snacks Sabor Queso Kesitas 125 Gr","marca":"KESITAS","presentacion":"115.0 gr","id":"7790040173200"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd51f"},"nombre":"Galletitas Original Criollitas Pack 3 300 Gr","marca":"CRIOLLITAS","presentacion":"100.0 gr","id":"7790040377806"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd520"},"nombre":"Galletitas Crackers Criollitas Pack 5 Un 100 Gr","marca":"CRIOLLITAS","presentacion":"100.0 gr","id":"7790040377905"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd521"},"nombre":"Barra de Cereales Tradicional Cereal Mix 6 Un 138 Gr","marca":"CEREAL MIX","presentacion":"138.0 gr","id":"7790040378506"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd522"},"nombre":"Barra de Cereales Light Manzana Cereal Mix Pack 6 Un 132 Gr","marca":"CEREAL MIX","presentacion":"132.0 gr","id":"7790040379107"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd523"},"nombre":"Galletitas Sabor Limon Arcor Mana 165 Gr","marca":"MANÁ","presentacion":"165.0 gr","id":"7790040439108"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd524"},"nombre":"Galletitas Chocolate con Relleno de Vainilla Mana 165 Gr","marca":"MANÁ","presentacion":"165.0 gr","id":"7790040439306"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd525"},"nombre":"Barra de Cereales Light con Yogur Frutilla Cereal Mix 168 Gr","marca":"CEREAL MIX","presentacion":"168.0 gr","id":"7790040455306"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd526"},"nombre":"Barra de Cereales con Yogur Frutilla Cereal Mix 168 Gr","marca":"CEREAL MIX","presentacion":"168.0 gr","id":"7790040455719"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd527"},"nombre":"Galletitas con Salvado Arcor Hogareñas 200 Gr","marca":"HOGAREÑAS","presentacion":"200.0 gr","id":"7790040669109"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd528"},"nombre":"Galletitas con Salvado Hogareñas Pack 3 Un 600 Gr","marca":"ARCOR","presentacion":"600.0 gr","id":"7790040669208"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd529"},"nombre":"Galletitas Surtido Diversion 400 Gr","marca":"ARCOR","presentacion":"400.0 gr","id":"7790040711105"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52a"},"nombre":"Galletitas Original Rex 125 Gr","marca":"REX","presentacion":"125.0 gr","id":"7790040719804"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52b"},"nombre":"Galletitas Vainilla Mana Pack 3 Un 393 Gr","marca":"MANÁ","presentacion":"393.0 gr","id":"7790040720800"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52c"},"nombre":"Galletitas Sandwich Traviata Pack 3 Un 303 Gr","marca":"TRAVIATA","presentacion":"303.0 gr","id":"7790040872202"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52d"},"nombre":"Galletitas Sandwich Traviata Pack 5 Un 505 Gr","marca":"TRAVIATA","presentacion":"505.0 gr","id":"7790040872400"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52e"},"nombre":"Galletitas Surtido Seleccionadas Bagley 400 Gr","marca":"BAGLEY","presentacion":"400.0 gr","id":"7790040929609"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd52f"},"nombre":"Galletitas Coco Coquitas 170 Gr","marca":"COQUITAS","presentacion":"170.0 gr","id":"7790040929807"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd530"},"nombre":"Galletitas Chocolate Chocolinas 170 Gr","marca":"CHOCOLINAS","presentacion":"170.0 gr","id":"7790040929906"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd531"},"nombre":"Galletitas Vainilla con Relleno de Limon Mellizas Pack 3 Un 336 Gr","marca":"MELLIZAS","presentacion":"336.0 gr","id":"7790040930100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd532"},"nombre":"Galletitas Sabor Vainilla con Relleno de Limon Mellizas 112 Gr","marca":"MELLIZAS","presentacion":"112.0 gr","id":"7790040930209"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd533"},"nombre":"Galletitas Vainilla Relleno de Almendra Amor Bagley Pack 3 Un 336 Gr","marca":"AMOR","presentacion":"336.0 gr","id":"7790040930308"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd534"},"nombre":"Galletitas Chocolate con Relleno de Vainilla Bagley Rumba 112 Gr","marca":"RUMBA","presentacion":"112.0 gr","id":"7790040930506"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd535"},"nombre":"Galletitas Chocolate con Relleno de Coco Rumba Pack 3 Un 336 Gr","marca":"RUMBA","presentacion":"336.0 gr","id":"7790040930605"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd536"},"nombre":"Galletitas Vainilla con Relleno de Frambuesa Sonrisas 118 Gr","marca":"SONRISAS","presentacion":"118.0 gr","id":"7790040931206"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd537"},"nombre":"Galletitas Frambuesa Sonrisas 354 Gr","marca":"SONRISAS","presentacion":"354.0 gr","id":"7790040931305"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd538"},"nombre":"Galletitas de Vainilla Sabor Frutilla Merengadas Pack 3 Un 279 Gr","marca":"MERENGADAS","presentacion":"279.0 gr","id":"7790040932609"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd539"},"nombre":"Galletitas de Vainilla Sabor Frutilla Merengadas 93 Gr","marca":"MERENGADAS","presentacion":"93.0 gr","id":"7790040932708"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53a"},"nombre":"Galletitas Crackers Equilibrio Ser Pack 3 Un 360 Gr","marca":"SER","presentacion":"360.0 gr","id":"7790040939905"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53b"},"nombre":"Tostadas Originales Criollitas 200 Gr","marca":"CRIOLLITAS","presentacion":"200.0 gr","id":"7790040991606"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53c"},"nombre":"Tostadas Integrales de Salvado Criollitas 200 Gr","marca":"CRIOLLITAS","presentacion":"200.0 gr","id":"7790040991705"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53d"},"nombre":"Galletitas Vainilla con Caramelo de Vainilla Porteñitas 130 Gr","marca":"PORTEÑITAS","presentacion":"130.0 gr","id":"7790040994904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53e"},"nombre":"Galletitas con Salvado Fibro Active Bagley 642 Gr","marca":"BAGLEY","presentacion":"642.0 gr","id":"7790040999503"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd53f"},"nombre":"Copos de Maiz Azucarados Granix Skarchitos 500 Gr","marca":"GRANIX","presentacion":"500.0 gr","id":"7790045000624"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd540"},"nombre":"Galletitas con Avena y Pasas Frutigran Granix 250 Gr","marca":"GRANIX","presentacion":"250.0 gr","id":"7790045001188"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd541"},"nombre":"Copos de Maiz Naturales Granix 400 Gr","marca":"GRANIX","presentacion":"400.0 gr","id":"7790045001591"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd542"},"nombre":"Copos de Maiz Azucarados Granix Skarchitos 240 Gr","marca":"GRANIX","presentacion":"240.0 gr","id":"7790045001607"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd543"},"nombre":"Galletitas con Sesamo Naturalmente Granix 185 Gr","marca":"GRANIX","presentacion":"185.0 gr","id":"7790045823100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd544"},"nombre":"Galletitas con Semillas de Trigo Partido Naturalmente Granix 185 Gr","marca":"GRANIX","presentacion":"185.0 gr","id":"7790045823445"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd545"},"nombre":"Galletitas Tropical Frutigran Granix 250 Gr","marca":"GRANIX","presentacion":"250.0 gr","id":"7790045823452"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd546"},"nombre":"Galletitas con Semillas de Lino Naturalmente Granix 185 Gr","marca":"GRANIX","presentacion":"185.0 gr","id":"7790045823889"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd547"},"nombre":"Galletitas con Avena Soja y Chips de Chocolate Frutigran Granix 255 Gr","marca":"FRUTIGRAN","presentacion":"255.0 gr","id":"7790045824893"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd548"},"nombre":"Galletitas con Chia y Amaranto Naturalmente Granix 240 Gr","marca":"GRANIX","presentacion":"240.0 gr","id":"7790045825395"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd549"},"nombre":"Galletitas Vainilla con Sesamo Amaranto y Girasol Granix 260 Gr","marca":"GRANIX","presentacion":"260.0 gr","id":"7790045825401"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54a"},"nombre":"Choclo Desgranado Granja Del Sol 300 Gr","marca":"GRANJA DEL SOL","presentacion":"300.0 gr","id":"7790060007967"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54b"},"nombre":"Aceite de Oliva Puro Comestible Cocinero 1 Lt","marca":"COCINERO","presentacion":"1.0 lt","id":"7790060008889"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54c"},"nombre":"Aceite de Oliva Comestible Cocinero 500 Ml","marca":"COCINERO","presentacion":"500.0 ml","id":"7790060009329"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54d"},"nombre":"Aceite de Girasol Cocinero 1.5 Lt","marca":"COCINERO","presentacion":"1.5 lt","id":"7790060023684"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54e"},"nombre":"Algodon Estrella Clasico 75 Gr","marca":"ESTRELLA","presentacion":"75.0 gr","id":"7790064000261"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd54f"},"nombre":"Oleo Calcareo Estrella 500 Cc","marca":"ESTRELLA","presentacion":"500.0 cc","id":"7790064001046"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd550"},"nombre":"Algodon Super Estrella 200 Gr","marca":"ESTRELLA","presentacion":"200.0 gr","id":"7790064001718"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd551"},"nombre":"Algodon Discos Redondos Estrella 80 Un","marca":"ESTRELLA","presentacion":"80.0 un","id":"7790064001909"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd552"},"nombre":"Aceite de Girasol Cocinero 900 Ml","marca":"COCINERO","presentacion":"900.0 ml","id":"7790070012050"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd553"},"nombre":"Bocaditos Rebozados de Pollo Granja del Sol 400 Gr","marca":"GRANJA DEL SOL","presentacion":"400.0 gr","id":"7790070016300"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd554"},"nombre":"Milanesas de Soja Lucchetti 4 Un 290 Gr","marca":"LUCCHETTI","presentacion":"290.0 gr","id":"7790070031549"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd555"},"nombre":"Milanesas de Soja Flowpack Granja del Sol 330 Gr","marca":"GRANJA DEL SOL","presentacion":"330.0 gr","id":"7790070031808"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd556"},"nombre":"Milanesas de Soja Espinaca Flowpack Granja del Sol 330 Gr","marca":"GRANJA DEL SOL","presentacion":"330.0 gr","id":"7790070031822"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd557"},"nombre":"Milanesas de Soja Calabaza Flowpack Granja del Sol 330 Gr","marca":"GRANJA DEL SOL","presentacion":"330.0 gr","id":"7790070031839"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd558"},"nombre":"Acelga Congelada Granja Del Sol 500 Gr","marca":"GRANJA DEL SOL","presentacion":"500.0 gr","id":"7790070032669"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd559"},"nombre":"Espinaca Congelada Granja del Sol 400 Gr","marca":"GRANJA DEL SOL","presentacion":"400.0 gr","id":"7790070032676"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55a"},"nombre":"Brocoli Congelado Granja Del Sol 400 Gr","marca":"GRANJA DEL SOL","presentacion":"400.0 gr","id":"7790070032706"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55b"},"nombre":"Aceite Rocio Vegetal Clasico Aerosol Cocinero 120 Gr","marca":"COCINERO","presentacion":"120.0 gr","id":"7790070228666"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55c"},"nombre":"Pastas Rellenas Cappellettis Jamon y Queso Lucchettinis 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070317452"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55d"},"nombre":"Lucchettinis Espinaca y Queso Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070317469"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55e"},"nombre":"Lasagna Matarazzo 250 Gr","marca":"MATARAZZO","presentacion":"250.0 gr","id":"7790070317483"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd55f"},"nombre":"Fideos Tirabuzones con 3 Vegetales Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318060"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd560"},"nombre":"Fideos Mostacholes 3 Vegetales Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318077"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd561"},"nombre":"Fideos Tallarin Don Vicente 500 Gr","marca":"DON VICENTE","presentacion":"500.0 gr","id":"7790070318114"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd562"},"nombre":"Fideos Cinta Fetuccini Don Vicente 500 Gr","marca":"DON VICENTE","presentacion":"500.0 gr","id":"7790070318121"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd563"},"nombre":"Fideos Cinta Caserito Don Vicente 500 Gr","marca":"DON VICENTE","presentacion":"500.0 gr","id":"7790070318138"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd564"},"nombre":"Fideos Tirabuzones Don Vicente 500 Gr","marca":"DON VICENTE","presentacion":"500.0 gr","id":"7790070318176"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd565"},"nombre":"Fideos Spaghetti Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318282"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd566"},"nombre":"Fideos Tallarin Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318299"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd567"},"nombre":"Fideos Nido Fettucini Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318312"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd568"},"nombre":"Fideos Tirabuzones Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318329"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd569"},"nombre":"Fideos Mostacholes Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318336"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56a"},"nombre":"Fideos Coditos Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318343"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56b"},"nombre":"Fideos Moños Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070318350"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56c"},"nombre":"Fideos Mostacholes Rayado Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318596"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56d"},"nombre":"Fideos Tirabuzones Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318602"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56e"},"nombre":"Fideos Coditos Rayados Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318619"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd56f"},"nombre":"Fideos Penne Rigate Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318633"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd570"},"nombre":"Fideos Spaghetti Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318640"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd571"},"nombre":"Fideos Tallarines Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318657"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd572"},"nombre":"Fideos Nido Fettuccine Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318671"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd573"},"nombre":"Fideos Spaghetti con Espinaca Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070318756"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd574"},"nombre":"Vitina Lucchetti 540 Gr","marca":"VITINA","presentacion":"540.0 gr","id":"7790070318879"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd575"},"nombre":"Fideos Dedalitos Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790070320025"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd576"},"nombre":"Lucchettinis Multicolor Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070320100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd577"},"nombre":"Fideos Tirabuzones Fortificados Favorita 500 Gr","marca":"FAVORITA","presentacion":"500.0 gr","id":"7790070320308"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd578"},"nombre":"Polvo Bizcochuelo Vainilla Exquisita 540 Gr","marca":"EXQUISITA","presentacion":"540.0 gr","id":"7790070410139"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd579"},"nombre":"Polvo Bizcochuelo Chocolate Exquisita 540 gr","marca":"EXQUISITA","presentacion":"540.0 gr","id":"7790070410146"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57a"},"nombre":"Arroz Largo Fino en Bolsa Lucchetti 1 Kg","marca":"LUCCHETTI","presentacion":"1.0 kg","id":"7790070410603"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57b"},"nombre":"Polvo para Preparar Brownies Chocolate Exquisita 425 Gr","marca":"EXQUISITA","presentacion":"425.0 gr","id":"7790070410627"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57c"},"nombre":"Gelatina Sabor Frutilla Light Vitaminas y Zinc Exquisita 25 Gr","marca":"EXQUISITA","presentacion":"30.0 gr","id":"7790070410719"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57d"},"nombre":"Gelatina Cereza Light Vitaminas y Zinc Exquisita 30 Gr","marca":"EXQUISITA","presentacion":"30.0 gr","id":"7790070410726"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57e"},"nombre":"Gelatina Durazno Light Vitaminas y Zinc Exquisita 30 Gr","marca":"EXQUISITA","presentacion":"30.0 gr","id":"7790070410917"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd57f"},"nombre":"Postre Chocolate en Polvo Exquisita Placeres Light 65 Gr","marca":"EXQUISITA","presentacion":"80.0 gr","id":"7790070411181"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd580"},"nombre":"Postre Dulce de Leche en Polvo Exquisita Placeres Light 60 Gr","marca":"EXQUISITA","presentacion":"60.0 gr","id":"7790070411198"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd581"},"nombre":"Postre Vainilla con Vitaminas y Zinc en Polvo Exquisita 50 Gr","marca":"EXQUISITA","presentacion":"50.0 gr","id":"7790070411204"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd582"},"nombre":"Bizcocho de Arroz Dulce Crocante Gallo Snacks 100 Gr","marca":"GALLO SNACKS","presentacion":"100.0 gr","id":"7790070411358"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd583"},"nombre":"Arroz Gallo Oro 1 Kg","marca":"GALLO","presentacion":"1.0 kg","id":"7790070411716"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd584"},"nombre":"Arroz Doble Carolina Gallo 1 Kg","marca":"GALLO","presentacion":"1.0 kg","id":"7790070411723"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd585"},"nombre":"Risotto 4 Quesos Gallo 200 Gr","marca":"GALLO","presentacion":"200.0 gr","id":"7790070411754"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd586"},"nombre":"Arroz Carnaroli Risotto Primavera Gallo 200 Gr","marca":"GALLO","presentacion":"200.0 gr","id":"7790070411761"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd587"},"nombre":"Arroz Parbolizado Lucchetti 1 Kg","marca":"LUCCHETTI","presentacion":"1.0 kg","id":"7790070411815"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd588"},"nombre":"Arroz Parbolizado Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070411822"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd589"},"nombre":"Flan para Preparar Vainilla Exquisita 60 Gr","marca":"EXQUISITA","presentacion":"60.0 gr","id":"7790070412348"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58a"},"nombre":"Flan para Preparar Dulce de Leche Fortificado Exquisita 60 Gr","marca":"EXQUISITA","presentacion":"60.0 gr","id":"7790070412355"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58b"},"nombre":"Postre Vainilla con Vitaminas y Zinc en Polvo Exquisita 80 Gr","marca":"EXQUISITA","presentacion":"80.0 gr","id":"7790070412478"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58c"},"nombre":"Postre Chocolate 8 Vitaminas y Zinc en Polvo Exquisita 80 Gr","marca":"EXQUISITA","presentacion":"90.0 gr","id":"7790070412485"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58d"},"nombre":"Polvo para Mousse Chocolate Exquisita 95 Gr","marca":"EXQUISITA","presentacion":"95.0 gr","id":"7790070414113"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58e"},"nombre":"Premezcla para Pizza Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070506641"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd58f"},"nombre":"Premezcla para Ñoquis de Papa Lucchetti 400 Gr","marca":"LUCCHETTI","presentacion":"400.0 gr","id":"7790070506658"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd590"},"nombre":"Yerba Mate con Palo Ecopack Cruz de Malta 500 Gr","marca":"CRUZ DE MALTA","presentacion":"500.0 gr","id":"7790070507099"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd591"},"nombre":"Yerba Mate con Palo Ecopack Cruz de Malta 1 Kg","marca":"CRUZ DE MALTA","presentacion":"1.0 kg","id":"7790070507105"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd592"},"nombre":"Yerba Mate con Palo Ecopack Nobleza Gaucha 500 Gr","marca":"NOBLEZA GAUCHA","presentacion":"500.0 gr","id":"7790070507112"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd593"},"nombre":"Yerba Mate con Palo Ecopack Nobleza Gaucha 1 Kg","marca":"NOBLEZA GAUCHA","presentacion":"1.0 kg","id":"7790070507129"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd594"},"nombre":"Harina de Trigo 000 con Vita Zinc Favorita 1 Kg","marca":"FAVORITA","presentacion":"1.0 kg","id":"7790070507235"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd595"},"nombre":"Jugo de Limon Minerva 500 Ml","marca":"MINERVA","presentacion":"500.0 ml","id":"7790070507341"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd596"},"nombre":"Premezcla para Torta Frita Lucchetti 500 Gr","marca":"LUCCHETTI","presentacion":"500.0 gr","id":"7790070508058"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd597"},"nombre":"Cafe Instantaneo Seleccion Arlistan 170 Gr","marca":"ARLISTÁN","presentacion":"170.0 gr","id":"7790070936479"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd598"},"nombre":"Cafe Seleccion Arlistan 100 Gr","marca":"ARLISTÁN","presentacion":"100.0 gr","id":"7790070936493"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd599"},"nombre":"Tostadas Riera Light 200 Gr","marca":"RIERA","presentacion":"200.0 gr","id":"7790071070127"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59a"},"nombre":"Tostadas Clasicas Dulces Riera 200 Gr","marca":"RIERA","presentacion":"200.0 gr","id":"7790071090118"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59b"},"nombre":"Sal Fina en Paquete Celusal 500 Gr","marca":"CELUSAL","presentacion":"500.0 gr","id":"7790072001014"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59c"},"nombre":"Sal Fina en Salero Celusal 500 Gr","marca":"CELUSAL","presentacion":"500.0 gr","id":"7790072001038"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59d"},"nombre":"Sal Fina en Estuche Celusal 500 Gr","marca":"CELUSAL","presentacion":"500.0 gr","id":"7790072002080"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59e"},"nombre":"Manteca con Multivitaminas Sancor 200 Gr","marca":"SANCOR","presentacion":"200.0 gr","id":"7790080010879"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd59f"},"nombre":"Queso Untable Clasico Tholem Tentaciones 190 Gr","marca":"THOLEM","presentacion":"190.0 gr","id":"7790080026696"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a0"},"nombre":"Queso Untable Jamon Serrano Tholem Tentaciones 190 Gr","marca":"THOLEM","presentacion":"190.0 gr","id":"7790080026702"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a1"},"nombre":"Queso Untable 4 Quesos Tholem Tentaciones 190 Gr","marca":"THOLEM","presentacion":"190.0 gr","id":"7790080026726"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a2"},"nombre":"Queso Untable Original sin Sal Agregada Mendicrim 300 Gr","marca":"MENDICRIM","presentacion":"300.0 gr","id":"7790080040135"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a3"},"nombre":"Queso Untable Cremoso Mendicrim Light 300 Gr","marca":"MENDICRIM","presentacion":"300.0 gr","id":"7790080040142"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a4"},"nombre":"Flan Casero Vainilla Light Sancor Pack 2 Un 240 Gr","marca":"SANCOR","presentacion":"2.0 un","id":"7790080040296"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a5"},"nombre":"Flan Casero con Caramelo Sancor Pack 2 Un 240 Gr","marca":"SANCOR","presentacion":"2.0 un","id":"7790080040302"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a6"},"nombre":"Flan Casero con Dulce de Leche Sancor Pack 2 Un 240 Gr","marca":"SANCOR","presentacion":"240.0 gr","id":"7790080040319"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a7"},"nombre":"Postre Vainilla Shimy 120 Gr","marca":"SHIMY","presentacion":"120.0 gr","id":"7790080040876"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a8"},"nombre":"Postre Vainilla con Dulce de Leche Shimy 120 Gr","marca":"SHIMY","presentacion":"120.0 gr","id":"7790080040890"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5a9"},"nombre":"Postre Chocolate con Dulce de Leche Shimy 120 Gr","marca":"SHIMY","presentacion":"120.0 gr","id":"7790080040913"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5aa"},"nombre":"Yogur Entero Multivitamina Natural Sancor Yogs 190 Gr","marca":"YOGS","presentacion":"190.0 gr","id":"7790080065145"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ab"},"nombre":"Yogur Entero Firme Multinutrientes Vainilla Sancor Yogs 190 Gr","marca":"YOGS","presentacion":"190.0 gr","id":"7790080065169"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ac"},"nombre":"Yogur con Cereales Descremado Sancor Yogs 162 Gr","marca":"YOGS","presentacion":"162.0 gr","id":"7790080067910"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ad"},"nombre":"Vino Blanco Torrontes Etchart Privado 750 Ml","marca":"ETCHART","presentacion":"750.0 ml","id":"7790093132728"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ae"},"nombre":"Vinagre de Manzana Menoyo 500 Cc","marca":"MENOYO","presentacion":"500.0 cc","id":"7790130000027"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5af"},"nombre":"Vinagre de Alcohol Menoyo 500 Cc","marca":"MENOYO","presentacion":"500.0 cc","id":"7790130000034"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b0"},"nombre":"Vinagre de Alcohol Menoyo 1 Lt","marca":"MENOYO","presentacion":"1.0 lt","id":"7790130000058"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b1"},"nombre":"Vinagre de Vino Menoyo 500 Cc","marca":"MENOYO","presentacion":"500.0 cc","id":"7790130000065"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b2"},"nombre":"Fernet 1882 750 Cc","marca":"1882","presentacion":"750.0 cc","id":"7790139002879"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b3"},"nombre":"Cafe Molido Torrado Clasico Equilibrado La Virginia 250 Gr","marca":"LA VIRGINIA","presentacion":"250.0 gr","id":"7790150006122"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b4"},"nombre":"Cafe Molido Torrado Clasico Equilibrado La Virginia 500 Gr","marca":"LA VIRGINIA","presentacion":"500.0 gr","id":"7790150006153"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b5"},"nombre":"Cafe Cappuccino Instantaneo Tradicional Doy Pack La Virginia 125 Gr","marca":"LA VIRGINIA","presentacion":"125.0 gr","id":"7790150160701"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b6"},"nombre":"Cafe Cappuccino Instantaneo Light Doy Pack La Virginia 100 Gr","marca":"LA VIRGINIA","presentacion":"100.0 gr","id":"7790150160909"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b7"},"nombre":"La Virginia Molienda Controlada en Saquitos 25 Un","marca":"LA VIRGINIA","presentacion":"25.0 un","id":"7790150211625"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b8"},"nombre":"Te en Saquitos Mezcla de Hierbas La Virginia 25 Un","marca":"LA VIRGINIA","presentacion":"25.0 un","id":"7790150360200"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5b9"},"nombre":"Condimento para Pizza Naturalidad Intacta Alicante 50 Gr","marca":"ALICANTE","presentacion":"50.0 gr","id":"7790150490457"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ba"},"nombre":"Provenzal Deshidratado Naturalidad Intacta Alicante 50 Gr","marca":"ALICANTE","presentacion":"50.0 gr","id":"7790150570340"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5bb"},"nombre":"Miel Liquida Pote Aleluya 190 Gr","marca":"ALELUYA","presentacion":"190.0 gr","id":"7790158021509"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5bc"},"nombre":"Vino Tinto Cabernet Sauvignon Colon 750 Cc","marca":"COLON","presentacion":"750.0 cc","id":"7790168000488"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5bd"},"nombre":"Vino Tinto Malbec Colon 750 Cc","marca":"COLON","presentacion":"750.0 cc","id":"7790168114000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5be"},"nombre":"Cafe Molido Torrado Clasico Equilibrado La Morenita 250 Gr","marca":"LA MORENITA","presentacion":"250.0 gr","id":"7790170901872"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5bf"},"nombre":"Cafe Molido Torrado Clasico Equilibrado La Morenita 500 Gr","marca":"LA MORENITA","presentacion":"500.0 gr","id":"7790170901902"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c0"},"nombre":"Vino Tinto Malbec Don David 750 Ml","marca":"DON DAVID","presentacion":"750.0 ml","id":"7790189001129"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c1"},"nombre":"Vino Tinto Cabernet Sauvignon Elementos 750 Cc","marca":"ELEMENTOS","presentacion":"750.0 cc","id":"7790189021011"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c2"},"nombre":"Vino Tinto Malbec Elementos 750 Cc","marca":"ELEMENTOS","presentacion":"750.0 cc","id":"7790189021028"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c3"},"nombre":"Vino Tinto Seleccion Dorada Michel Torino 380 Cc","marca":"MICHEL TORINO","presentacion":"380.0 cc","id":"7790189041125"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c4"},"nombre":"Vino Blanco Seleccion Dorada Michel Torino 380 Ml","marca":"MICHEL TORINO","presentacion":"380.0 ml","id":"7790189041132"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c5"},"nombre":"Fideos Moños Matarazzo 500 Gr","marca":"MATARAZZO","presentacion":"500.0 gr","id":"7790230033031"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c6"},"nombre":"Raviolitos 4 Quesos La Salteña 300 Gr","marca":"LA SALTEÑA","presentacion":"300.0 gr","id":"7790236000570"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c7"},"nombre":"Tapas Pascualina de Hojaldre La Salteña 2 Un 400 Gr","marca":"LA SALTEÑA","presentacion":"400.0 gr","id":"7790236001263"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c8"},"nombre":"Tapas Pascualina Criolla La Salteña 2 Un 400 Gr","marca":"LA SALTEÑA","presentacion":"400.0 gr","id":"7790236001270"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5c9"},"nombre":"Ravioles de Queso La Salteña Linea Econo 500 Gr","marca":"LA SALTEÑA","presentacion":"500.0 gr","id":"7790236001997"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ca"},"nombre":"Ravioles de Pollo y Verdura La Salteña 500 Gr","marca":"LA SALTEÑA","presentacion":"500.0 gr","id":"7790236002000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5cb"},"nombre":"Vino Tinto Malbec Alaris Trapiche 750 Cc","marca":"TRAPICHE","presentacion":"750.0 cc","id":"7790240017045"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5cc"},"nombre":"Vino Blanco Sauvignon Blanc Trapiche 750 Ml","marca":"TRAPICHE","presentacion":"750.0 ml","id":"7790240017069"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5cd"},"nombre":"Vino Tinto Malbec Fond de Cave 750 Cc","marca":"FOND DE CAVE","presentacion":"750.0 cc","id":"7790240041460"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ce"},"nombre":"Vino Blanco Dulce Natural Trapiche Cosecha Tardia 750 Ml","marca":"BODEGA TRAPICHE","presentacion":"750.0 ml","id":"7790240041880"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5cf"},"nombre":"Vino Tinto Cabernet Sauvignon Alma Mora 750 Ml","marca":"ALMA MORA","presentacion":"750.0 ml","id":"7790240042085"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d0"},"nombre":"Vino Tinto Malbec Alma Mora 750 Ml","marca":"ALMA MORA","presentacion":"750.0 ml","id":"7790240042108"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d1"},"nombre":"Vino Tinto Malbec Reserva Trapiche 750 Cc","marca":"TRAPICHE","presentacion":"750.0 cc","id":"7790240094459"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d2"},"nombre":"Vino Tinto Cabernet Sauvignon Trapiche 750 Ml","marca":"TRAPICHE","presentacion":"750.0 ml","id":"7790240107500"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d3"},"nombre":"Vino Tinto Malbec Finca Las Moras 750 Cc","marca":"FINCA LAS MORAS","presentacion":"750.0 cc","id":"7790240128598"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d4"},"nombre":"Papel Higienico Hoja Simple Export Plus Higienol Pack 4 Un 120 Mt","marca":"HIGIENOL","presentacion":"120.0 mt","id":"7790250014904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d5"},"nombre":"Papel Higienico Max Manzanilla Higienol Pack 4 Un 320 Mt","marca":"HIGIENOL","presentacion":"320.0 mt","id":"7790250015055"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d6"},"nombre":"Papel Higienico Doble Hoja Premium Higienol Pack 4 Un 120 Mt","marca":"HIGIENOL","presentacion":"120.0 mt","id":"7790250019565"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d7"},"nombre":"Papel Higienico Doble Hoja Higienol Pack 4 Un 120 Mt","marca":"HIGIENOL","presentacion":"120.0 mt","id":"7790250019589"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d8"},"nombre":"Papel Higienico Doble Hoja Ultra Elite Pack 4 Un 120 Mt","marca":"ELITE","presentacion":"120.0 mt","id":"7790250024002"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5d9"},"nombre":"Pañuelos Descartables Box Elite 75 Un","marca":"ELITE","presentacion":"75.0 un","id":"7790250054283"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5da"},"nombre":"Pañuelos con Extracto de Seda Elite 6 Un","marca":"ELITE","presentacion":"35.0 un","id":"7790250054726"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5db"},"nombre":"Rollo Cocina Clasico 150 Paños Sussex Pack 3 Un","marca":"SUSSEX","presentacion":"3.0 un","id":"7790250056775"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5dc"},"nombre":"Rollo Cocina Ultramax 180 Paños Sussex Pack 3 Un","marca":"SUSSEX","presentacion":"3.0 un","id":"7790250056799"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5dd"},"nombre":"Galletitas Leche Forti Plus Okebon 290 Gr","marca":"OKEBON","presentacion":"290.0 gr","id":"7790263110846"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5de"},"nombre":"Galletitas Clasicas Mediatarde Pack 3 Un 330 Gr","marca":"MEDIA TARDE","presentacion":"330.0 gr","id":"7790270336307"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5df"},"nombre":"Aceite Mezcla Girasol y Oliva Blend Natura 900 Ml","marca":"NATURA","presentacion":"900.0 ml","id":"7790272000046"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e0"},"nombre":"Aceite de Maiz Mazola 900 Ml","marca":"MAZOLA","presentacion":"900.0 ml","id":"7790272000794"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e1"},"nombre":"Aceite Rocio Vegetal Girasol en Aerosol Natura 120 Cc","marca":"NATURA","presentacion":"126.0 cc","id":"7790272000831"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e2"},"nombre":"Aceite de Oliva Extra Virgen Seleccion Especial Natura 500 Ml","marca":"NATURA","presentacion":"500.0 ml","id":"7790272000961"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e3"},"nombre":"Aceite de Girasol Natura 900 Ml","marca":"NATURA","presentacion":"900.0 ml","id":"7790272001005"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e4"},"nombre":"Aceite de Girasol Natura 1.5 Lt","marca":"NATURA","presentacion":"1.5 lt","id":"7790272001029"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e5"},"nombre":"Aceite de Girasol Natura 500 Ml","marca":"NATURA","presentacion":"500.0 ml","id":"7790272001050"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e6"},"nombre":"Fernet Branca 450 Cc","marca":"BRANCA","presentacion":"450.0 cc","id":"7790290001179"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e7"},"nombre":"Fernet Branca 750 Cc","marca":"BRANCA","presentacion":"750.0 cc","id":"7790290001193"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e8"},"nombre":"Tostaditas de Harina de Trigo Jamon Twistos 112 Gr","marca":"TWISTOS","presentacion":"112.0 gr","id":"7790310003022"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5e9"},"nombre":"Tostaditas de Harina de Trigo Queso Twistos 112 Gr","marca":"TWISTOS","presentacion":"112.0 gr","id":"7790310003039"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ea"},"nombre":"Palitos Salados Pehuamar 200 Gr","marca":"PEHUAMAR","presentacion":"200.0 gr","id":"7790310004326"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5eb"},"nombre":"Palitos Salados Queso Pehuamar 200 Gr","marca":"PEHUAMAR","presentacion":"200.0 gr","id":"7790310004357"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ec"},"nombre":"Vino Tinto Malbec Merlot Estancia Mendoza 750 Cc","marca":"ESTANCIA MENDOZA","presentacion":"750.0 cc","id":"7790314055386"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ed"},"nombre":"Vino Tinto Cabernet Malbec Estancia Mendoza 750 Ml","marca":"ESTANCIA MENDOZA","presentacion":"750.0 ml","id":"7790314056598"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ee"},"nombre":"Agua Mineral sin Gas Villavicencio 2 Lt","marca":"VILLAVICENCIO","presentacion":"2.0 lt","id":"7790315000422"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ef"},"nombre":"Agua Mineral sin Gas Villavicencio 1.5 Lt","marca":"VILLAVICENCIO","presentacion":"1.5 lt","id":"7790315000439"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f0"},"nombre":"Agua Mineral sin Gas Villavicencio 500 Cc","marca":"VILLAVICENCIO","presentacion":"500.0 cc","id":"7790315000446"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f1"},"nombre":"Agua Saborizada Naranja sin Gas Levite Cero 1.5 Lt","marca":"LEVITÉ","presentacion":"1.5 lt","id":"7790315000934"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f2"},"nombre":"Agua Saborizada Pomelo sin Gas Levite Cero 2.25 Lt","marca":"LEVITÉ","presentacion":"2.25 lt","id":"7790315001047"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f3"},"nombre":"Agua Saborizada Naranja sin Gas Levite Cero 2.25 Lt","marca":"LEVITÉ","presentacion":"2.25 lt","id":"7790315001054"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f4"},"nombre":"Agua Saborizada Manzana sin Gas Levite Cero 1.5 Lt","marca":"LEVITÉ","presentacion":"1.5 lt","id":"7790315001061"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f5"},"nombre":"Agua Mineral sin Gas Bajo Sodio Ser 1.5 Lt","marca":"SER","presentacion":"1.5 lt","id":"7790315058706"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f6"},"nombre":"Hamburguesas de Carne Vacuna Clasicas Swift 4 Un","marca":"SWIFT","presentacion":"4.0 un","id":"7790360026576"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f7"},"nombre":"Medallones de Carne Clasicos Supercongelados Swift 4 Un 276 Gr","marca":"SWIFT","presentacion":"276.0 gr","id":"7790360966841"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f8"},"nombre":"Mate Cocido en Saquitos Taragui 25 Un","marca":"TARAGUÍ","presentacion":"25.0 un","id":"7790387000849"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5f9"},"nombre":"Mate Cocido en Saquitos Taragui 50 Un","marca":"TARAGUÍ","presentacion":"50.0 un","id":"7790387000856"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5fa"},"nombre":"Te en Saquitos Filtro Especial Taragui 25 Un","marca":"TARAGUÍ","presentacion":"25.0 un","id":"7790387010305"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5fb"},"nombre":"Te en Saquitos Filtro Especial Taragui 50 Un","marca":"TARAGUÍ","presentacion":"50.0 un","id":"7790387010312"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5fc"},"nombre":"Yerba Mate Bajo Contenido de Polvo Metalizado Union 500 Gr","marca":"UNIÓN","presentacion":"500.0 gr","id":"7790387014167"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5fd"},"nombre":"Yerba Mate Suave Origen Controlado Union 1 Kg","marca":"UNIÓN","presentacion":"1.0 kg","id":"7790387014310"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5fe"},"nombre":"Yerba Mate Suave Origen Controlado Union 500 Gr","marca":"UNIÓN","presentacion":"500.0 gr","id":"7790387014327"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd5ff"},"nombre":"Yerba Mate Campo Origen Controlado La Merced 500 Gr","marca":"LA MERCED","presentacion":"500.0 gr","id":"7790387015508"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd600"},"nombre":"Yerba Mate con Palo Origen Controlado Taragui 1 Kg","marca":"TARAGUÍ","presentacion":"1.0 kg","id":"7790387113310"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd601"},"nombre":"Yerba Mate con Palo Origen Controlado Taragui 500 Gr","marca":"TARAGUÍ","presentacion":"500.0 gr","id":"7790387113327"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd602"},"nombre":"Te Boldo en Saquitos Ensobrado Hierbas Silvestre Taragui 25 Un","marca":"TARAGUÍ","presentacion":"25.0 un","id":"7790387711837"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd603"},"nombre":"Baño Repostero de Chocolate Blanco Aguila 150 Gr","marca":"ÁGUILA","presentacion":"150.0 gr","id":"7790407031471"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd604"},"nombre":"Baño Repostero de Chocolate Semiamargo Aguila 150 Gr","marca":"ÁGUILA","presentacion":"150.0 gr","id":"7790407031556"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd605"},"nombre":"Baño Repostero de Chocolate con Leche Aguila 150 Gr","marca":"ÁGUILA","presentacion":"150.0 gr","id":"7790407031648"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd606"},"nombre":"Quitaesmalte Cutex Humectante Botella 100 Ml","marca":"CUTEX","presentacion":"100.0 ml","id":"7790416066433"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd607"},"nombre":"Lustramuebles Original Blem 360 Cc","marca":"BLEM","presentacion":"360.0 cc","id":"7790463000084"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd608"},"nombre":"Lustramuebles en Aerosol con Siliconas Resistentes Ceramicol 360 Cc","marca":"CERAMICOL","presentacion":"360.0 cc","id":"7790463000114"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd609"},"nombre":"Vino Tinto Cabernet Sauvignon Finca Flichman 750 Cc","marca":"FINCA FLICHMAN","presentacion":"750.0 cc","id":"7790470005904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60a"},"nombre":"Yerba Mate con Palo Trilam La Tranquera 500 Gr","marca":"LA TRANQUERA","presentacion":"500.0 gr","id":"7790480000371"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60b"},"nombre":"Yerba Mate con Palo Trilam La Tranquera 1 Kg","marca":"LA TRANQUERA","presentacion":"1.0 kg","id":"7790480000388"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60c"},"nombre":"Vino Tinto Borgoña Viñas de Alvear 1.125 Lt","marca":"VIÑAS DE ALVEAR","presentacion":"1.125 lt","id":"7790480000463"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60d"},"nombre":"Te en Saquitos Green Hills 25 Un","marca":"GREEN HILLS","presentacion":"25.0 un","id":"7790480008254"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60e"},"nombre":"Te en Saquitos Green Hills 50 Un","marca":"GREEN HILLS","presentacion":"50.0 un","id":"7790480008261"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd60f"},"nombre":"Mate Cocido en Saquitos La Tranquera 50 Un","marca":"LA TRANQUERA","presentacion":"50.0 un","id":"7790480008773"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd610"},"nombre":"Te Verde en Saquitos Green Hills 25 Un","marca":"GREEN HILLS","presentacion":"25.0 un","id":"7790480089307"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd611"},"nombre":"Limpiador Pisos Plastificados Blem 900 Cc","marca":"BLEM","presentacion":"900.0 cc","id":"7790520004321"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd612"},"nombre":"Insecticida Mata Moscas y Mosquitos Fuyi 360 Ml","marca":"FUYÍ","presentacion":"360.0 ml","id":"7790520005816"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd613"},"nombre":"Cera para Pisos Universal Blem 1 Lt","marca":"BLEM","presentacion":"1.0 lt","id":"7790520007193"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd614"},"nombre":"Cera para Pisos Roble Oscuro Blem 1 Lt","marca":"BLEM","presentacion":"1.0 lt","id":"7790520007216"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd615"},"nombre":"Repelente Family Active Aerosol Off 165 Cc","marca":"OFF","presentacion":"165.0 cc","id":"7790520009494"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd616"},"nombre":"Repelente en Aerosol Extra Duracion Off 165 Cc","marca":"OFF","presentacion":"165.0 cc","id":"7790520009500"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd617"},"nombre":"Aparato Insecticida Liquido Electrico 45 Noches Doble Accion Raid 32.9 Cc","marca":"RAID","presentacion":"119.0 cc","id":"7790520009746"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd618"},"nombre":"Antipolillas en Aerosol Raid 390 Cc","marca":"RAID","presentacion":"390.0 cc","id":"7790520009890"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd619"},"nombre":"Insecticida Casa y Jardin Aerosol Raid 390 Cc","marca":"RAID","presentacion":"390.0 cc","id":"7790520009944"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61a"},"nombre":"Tabletas contra Mosquitos Fuyi Doble Accion 16 Noches 16 Un","marca":"FUYÍ","presentacion":"16.0 un","id":"7790520010049"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61b"},"nombre":"Limpiador Continuo Repuesto Original Lysoform 50 Ml","marca":"LYSOFORM","presentacion":"50.0 ml","id":"7790520010261"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61c"},"nombre":"Acondicionador Pisos Clasico Echo Listo 450 Ml","marca":"ECHO","presentacion":"450.0 ml","id":"7790520010353"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61d"},"nombre":"Espiral Country Fuyi 150 Gr","marca":"FUYÍ","presentacion":"150.0 gr","id":"7790520010476"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61e"},"nombre":"Limpiadores color Rojo Ceramicol Quick 900 Cc","marca":"CERAMICOL","presentacion":"900.0 cc","id":"7790520012135"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd61f"},"nombre":"Repelente en Crema Accion Instantanea Off Familiy Active 200 Gr","marca":"OFF","presentacion":"200.0 gr","id":"7790520012173"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd620"},"nombre":"Limpiador de Cocina Mr Musculo Advance Total 450 Ml","marca":"MR MÚSCULO","presentacion":"450.0 ml","id":"7790520012432"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd621"},"nombre":"Disco Adhesivo Inodoro Campos de Lavanda Mr Musculo Glade 24.6 Gr","marca":"MR MÚSCULO","presentacion":"24.6 gr","id":"7790520013194"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd622"},"nombre":"Insecticida Cebos Sistema Exterminador Caja Raid 15.6 Gr","marca":"RAID","presentacion":"15.6 gr","id":"7790520013224"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd623"},"nombre":"Desinfectante de Ambiente Aerosol Original Lysoform 360 Cc","marca":"LYSOFORM","presentacion":"360.0 cc","id":"7790520014177"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd624"},"nombre":"Desodorante Desinfectante Aerosol Fragancia Lavanda Lysoform 360 Cc","marca":"LYSOFORM","presentacion":"360.0 cc","id":"7790520014184"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd625"},"nombre":"Desinfectante de Ambiente en Aerosol Fragancia Bebe Lysoform 360 Cc","marca":"LYSOFORM","presentacion":"360.0 cc","id":"7790520014191"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd626"},"nombre":"Desodorante Desinfectante en Aerosol Aire de Montaña Lysoform 360 Cc","marca":"LYSOFORM","presentacion":"360.0 cc","id":"7790520014221"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd627"},"nombre":"Bloque para Mochila 4 en 1 Mr Musculo 260 Cc","marca":"MR MÚSCULO","presentacion":"260.0 cc","id":"7790520014863"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd628"},"nombre":"Limpiador Liquido Lavanda Lysoform 900 Ml","marca":"LYSOFORM","presentacion":"900.0 ml","id":"7790520016317"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd629"},"nombre":"Tabletas Mata Moscas y Mosquitos Doble Accion Raid 12 Un","marca":"RAID","presentacion":"12.0 un","id":"7790520017345"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62a"},"nombre":"Insecticida Mata Moscas y Mosquitos 5 en 1 en Aerosol Raid 360 Cc","marca":"RAID","presentacion":"360.0 cc","id":"7790520017420"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62b"},"nombre":"Insecticida Mata Moscas y Mosquitos sin Olor en Aerosol Raid 360 Cc","marca":"RAID","presentacion":"360.0 cc","id":"7790520017437"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62c"},"nombre":"Insecticida Raid Mata Cucaracha y Aranas Aerosol 360 Cc","marca":"RAID","presentacion":"360.0 cc","id":"7790520017529"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62d"},"nombre":"Limpiador Horno Aerosol Mr Musculo 360 Cc","marca":"MR MÚSCULO","presentacion":"360.0 cc","id":"7790520981967"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62e"},"nombre":"Jeringa en Gel Mata Cucarachas Raid 3 Gr","marca":"RAID","presentacion":"3.0 gr","id":"7790520986160"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd62f"},"nombre":"Limpiador Liquido Doypack Lysoform 800 Cc","marca":"LYSOFORM","presentacion":"800.0 cc","id":"7790520987440"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd630"},"nombre":"Galletas de Arroz 3 Cereales Arrocitas 101 Gr","marca":"ARROCITAS","presentacion":"101.0 gr","id":"7790538009516"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd631"},"nombre":"Galletas de Arroz con Sal Arrocitas 101 Gr","marca":"ARROCITAS","presentacion":"101.0 gr","id":"7790538009561"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd632"},"nombre":"Cafe Molido Torrado en Bolsa Cabrales 250 Gr","marca":"CABRALES","presentacion":"250.0 gr","id":"7790550000157"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd633"},"nombre":"Cafe Molido Torrado en Bolsa Cabrales 500 Gr","marca":"CABRALES","presentacion":"500.0 gr","id":"7790550000164"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd634"},"nombre":"Caramelos Masticables Sugus 150 Gr","marca":"SUGUS","presentacion":"150.0 gr","id":"7790580060602"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd635"},"nombre":"Jugo en Polvo Manzana Roja Arcor 20 Gr","marca":"ARCOR","presentacion":"20.0 gr","id":"7790580105853"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd636"},"nombre":"Jugo en Polvo Naranja Arcor 20 Gr","marca":"ARCOR","presentacion":"20.0 gr","id":"7790580105860"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd637"},"nombre":"Mix de Frutos Secos y Semillas Nutritivo Natural Break 27 Gr","marca":"ARCOR","presentacion":"27.0 gr","id":"7790580110413"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd638"},"nombre":"Caramelos Butter Toffees Originales 150 Gr","marca":"BUTTER TOFFEES","presentacion":"150.0 gr","id":"7790580151201"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd639"},"nombre":"Caramelos Chocolate Butter Toffees 150 Gr","marca":"BUTTER TOFFEES","presentacion":"150.0 gr","id":"7790580151300"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63a"},"nombre":"Gomitas Moras Mogul 150 Gr","marca":"ARCOR","presentacion":"150.0 gr","id":"7790580259402"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63b"},"nombre":"Obleas Rellenas Bañada con Chocolate con Leche Bon o Bon 30 Gr","marca":"BON O BON","presentacion":"30.0 gr","id":"7790580346515"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63c"},"nombre":"Turron de Mani Arcor 10 Un","marca":"ARCOR","presentacion":"10.0 un","id":"7790580401504"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63d"},"nombre":"Gomitas Anillos Mogul 250 Gr","marca":"ARCOR","presentacion":"250.0 gr","id":"7790580436902"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63e"},"nombre":"Caramelos Relleno Miel Arcor 150 Gr","marca":"ARCOR","presentacion":"150.0 gr","id":"7790580470005"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd63f"},"nombre":"Caramelos Menta Cristal Arcor 150 Gr","marca":"ARCOR","presentacion":"150.0 gr","id":"7790580470609"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd640"},"nombre":"Mermelada de Ciruela en Frasco Arcor 454 Gr","marca":"ARCOR","presentacion":"454.0 gr","id":"7790580509309"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd641"},"nombre":"Mermelada de Damasco Frasco Arcor 454 Gr","marca":"ARCOR","presentacion":"454.0 gr","id":"7790580509408"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd642"},"nombre":"Mermelada de Durazno Frasco Arcor 454 Gr","marca":"ARCOR","presentacion":"454.0 gr","id":"7790580509507"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd643"},"nombre":"Mermelada de Frutilla Frasco Arcor 454 Gr","marca":"ARCOR","presentacion":"454.0 gr","id":"7790580509606"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd644"},"nombre":"Mermelada de Naranja Frasco Arcor 454 Gr","marca":"ARCOR","presentacion":"454.0 gr","id":"7790580509804"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd645"},"nombre":"Mermelada de Naranja Light Frasco Arcor 390 Gr","marca":"ARCOR","presentacion":"390.0 gr","id":"7790580511609"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd646"},"nombre":"Polenta Instantanea Prestopronta 750 Gr","marca":"ARCOR","presentacion":"750.0 gr","id":"7790580538002"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd647"},"nombre":"Tomate Pelado Perita en Lata Arcor 400 Gr","marca":"ARCOR","presentacion":"400.0 gr","id":"7790580567903"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd648"},"nombre":"Gomitas Eucalipto Mogul 250 Gr","marca":"MOGUL","presentacion":"250.0 gr","id":"7790580602314"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd649"},"nombre":"Gomitas Conitos Frutales Arcor 250 Gr","marca":"ARCOR","presentacion":"250.0 gr","id":"7790580602406"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64a"},"nombre":"Polenta Instantanea Prestopronta Arcor 500 Gr","marca":"ARCOR","presentacion":"500.0 gr","id":"7790580660000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64b"},"nombre":"Galletitas Pizza Saladix 100 Gr","marca":"SALADIX","presentacion":"100.0 gr","id":"7790580697303"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64c"},"nombre":"Galletitas Jamon Saladix 100 Gr","marca":"SALADIX","presentacion":"100.0 gr","id":"7790580716707"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64d"},"nombre":"Salsa Pomarola Doypack Arcor 340 Gr","marca":"ARCOR","presentacion":"340.0 gr","id":"7790580955809"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64e"},"nombre":"Salsa Filetto Doypack Arcor 340 Gr","marca":"ARCOR","presentacion":"340.0 gr","id":"7790580956509"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd64f"},"nombre":"Salsa Pizza Doypack Arcor 340 Gr","marca":"ARCOR","presentacion":"340.0 gr","id":"7790580956707"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd650"},"nombre":"Jardinera Arcor 300 Gr","marca":"ARCOR","presentacion":"300.0 gr","id":"7790580983307"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd651"},"nombre":"Jugo en Polvo Naranja Bc 9.7 Gr","marca":"BC","presentacion":"9.7 gr","id":"7790580984113"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd652"},"nombre":"Jugo en Polvo Limonada Bc 9.3 Gr","marca":"BC","presentacion":"9.3 gr","id":"7790580984212"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd653"},"nombre":"Jugo en Polvo Nararanja Dulce Bc 9.5 Gr","marca":"BC","presentacion":"9.5 gr","id":"7790580984410"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd654"},"nombre":"Medallones de Carne Light sin TACC Paty 4 Un 320 Gr","marca":"PATY","presentacion":"320.0 gr","id":"7790670050629"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd655"},"nombre":"Hamburguesas de Carne Clasicas sin TACC Paty 4 Un 320 Gr","marca":"PATY","presentacion":"320.0 gr","id":"7790670050650"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd656"},"nombre":"Hamburguesas de Carne Clasicas sin TACC Paty 12 Un 960 Gr","marca":"PATY","presentacion":"960.0 gr","id":"7790670050667"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd657"},"nombre":"Hamburguesas de Carne Finitas Paty 2 Un 110 Gr","marca":"PATY","presentacion":"110.0 gr","id":"7790670050728"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd658"},"nombre":"Hamburguesas de Carne Vacuna Paty Express 4 Un 276 Gr","marca":"PATY","presentacion":"276.0 gr","id":"7790670050766"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd659"},"nombre":"Medallon de Carne Tipo Milanesa Paty 2 Un 200 Gr","marca":"PATY","presentacion":"180.0 gr","id":"7790670050957"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65a"},"nombre":"Vino Blanco New Age 750 Ml","marca":"NEW AGE","presentacion":"750.0 ml","id":"7790703165207"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65b"},"nombre":"Vino Tinto Borgoña Suter 750 Ml","marca":"SUTER","presentacion":"750.0 cc","id":"7790704167729"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65c"},"nombre":"Vino Blanco Dulce Natural Suter 750 Ml","marca":"SUTER","presentacion":"750.0 ml","id":"7790704169563"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65d"},"nombre":"Yerba Mate con Hierbas Serranas Cbse 500 Gr","marca":"CBSE","presentacion":"500.0 gr","id":"7790710000102"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65e"},"nombre":"Yerba Mate con Hierbas Serranas Cbse 1 Kg","marca":"CBSE","presentacion":"1.0 kg","id":"7790710000126"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd65f"},"nombre":"Yerba Mate con Palo Naranja Calidad Certificada Cbse 500 Gr","marca":"CBSE","presentacion":"500.0 gr","id":"7790710000140"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd660"},"nombre":"Leche Entera Reducida en Lactosa La Serenisima 750 Ml","marca":"LA SERENÍSIMA","presentacion":"750.0 ml","id":"7790742016249"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd661"},"nombre":"Leche Descremada Ultra Reducida en Lactosa La Serenisima 750 Ml","marca":"LA SERENÍSIMA","presentacion":"750.0 ml","id":"7790742016256"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd662"},"nombre":"Crema de Leche Light Fortificada con Vitamina A La Serenisima 200 Cc","marca":"LA SERENÍSIMA","presentacion":"200.0 cc","id":"7790742053008"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd663"},"nombre":"Dulce de Leche Repostero La Serenisima 400 Gr","marca":"LA SERENÍSIMA","presentacion":"400.0 gr","id":"7790742067005"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd664"},"nombre":"Dulce de Leche Colonial La Serenisima 250 Gr","marca":"LA SERENÍSIMA","presentacion":"250.0 gr","id":"7790742104205"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd665"},"nombre":"Leche Descremada Fortificada con Calcio y Hierro La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7790742121004"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd666"},"nombre":"Leche Entera UAT Larga Vida La Serenisima 200 Cc","marca":"LA SERENÍSIMA","presentacion":"200.0 cc","id":"7790742128201"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd667"},"nombre":"Queso Untable con Vitamina A y D La Serenisima Cremon 200 Gr","marca":"LA SERENÍSIMA","presentacion":"200.0 gr","id":"7790742131409"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd668"},"nombre":"Leche Entera UAT Larga Vida en Botella La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7790742134509"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd669"},"nombre":"Leche Descremada UAT Larga Vida La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7790742134608"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66a"},"nombre":"Manteca Untable La Serenisima Light 200 Gr","marca":"LA SERENÍSIMA","presentacion":"200.0 gr","id":"7790742135100"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66b"},"nombre":"Dulce de Leche Colonial con Calcio La Serenisima 400 Gr","marca":"LA SERENÍSIMA","presentacion":"400.0 gr","id":"7790742140609"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66c"},"nombre":"Leche Parcialmente Descremada La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7790742144102"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66d"},"nombre":"Dulce de Leche Fuente de Calcio La Serenisima 400 Gr","marca":"LA SERENÍSIMA","presentacion":"400.0 gr","id":"7790742144607"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66e"},"nombre":"Leche Descremada con Calcio La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7790742144904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd66f"},"nombre":"Queso Untable Port Salut La Serenisima Light 200 Gr","marca":"LA SERENÍSIMA","presentacion":"200.0 gr","id":"7790742145901"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd670"},"nombre":"Dulce de Leche Casanto 400 Gr","marca":"CASANTO","presentacion":"400.0 gr","id":"7790742151001"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd671"},"nombre":"Queso Untable Clasico Finlandia 200 Gr","marca":"FINLANDIA","presentacion":"200.0 gr","id":"7790742161703"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd672"},"nombre":"Queso Untable Finlandia Light 200 Gr","marca":"FINLANDIA","presentacion":"200.0 gr","id":"7790742161802"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd673"},"nombre":"Queso Untable Finlandia Light 300 Gr","marca":"FINLANDIA","presentacion":"300.0 gr","id":"7790742163509"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd674"},"nombre":"Queso Untable Finlandia 300 Gr","marca":"FINLANDIA","presentacion":"300.0 gr","id":"7790742163905"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd675"},"nombre":"Queso Untable Gruyere Finlandia Light 200 Gr","marca":"FINLANDIA","presentacion":"200.0 gr","id":"7790742166104"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd676"},"nombre":"Queso Untable Cheddar Finlandia Light 200 Gr","marca":"FINLANDIA","presentacion":"200.0 gr","id":"7790742167705"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd677"},"nombre":"Leche Entera Ultra Fitoesteroles y Omega La Serenisima Serecol 750 Ml","marca":"LA SERENÍSIMA","presentacion":"750.0 ml","id":"7790742174604"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd678"},"nombre":"Queso Untable Jamon y Parmesano Finlandia Light 200 Gr","marca":"FINLANDIA","presentacion":"200.0 gr","id":"7790742176707"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd679"},"nombre":"Dulce de Leche Fuente de Calcio Ser 400 Gr","marca":"SER","presentacion":"400.0 gr","id":"7790742187703"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67a"},"nombre":"Leche en Polvo Descremada Fortificada La Serenisima 200 Gr","marca":"LA SERENÍSIMA","presentacion":"200.0 gr","id":"7790742196606"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67b"},"nombre":"Vino Tinto Etiqueta Negra Santa Ana 750 Cc","marca":"SANTA ANA","presentacion":"750.0 cc","id":"7790762050919"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67c"},"nombre":"Vino Tinto Seleccion Especial Santa Ana 700 Cc","marca":"SANTA ANA","presentacion":"700.0 cc","id":"7790762052340"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67d"},"nombre":"Vino Blanco Seleccion Especial Santa Ana 700 Ml","marca":"SANTA ANA","presentacion":"700.0 ml","id":"7790762052357"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67e"},"nombre":"Vino Rosado Seleccion Especial Santa Ana 700 Ml","marca":"SANTA ANA","presentacion":"700.0 ml","id":"7790762052364"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd67f"},"nombre":"Toalla Femenina con Gel Buenas Noches Nosotras 8 Un","marca":"NOSOTRAS","presentacion":"8.0 un","id":"7790770002832"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd680"},"nombre":"Toalla Femenina Natural Plus con Gel Nosotras 16 Un","marca":"NOSOTRAS","presentacion":"16.0 un","id":"7790770002894"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd681"},"nombre":"Agua Mineral sin Gas Kin 500 Cc","marca":"KIN","presentacion":"500.0 cc","id":"7790895000201"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd682"},"nombre":"Coca Cola Sabor Original en Lata 354 Cc","marca":"COCA COLA","presentacion":"354.0 cc","id":"7790895000232"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd683"},"nombre":"Jugo Listo Manzana Cepita 200 Ml","marca":"CEPITA","presentacion":"200.0 ml","id":"7790895000720"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd684"},"nombre":"Jugo Listo Multifruta Cepita 200 Ml","marca":"CEPITA","presentacion":"200.0 ml","id":"7790895000737"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd685"},"nombre":"Coca Cola Sabor Original 2.25 Lt","marca":"COCA COLA","presentacion":"2.25 lt","id":"7790895000997"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd686"},"nombre":"Gaseosa Sprite 2.25 Lt","marca":"SPRITE","presentacion":"2.25 lt","id":"7790895001000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd687"},"nombre":"Gaseosa Naranja Fanta 2.25 Lt","marca":"FANTA","presentacion":"2.25 lt","id":"7790895001017"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd688"},"nombre":"Coca Cola Light Sabor Liviano 1.5 Lt","marca":"COCA COLA","presentacion":"1.5 lt","id":"7790895001451"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd689"},"nombre":"Coca Cola Light Sabor Liviano 2 Lt","marca":"COCA COLA","presentacion":"2.0 lt","id":"7790895001468"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68a"},"nombre":"Gaseosa Naranja con Vitamina C Fanta Zero 1.5 Lt","marca":"FANTA","presentacion":"1.5 lt","id":"7790895002304"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68b"},"nombre":"Gaseosa Naranja Fanta Zero 600 Cc","marca":"FANTA","presentacion":"600.0 cc","id":"7790895002342"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68c"},"nombre":"Gaseosa Naranja Zero Fanta 2.25 Lt","marca":"FANTA","presentacion":"2.25 lt","id":"7790895002601"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68d"},"nombre":"Agua Saborizada Pomelo sin Gas Aquarius 2.25 Lt","marca":"AQUARIUS","presentacion":"2.25 lt","id":"7790895003288"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68e"},"nombre":"Agua Saborizada Pera sin Gas Aquarius 2.25 Lt","marca":"AQUARIUS","presentacion":"2.25 lt","id":"7790895003295"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd68f"},"nombre":"Agua Saborizada Manzana sin Gas Aquarius 2.25 Lt","marca":"AQUARIUS","presentacion":"2.25 lt","id":"7790895003301"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd690"},"nombre":"Agua Saborizada Naranja Aquarius 2.25 Lt","marca":"AQUARIUS","presentacion":"2.25 lt","id":"7790895003325"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd691"},"nombre":"Agua Mineral sin Gas Bonaqua 500 Cc","marca":"BONAQUA","presentacion":"500.0 cc","id":"7790895003868"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd692"},"nombre":"Agua Mineral sin Gas Bonaqua 1.5 Lt","marca":"BONAQUA","presentacion":"1.5 lt","id":"7790895003875"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd693"},"nombre":"Bebida Isotonica Mountain Blast Powearde 995 Ml","marca":"POWERADE","presentacion":"995.0 ml","id":"7790895006029"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd694"},"nombre":"Bebida Isotonica Manzana Powearde 995 Ml","marca":"POWERADE","presentacion":"995.0 ml","id":"7790895006036"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd695"},"nombre":"Bebida Isotonica Frutas Tropicales Powearde 995 Ml","marca":"POWERADE","presentacion":"995.0 ml","id":"7790895006104"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd696"},"nombre":"Coca Cola 3 Lt","marca":"COCA COLA","presentacion":"3.0 lt","id":"7790895006418"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd697"},"nombre":"Gaseosa Tonica Schweppes 1.5 Lt","marca":"SCHWEPPES","presentacion":"1.5 lt","id":"7790895006715"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd698"},"nombre":"Gaseosa Naranja Crush 2.25 Lt","marca":"CRUSH","presentacion":"2.25 lt","id":"7790895006951"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd699"},"nombre":"Coca Cola Sabor Original 600 Cc","marca":"COCA COLA","presentacion":"600.0 cc","id":"7790895006968"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69a"},"nombre":"Coca Cola Light Sabor Liviano 600 Cc","marca":"COCA COLA","presentacion":"600.0 cc","id":"7790895006975"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69b"},"nombre":"Gaseosa Lima Limon Crush 2.25 Lt","marca":"CRUSH","presentacion":"2.25 lt","id":"7790895007385"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69c"},"nombre":"Gaseosa Sprite 600 Cc","marca":"SPRITE","presentacion":"600.0 cc","id":"7790895007439"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69d"},"nombre":"Agua Saborizada Pera sin Gas Aquarius 600 Cc","marca":"AQUARIUS","presentacion":"600.0 cc","id":"7790895009204"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69e"},"nombre":"Agua Saborizada Manzana sin Gas Aquarius 600 Cc","marca":"AQUARIUS","presentacion":"600.0 cc","id":"7790895009211"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd69f"},"nombre":"Agua Saborizada Pomelo sin Gas Aquarius 600 Cc","marca":"AQUARIUS","presentacion":"600.0 cc","id":"7790895009228"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a0"},"nombre":"Agua Mineral sin Gas en Bidon Kin 6 Lt","marca":"KIN","presentacion":"6.0 lt","id":"7790895009679"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a1"},"nombre":"Jugo Listo Naranja Tentacion Cepita 1 Lt","marca":"CEPITA","presentacion":"1.0 lt","id":"7790895009815"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a2"},"nombre":"Jugo Listo Manzana Cepita 1 Lt","marca":"CEPITA","presentacion":"1.0 lt","id":"7790895009853"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a3"},"nombre":"Bebida Isotonica Pomelo Zero Powerade 500 Ml","marca":"POWERADE","presentacion":"500.0 ml","id":"7790895010033"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a4"},"nombre":"Gaseosa Pomelo Schweppes Zero 1.5 Lt","marca":"SCHWEPPES","presentacion":"1.5 lt","id":"7790895010088"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a5"},"nombre":"Gaseosa Naranja Fanta Splash 600 Cc","marca":"FANTA","presentacion":"600.0 cc","id":"7790895063091"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a6"},"nombre":"Gaseosa Lima Limon Sprite 3 Lt","marca":"SPRITE","presentacion":"3.0 lt","id":"7790895064128"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a7"},"nombre":"Gaseosa Lima Limon Sprite Zero 2.25 Lt","marca":"SPRITE","presentacion":"2.25 lt","id":"7790895064166"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a8"},"nombre":"Gaseosa Lima Limon Sprite Zero 1.5 Lt","marca":"SPRITE","presentacion":"1.5 lt","id":"7790895064173"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6a9"},"nombre":"Jugo Concentrado Naranja Carioca 1.5 Lt","marca":"CARIOCA","presentacion":"1.5 lt","id":"7790895064289"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6aa"},"nombre":"Jugo Listo Naranja 1 Lt","marca":"CEPITA","presentacion":"1.0 lt","id":"7790895064333"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ab"},"nombre":"Jugo Listo Manzana Cepita 1 Lt","marca":"CEPITA","presentacion":"1.0 lt","id":"7790895064340"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ac"},"nombre":"Jugo Listo Multifruta Cepita 1 Lt","marca":"CEPITA","presentacion":"1.0 lt","id":"7790895065217"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ad"},"nombre":"Coca Cola sin Azucar 1.5 Lt","marca":"COCA COLA","presentacion":"1.5 lt","id":"7790895067556"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ae"},"nombre":"Bebida Isotonica Manzana Powerade 500 Ml","marca":"POWERADE","presentacion":"500.0 ml","id":"7790895640018"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6af"},"nombre":"Bebida Isotonica Mountain Blast Powerade 500 Ml","marca":"POWERADE","presentacion":"500.0 ml","id":"7790895640025"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b0"},"nombre":"Agua Saborizada Pera sin Gas Aquarius 1.5 Lt","marca":"AQUARIUS","presentacion":"1.5 lt","id":"7790895640476"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b1"},"nombre":"Agua Saborizada Manzana sin Gas Aquarius 1.5 Lt","marca":"AQUARIUS","presentacion":"1.5 lt","id":"7790895640483"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b2"},"nombre":"Agua Saborizada Pomelo sin Gas Aquarius 1.5 Lt","marca":"AQUARIUS","presentacion":"1.5 lt","id":"7790895640490"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b3"},"nombre":"Bebida Isotonica Frutas Tropicales Powerade 500 Ml","marca":"POWERADE","presentacion":"500.0 ml","id":"7790895641183"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b4"},"nombre":"Jugo Listo Naranja Cepita 200 Ml","marca":"CEPITA","presentacion":"200.0 ml","id":"7790895641596"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b5"},"nombre":"Jugo Naranja Tentacion Cepita 1.50 Lt","marca":"CEPITA","presentacion":"1.5 lt","id":"7790895641800"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b6"},"nombre":"Jugo Listo Manzana Multi Ades 1 L t","marca":"ADES","presentacion":"1.0 lt","id":"7790895643835"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b7"},"nombre":"Jugo de Soja Naranja Ades 1 Lt","marca":"ADES","presentacion":"1.0 lt","id":"7790895643842"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b8"},"nombre":"Jugo de Soja Natural Ades 1 Lt","marca":"ADES","presentacion":"1.0 lt","id":"7790895643859"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6b9"},"nombre":"Jugo Sabor Soja Tropic Ades 1 Lt","marca":"ADES","presentacion":"1.0 lt","id":"7790895643866"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ba"},"nombre":"Aperitivo Americano Gancia 950 Cc","marca":"GANCIA","presentacion":"950.0 cc","id":"7790950000160"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6bb"},"nombre":"Aperitivo Americano Gancia 450 Cc","marca":"GANCIA","presentacion":"450.0 cc","id":"7790950000191"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6bc"},"nombre":"Aperitivo Vodka Dr Lemon 1 Lt","marca":"DR LEMON","presentacion":"1.0 lt","id":"7790950131918"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6bd"},"nombre":"Aperitivo Amargo Pomelo Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133257"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6be"},"nombre":"Aperitivo Amargo Limon Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133271"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6bf"},"nombre":"Aperitivo Amargo Limon Terma Light 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133288"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c0"},"nombre":"Aperitivo Amargo Serrano Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133318"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c1"},"nombre":"Aperitivo Amargo Serrano Terma Light 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133325"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c2"},"nombre":"Aperitivo Amargo Cuyano Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133332"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c3"},"nombre":"Aperitivo Amargo Cuyano Terma Light 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133349"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c4"},"nombre":"Aperitivo Amargo Patagonico Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133356"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c5"},"nombre":"Aperitivo Amargo Pomelo Rosado Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133363"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c6"},"nombre":"Amargo Manzana Cero Terma 1.35 Lt","marca":"TERMA","presentacion":"1.35 lt","id":"7790950133370"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c7"},"nombre":"Aperitivo Vodka Dr Lemon 473 Cc","marca":"DR LEMON","presentacion":"473.0 cc","id":"7790950202823"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c8"},"nombre":"Alfajor Chocolate Jorgito 6 Un","marca":"JORGITO","presentacion":"155.0 gr","id":"7790957000545"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6c9"},"nombre":"Alfajor de Chocolate con Mousse Mini Jorgito 6 Un","marca":"JORGITO","presentacion":"6.0 un","id":"7790957000569"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ca"},"nombre":"Vino Blanco Semillon Chardonnay Castel 750 Ml","marca":"CASTEL","presentacion":"750.0 ml","id":"7790975000084"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6cb"},"nombre":"Vino Espumante Extra Brut Chandon 750 Ml","marca":"CHANDON","presentacion":"750.0 ml","id":"7790975000183"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6cc"},"nombre":"Vino Espumante Demi Sec Chandon 750 Ml","marca":"CHANDON","presentacion":"750.0 ml","id":"7790975000190"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6cd"},"nombre":"Vino Tinto Cabernet Sauvignon Malbec Pinot Noir Valmont 750 Ml","marca":"VALMONT","presentacion":"750.0 ml","id":"7790975000312"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ce"},"nombre":"Vino Blanco Chardonnay Latitud 33 750 Ml","marca":"LATITUD 33","presentacion":"750.0 ml","id":"7790975017471"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6cf"},"nombre":"Vino Tinto Cabernet Sauvignon Latitud 33 750 Ml","marca":"LATITUD 33","presentacion":"750.0 ml","id":"7790975017495"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d0"},"nombre":"Vino Tinto Malbec Latitud 33 750 Cc","marca":"LATITUD 33","presentacion":"750.0 cc","id":"7790975017518"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d1"},"nombre":"Sal Gruesa en Paquete Celusal 1 Kg","marca":"CELUSAL","presentacion":"1.0 kg","id":"7791004000099"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d2"},"nombre":"Bocaditos de Cereales Rellenos con Frutilla Granix 180 Gr","marca":"GRANIX","presentacion":"180.0 gr","id":"7791078022706"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d3"},"nombre":"Bocaditos de Cereales Rellenos con Avellana Granix 180 Gr","marca":"GRANIX","presentacion":"180.0 gr","id":"7791078022713"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d4"},"nombre":"Aritos de Cereales Frutales Granix 130 Gr","marca":"GRANIX","presentacion":"130.0 gr","id":"7791078022737"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d5"},"nombre":"Arroz Largo Fino 00000 en Bolsa Molinos Ala 1 Kg","marca":"MOLINOS ALA","presentacion":"1.0 kg","id":"7791120031557"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d6"},"nombre":"Detergente Liquido Ropa Fina Oscura Doypack Woolite 450 Cc","marca":"WOOLITE","presentacion":"450.0 cc","id":"7791130001250"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d7"},"nombre":"Jabon Liquido Ropa de Bebe en Doypack Woolite 450 Cc","marca":"WOOLITE","presentacion":"450.0 cc","id":"7791130001649"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d8"},"nombre":"Quita Sarro Desinfectante en Gel Harpic 500 Ml","marca":"HARPIC","presentacion":"500.0 ml","id":"7791130681384"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6d9"},"nombre":"Limpiador para Inodoros Original Harpic 500 Ml","marca":"HARPIC","presentacion":"500.0 ml","id":"7791130681391"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6da"},"nombre":"Limpiador Liquido Lavanda Procenex 900 Cc","marca":"PROCENEX","presentacion":"900.0 cc","id":"7791130683524"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6db"},"nombre":"Limpiador Liquido Original Procenex 900 Cc","marca":"PROCENEX","presentacion":"900.0 cc","id":"7791130683753"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6dc"},"nombre":"Limpiador Pisos Lavanda Procenex 1.8 Lt","marca":"PROCENEX","presentacion":"1.8 lt","id":"7791130683760"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6dd"},"nombre":"Limpiador Liquido Pisos Marina Procenex 1.8 Lt","marca":"PROCENEX","presentacion":"1.8 lt","id":"7791130683784"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6de"},"nombre":"Limpiador Liquido Pisos Limon Procenex 1.8 Lt","marca":"PROCENEX","presentacion":"1.8 lt","id":"7791130683791"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6df"},"nombre":"Vodka Skyy 750 Cc","marca":"SKYY","presentacion":"750.0 cc","id":"7791200000213"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e0"},"nombre":"Licor de Chocolate Premium Bols 700 Cc","marca":"BOLS","presentacion":"700.0 cc","id":"7791200000220"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e1"},"nombre":"Vino Tinto Malbec Seleccion Los Arboles 750 Cc","marca":"LOS ÁRBOLES","presentacion":"750.0 cc","id":"7791250000935"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e2"},"nombre":"Vino Tinto Cabernet Sauvignon Los Arboles 750 Ml","marca":"LOS ÁRBOLES","presentacion":"750.0 ml","id":"7791250000942"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e3"},"nombre":"Vino Tinto Malbec Seleccion San Telmo 750 Cc","marca":"SAN TELMO","presentacion":"750.0 cc","id":"7791250000997"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e4"},"nombre":"Whisky White Horse 750 Cc","marca":"WHITE HORSE","presentacion":"750.0 cc","id":"7791250001253"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e5"},"nombre":"Vodka Smirnoff 750 Cc","marca":"SMIRNOFF","presentacion":"750.0 cc","id":"7791250001345"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e6"},"nombre":"Vino Espumante Navarro Correas 750 Cc","marca":"NAVARRO CORREAS","presentacion":"750.0 cc","id":"7791250001529"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e7"},"nombre":"Whisky JyB 750 Cc","marca":"J\u0026B","presentacion":"750.0 cc","id":"7791250001994"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e8"},"nombre":"Limpiador Liquido Pisos Plastificados Cif 750 Cc","marca":"CIF","presentacion":"750.0 cc","id":"7791290003514"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6e9"},"nombre":"Jabon en Polvo Granby Lavado Total 800 Gr","marca":"GRANBY","presentacion":"800.0 gr","id":"7791290004603"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ea"},"nombre":"Limpiador para pisos Oxy Gel Cif 750 Cc","marca":"CIF","presentacion":"750.0 cc","id":"7791290007260"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6eb"},"nombre":"Limpiador Baño Repuesto Economico Doypack Cif 450 Ml","marca":"CIF","presentacion":"450.0 ml","id":"7791290007406"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ec"},"nombre":"Limpiador Mulituso de Vidrios Repuesto Economico Cif 450 Ml","marca":"CIF","presentacion":"450.0 ml","id":"7791290007505"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ed"},"nombre":"Cif Crema con Microparticulas 375 Gr","marca":"CIF","presentacion":"375.0 gr","id":"7791290008007"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ee"},"nombre":"Cif Crema con Microparticulas 750 Gr","marca":"CIF","presentacion":"750.0 gr","id":"7791290008441"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ef"},"nombre":"Cif Crema con Microparticulas Limon Cif 750 Gr","marca":"CIF","presentacion":"750.0 gr","id":"7791290008458"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f0"},"nombre":"Jabon Liquido Ropa Rosas y Lilas en Doypack Drive 3 Lt","marca":"DRIVE","presentacion":"3.0 lt","id":"7791290009479"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f1"},"nombre":"Jabon Liquido Ropa en Doypack Skip Perfect Results 3 Lt","marca":"SKIP","presentacion":"3.0 lt","id":"7791290010079"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f2"},"nombre":"Limpiador en Gel con Lavandina Limpieza Facil Cif Ultra Blanco 500 Ml","marca":"CIF","presentacion":"500.0 ml","id":"7791290010208"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f3"},"nombre":"Limpiador Liquido Antigrasa Nueva Formula Doypack Cif 450 Ml","marca":"CIF","presentacion":"450.0 ml","id":"7791290010222"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f4"},"nombre":"Limpiador Antigrasa Nueva Formula Gatillo Cif 500 Ml","marca":"CIF","presentacion":"500.0 ml","id":"7791290010277"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f5"},"nombre":"Suavizante para Ropa Classic Comfort 900 Cc","marca":"COMFORT","presentacion":"900.0 cc","id":"7791290010444"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f6"},"nombre":"Suavizante para Ropa Classic Vivere 900 Cc","marca":"VÍVERE","presentacion":"900.0 cc","id":"7791290010482"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f7"},"nombre":"Suavizante para Ropa Violetas Flores Vivere 900 Cc","marca":"VÍVERE","presentacion":"900.0 cc","id":"7791290010499"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f8"},"nombre":"Lavavajilla Cif Limon Active Gel Doypack 450 Ml","marca":"CIF","presentacion":"450.0 ml","id":"7791290010574"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6f9"},"nombre":"Cif Crema Ultra Blanco 750 Gr","marca":"CIF","presentacion":"750.0 gr","id":"7791290010772"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6fa"},"nombre":"Cif Crema con Lavandina Ultra Higiene 750 Gr","marca":"CIF","presentacion":"750.0 gr","id":"7791290010789"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6fb"},"nombre":"Jabon Liquido Ropa Multiaccion Doypack Ala Matic 800 Cc","marca":"ALA","presentacion":"820.0 cc","id":"7791290011496"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6fc"},"nombre":"Jabon Liquido Ropa Doypack Skip 800 Cc","marca":"SKIP","presentacion":"800.0 cc","id":"7791290011526"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6fd"},"nombre":"Jabon en Polvo Baja Espuma Multiaccion Poder Acelador Ala Matic 800 Gr","marca":"ALA","presentacion":"800.0 gr","id":"7791290011717"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6fe"},"nombre":"Jabon en Polvo Multiaccion Poder Acelerador Ala Matic 3 Kg","marca":"ALA","presentacion":"3.0 kg","id":"7791290011731"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd6ff"},"nombre":"Jabon en Polvo Alta Espuma Multiaccion Poder Acelerador Ala 800 Gr","marca":"ALA","presentacion":"800.0 gr","id":"7791290011762"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd700"},"nombre":"Jabon en Polvo con Vivere Remueve Manchas Ala 3 Kg","marca":"ALA","presentacion":"3.0 kg","id":"7791290011939"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd701"},"nombre":"Detergente Limon Cif Ultra 300 Ml","marca":"CIF","presentacion":"300.0 ml","id":"7791290012158"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd702"},"nombre":"Detergente Cremoso con Colageno Ala Plus 750 Cc","marca":"ALA","presentacion":"750.0 cc","id":"7791290012387"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd703"},"nombre":"Detergente Cremoso con Glicerina Ala Plus 750 Cc","marca":"ALA","presentacion":"750.0 cc","id":"7791290012394"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd704"},"nombre":"Detergente Cremoso con Aloe Vera Ala Plus 750 Cc","marca":"ALA","presentacion":"750.0 cc","id":"7791290012417"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd705"},"nombre":"Detergente Limon Ala Plus 750 Cc","marca":"ALA","presentacion":"750.0 cc","id":"7791290012455"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd706"},"nombre":"Detergente Cremoso con Glicerina Ala Plus 1.25 Lt","marca":"ALA","presentacion":"1.25 lt","id":"7791290012479"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd707"},"nombre":"Jabon en Polvo Baja Espuma Core Perfect Results Skip 3 Kg","marca":"SKIP","presentacion":"3.0 kg","id":"7791290012639"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd708"},"nombre":"Suavizante para Ropa Vivere 3 Lt","marca":"VÍVERE","presentacion":"3.0 lt","id":"7791290013551"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd709"},"nombre":"Suavizante para Ropa Vivere Plancha Facil 810 Ml","marca":"VÍVERE","presentacion":"810.0 ml","id":"7791290013582"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70a"},"nombre":"Jabon en polvo Baja Espuma Skip 1.5 Kg","marca":"SKIP","presentacion":"1.5 kg","id":"7791290013605"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70b"},"nombre":"Limpiavidrio y Mulituso en Gatillo Cif 500 Ml","marca":"CIF","presentacion":"500.0 ml","id":"7791290785328"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70c"},"nombre":"Desodorante Antitranspirante Aerosol Dove Men Care Clean Comfort 89 Gr","marca":"DOVE","presentacion":"89.0 gr","id":"7791293012087"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70d"},"nombre":"Fijador en Gel Lord Cheseline 150 Gr","marca":"LORD CHESELINE","presentacion":"150.0 gr","id":"7791293021270"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70e"},"nombre":"Jabon Liquido Manos Dove 220 Ml","marca":"DOVE","presentacion":"220.0 ml","id":"7791293022260"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd70f"},"nombre":"Desodorante Antitranspirante en Aerosol Rexona Hombre 150 Ml","marca":"REXONA","presentacion":"150.0 ml","id":"7791293022505"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd710"},"nombre":"Desodorante Antitranspirante en Aerosol Rexona Sensitive 90 Gr","marca":"REXONA","presentacion":"90.0 gr","id":"7791293022536"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd711"},"nombre":"Desodorante Antitranspirante en Aerosol Rexona Extra Cool 150 Ml","marca":"REXONA","presentacion":"150.0 ml","id":"7791293022581"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd712"},"nombre":"Desodorante Antitranspirante en Aerosol Rexona Invisible 150 Ml","marca":"REXONA","presentacion":"150.0 ml","id":"7791293022635"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd713"},"nombre":"Desodorante Antitranspirante en Aerosol Dove Invisible Dry 89 Gr","marca":"DOVE","presentacion":"89.0 gr","id":"7791293022819"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd714"},"nombre":"Desodorante Antitranspirante en Aerosol Rexona Antibacterial 150 Ml","marca":"REXONA","presentacion":"150.0 ml","id":"7791293025537"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd715"},"nombre":"Desodorante Dark Temptation Axe 96 Gr","marca":"AXE","presentacion":"150.0 ml","id":"7791293025797"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd716"},"nombre":"Desodorante Marina Axe 96 Gr","marca":"AXE","presentacion":"150.0 ml","id":"7791293025827"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd717"},"nombre":"Desodorante Musk Axe 96 Gr","marca":"AXE","presentacion":"150.0 ml","id":"7791293025834"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd718"},"nombre":"Desodorante Antitranspirante en Aerosol Axe Dark Temptation 90 Gr","marca":"AXE","presentacion":"90.0 gr","id":"7791293025889"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd719"},"nombre":"Desodorante Antitranspirante en Aerosol Axe Apollo 152 Ml","marca":"AXE","presentacion":"152.0 ml","id":"7791293025896"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71a"},"nombre":"Polvo Pedico Efficient Rexona 200 Gr","marca":"REXONA","presentacion":"200.0 gr","id":"7791293027760"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71b"},"nombre":"Talco Efficient Rexona 100 Gr","marca":"REXONA","presentacion":"100.0 gr","id":"7791293027777"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71c"},"nombre":"Desodorante Aerosol Black Axe 96 Gr","marca":"AXE","presentacion":"96.0 gr","id":"7791293028781"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71d"},"nombre":"Shampoo Ceramidas Sedal 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293030777"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71e"},"nombre":"Shampoo Balance Sedal 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293030807"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd71f"},"nombre":"Shampoo Restauracion Instantanea Sedal 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293030876"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd720"},"nombre":"Acondicionador Balance Sedal 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293030913"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd721"},"nombre":"Acondicionador Ceramidas Sedal 340 Ml","marca":"SEDAL","presentacion":"400.0 ml","id":"7791293030937"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd722"},"nombre":"Acondicionador Restauracion Instantanea Sedal 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293031019"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd723"},"nombre":"Shampoo Ceramidas Sedal 650 Ml","marca":"SEDAL","presentacion":"650.0 ml","id":"7791293031033"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd724"},"nombre":"Shampoo Balance Sedal 650 Ml","marca":"SEDAL","presentacion":"650.0 ml","id":"7791293031064"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd725"},"nombre":"Acondicionador Balance Sedal 650 Ml","marca":"SEDAL","presentacion":"650.0 ml","id":"7791293031149"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd726"},"nombre":"Acondicionador Ceramidas Sedal 650 Ml","marca":"SEDAL","presentacion":"650.0 ml","id":"7791293031156"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd727"},"nombre":"Jabon de Tocador Sensible Fresh Rexona Pack 3 125 Gr","marca":"REXONA","presentacion":"3.0 un","id":"7791293031989"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd728"},"nombre":"Jabon de Tocador Acqua Bamboo Fresh Rexona Pack 3 125 Gr","marca":"REXONA","presentacion":"3.0 un","id":"7791293031996"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd729"},"nombre":"Jabon de Tocador Cotton Fresh Rexona Pack 3 125 Gr","marca":"REXONA","presentacion":"3.0 un","id":"7791293032009"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72a"},"nombre":"Jabon de Tocador Nat Orchid Fresh Rexona Pack 3 125 Gr","marca":"REXONA","presentacion":"3.0 un","id":"7791293032023"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72b"},"nombre":"Desodorante Bodyspray en Aerosol Axe Black Night 150 Ml","marca":"AXE","presentacion":"150.0 ml","id":"7791293032153"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72c"},"nombre":"Acondicionador Blindaje Platinum Tresemme 400 Ml","marca":"TRESEMMÉ","presentacion":"400.0 ml","id":"7791293033969"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72d"},"nombre":"Acondicionador Sedal Bomba de Nutricion 340 Ml","marca":"SEDAL","presentacion":"340.0 ml","id":"7791293034911"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72e"},"nombre":"Queso Crema Untable Casancrem Clasico 500 Gr","marca":"CASANCREM","presentacion":"500.0 gr","id":"7791337011304"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd72f"},"nombre":"Queso Crema Untable Casancrem Light 500 Gr","marca":"CASANCREM","presentacion":"500.0 gr","id":"7791337011311"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd730"},"nombre":"Queso Crema Untable Casancrem Light 300 Gr","marca":"CASANCREM","presentacion":"300.0 gr","id":"7791337012035"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd731"},"nombre":"Flan Vainilla con Caramelo Danette en Pack 2 Un 190 Gr","marca":"DANETTE","presentacion":"190.0 gr","id":"7791337031517"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd732"},"nombre":"Yogur Vainilla Danonino Pack 2 Un 161 Gr","marca":"DANONINO","presentacion":"161.0 gr","id":"7791337094017"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd733"},"nombre":"Yogur Frutilla Danonino Pack 2 Un 161 Gr","marca":"DANONINO","presentacion":"161.0 gr","id":"7791337094024"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd734"},"nombre":"Yogur Descremado con Colchon de Frutas Arandano Granada Ser 175 Gr","marca":"SER","presentacion":"175.0 gr","id":"7791337102415"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd735"},"nombre":"Queso Crema Untable Clasico Casancrem 300 Gr","marca":"CASANCREM","presentacion":"300.0 gr","id":"7791337120204"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd736"},"nombre":"Postre Dulce de Leche Ser Pack 2 Un 220 Gr","marca":"SER","presentacion":"220.0 gr","id":"7791337303065"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd737"},"nombre":"Postre Vainilla con Rocklets Serenito 120 Gr","marca":"SERENITO","presentacion":"120.0 gr","id":"7791337304017"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd738"},"nombre":"Postre Vainilla con Bombas Crocantes Serenito 118 Gr","marca":"SERENITO","presentacion":"118.0 gr","id":"7791337409163"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd739"},"nombre":"Postre Crema Americana Danette Pack 2 Un 190 Gr","marca":"DANETTE","presentacion":"190.0 gr","id":"7791337530904"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73a"},"nombre":"Yogur Bebible Entero Vainilla Botella Yogurisimo 185 Gr","marca":"YOGURÍSIMO","presentacion":"185.0 gr","id":"7791337533318"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73b"},"nombre":"Yogur Bebible Entero Frutilla Yogurisimo 185 Gr","marca":"YOGURÍSIMO","presentacion":"185.0 gr","id":"7791337533325"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73c"},"nombre":"Yogur Entero Firme Vainilla Yogurisimo 190 Gr","marca":"YOGURÍSIMO","presentacion":"190.0 gr","id":"7791337601215"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73d"},"nombre":"Postre Chocolate con Crema La Copa Serenito 100 Gr","marca":"SERENITO","presentacion":"100.0 gr","id":"7791337603073"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73e"},"nombre":"Yogur Entero Cereales Yogurisimo 166 Gr","marca":"YOGURÍSIMO","presentacion":"166.0 gr","id":"7791337613027"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd73f"},"nombre":"Yogur Bebible Entero Vainilla Yogurisimo 1.3 Kg","marca":"YOGURÍSIMO","presentacion":"1.3 kg","id":"7791337642317"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd740"},"nombre":"Yogur Bebible Entero Frutilla Yogurisimo 1.3 Kg","marca":"YOGURÍSIMO","presentacion":"1.3 kg","id":"7791337642324"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd741"},"nombre":"Yogur Bebible Vainilla Danonino 185 Gr","marca":"DANONINO","presentacion":"185.0 gr","id":"7791337643017"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd742"},"nombre":"Yogur Bebible Frutilla Danonino 185 Gr","marca":"DANONINO","presentacion":"185.0 gr","id":"7791337643024"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd743"},"nombre":"Yogur Entero Firme Frutilla Yogurisimo 190 Gr","marca":"YOGURÍSIMO","presentacion":"190.0 gr","id":"7791337651227"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd744"},"nombre":"Flan Vainilla Fortificado Serenito en Pack 2 Un 210 Gr","marca":"SERENITO","presentacion":"210.0 gr","id":"7791337832015"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd745"},"nombre":"Yogur Descremado Firme Vainilla Ser 195 Gr","marca":"SER","presentacion":"195.0 gr","id":"7791337910416"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd746"},"nombre":"Yogur Descremado Firme Frutilla Ser 195 Gr","marca":"SER","presentacion":"195.0 gr","id":"7791337910423"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd747"},"nombre":"Flan Vainilla Ser en Pack 2 Un 95 Gr","marca":"SER","presentacion":"190.0 gr","id":"7791337915817"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd748"},"nombre":"Postre Chocolate Ser Pack 2 Un 100 Gr","marca":"SER","presentacion":"200.0 gr","id":"7791337930377"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd749"},"nombre":"Yogur Bebible Descremado Multifruta Ser 185 Gr","marca":"SER","presentacion":"185.0 gr","id":"7791337933286"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74a"},"nombre":"Alimento Lacteo Bebible Frutilla Actimel 6 Un 100 Gr","marca":"ACTIMEL","presentacion":"600.0 gr","id":"7791337957428"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74b"},"nombre":"Yogur Bebible Vainilla Tetra Yogurisimo 1 Kg","marca":"YOGURÍSIMO","presentacion":"1.0 kg","id":"7791337965614"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74c"},"nombre":"Yogur Bebible Entero Frutilla Yogurisimo 1 Lt","marca":"YOGURÍSIMO","presentacion":"1.0 lt","id":"7791337965621"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74d"},"nombre":"Yogur Descremado Batido Calcio Frutilla Vitamina Ser Pack 2 Un 120 Gr","marca":"SER","presentacion":"240.0 gr","id":"7791337990128"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74e"},"nombre":"Yogur Descremado Batido Durazno Calcio Ser Pack 2 Un 120 Gr","marca":"SER","presentacion":"240.0 gr","id":"7791337990142"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd74f"},"nombre":"Leche Chocolatada Cindor 1 Lt","marca":"CINDOR","presentacion":"1.0 lt","id":"7791337991071"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd750"},"nombre":"Yogur Bebible Vainilla Tetra Ser 1 Kg","marca":"SER","presentacion":"1.0 kg","id":"7791337992610"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd751"},"nombre":"Yogur Descremado con Cereales y Miel Ser 165 Gr","marca":"SER","presentacion":"165.0 gr","id":"7791337993235"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd752"},"nombre":"Vino Tinto Hereford 750 Ml","marca":"HEREFORD","presentacion":"750.0 ml","id":"7791540035302"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd753"},"nombre":"Vino Blanco Hereford 750 Ml","marca":"HEREFORD","presentacion":"750.0 ml","id":"7791540035319"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd754"},"nombre":"Vino Espumante Blue Evolution Frizze 750 Ml","marca":"FRIZEE","presentacion":"750.0 ml","id":"7791540042706"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd755"},"nombre":"Vino Tinto Vainilla 1 Dada 750 Cc","marca":"DADA","presentacion":"750.0 cc","id":"7791540044502"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd756"},"nombre":"Vino Tinto Dada 3 Finca Las Moras 750 Ml","marca":"FINCA LAS MORAS","presentacion":"750.0 ml","id":"7791540044526"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd757"},"nombre":"Vino Espumante Blanco Frizze Classic 750 Ml","marca":"FRIZEE","presentacion":"750.0 ml","id":"7791540045011"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd758"},"nombre":"Vino Tinto Varietal Termidor 1 Lt","marca":"TERMIDOR","presentacion":"1.0 lt","id":"7791540045042"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd759"},"nombre":"Vino Tinto Cabernet Dada Art 750 Cc","marca":"DADA","presentacion":"750.0 cc","id":"7791540047855"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75a"},"nombre":"Vino Tinto Malbec Dada Art 750 Cc","marca":"DADA","presentacion":"750.0 cc","id":"7791540047862"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75b"},"nombre":"Vodka Hiram Walker 1 Lt","marca":"HIRAM WALKER","presentacion":"1.0 lt","id":"7791560000441"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75c"},"nombre":"Margarina Clasica Danica 200 Gr","marca":"DÁNICA","presentacion":"200.0 gr","id":"7791620009803"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75d"},"nombre":"Aceitunas Verdes Clasicas Doypack Castell 180 Gr","marca":"CASTELL","presentacion":"180.0 gr","id":"7791675000503"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75e"},"nombre":"Aceitunas Verdes Descarozadas en Doypack Castell 150 Gr","marca":"CASTELL","presentacion":"150.0 gr","id":"7791675303000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd75f"},"nombre":"Aceitunas Verdes Rellenas en Doy Pack Castell 180 Gr","marca":"CASTELL","presentacion":"180.0 gr","id":"7791675304007"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd760"},"nombre":"Aceitunas Verdes Clasicas Doy Pack Castell 100 Gr","marca":"CASTELL","presentacion":"100.0 gr","id":"7791675350011"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd761"},"nombre":"Vino Blanco Chenin Dulce Natural Santa Julia 750 Ml","marca":"SANTA JULIA","presentacion":"750.0 ml","id":"7791728000115"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd762"},"nombre":"Vino Tinto Malbec Santa Julia 750 Cc","marca":"SANTA JULIA","presentacion":"750.0 cc","id":"7791728000160"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd763"},"nombre":"Gaseosa Pepsi 500 Cc","marca":"PEPSI","presentacion":"500.0 cc","id":"7791813420118"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd764"},"nombre":"Gaseosa Pepsi 1.5 Lt","marca":"PEPSI","presentacion":"1.5 lt","id":"7791813421115"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd765"},"nombre":"Gaseosa Cola Pepsi Light 1.5 Lt","marca":"PEPSI","presentacion":"1.5 lt","id":"7791813421351"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd766"},"nombre":"Gaseosa Pomelo Light Paso de los Toros 1.5 Lt","marca":"PASO DE LOS TOROS","presentacion":"1.5 lt","id":"7791813421412"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd767"},"nombre":"Gaseosa Lima Limon 7 Up 1.5 Lt","marca":"7 UP","presentacion":"1.5 lt","id":"7791813421528"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd768"},"nombre":"Agua Saborizada Citrus con Gas H2Oh! 1.5 Lt","marca":"H2OH!","presentacion":"1.5 lt","id":"7791813421603"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd769"},"nombre":"Agua Saborizada Limoneto con Gas H2Oh! 1.5 Lt","marca":"H2OH!","presentacion":"1.5 lt","id":"7791813421917"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76a"},"nombre":"Gaseosa Pepsi 2.25 Lt","marca":"PEPSI","presentacion":"2.25 lt","id":"7791813423119"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76b"},"nombre":"Gaseosa Pepsi Light 2.25 Lt","marca":"PEPSI","presentacion":"2.25 lt","id":"7791813423355"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76c"},"nombre":"Gaseosa Lima Limon 7 Up 2.25 Lt","marca":"7 UP","presentacion":"2.25 lt","id":"7791813423522"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76d"},"nombre":"Agua Saborizada Citrus con Gas H2Oh! 2.25 Lt","marca":"H2OH!","presentacion":"2.25 lt","id":"7791813423591"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76e"},"nombre":"Ketchup Natura 250 Gr","marca":"NATURA","presentacion":"250.0 gr","id":"7791866000381"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd76f"},"nombre":"Mayonesa Doypack Natura 237 Gr","marca":"NATURA","presentacion":"237.0 gr","id":"7791866001203"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd770"},"nombre":"Mayonesa Doypack Natura 950 Gr","marca":"NATURA","presentacion":"950.0 gr","id":"7791866001357"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd771"},"nombre":"Mayonesa Doypack Natura 500 Ml","marca":"NATURA","presentacion":"500.0 ml","id":"7791866001364"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd772"},"nombre":"Mayonesa con Aceite de Oliva Mayoliva 227 Gr","marca":"MAYOLIVA","presentacion":"237.0 gr","id":"7791866003283"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd773"},"nombre":"Mostaza Doypack Natura 250 Gr","marca":"NATURA","presentacion":"250.0 gr","id":"7791866004211"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd774"},"nombre":"Desodorante Antitranspirante en Aerosol Nivea Silver Sensitive 150 Cc","marca":"NIVEA","presentacion":"150.0 cc","id":"7791969029807"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd775"},"nombre":"Aceitunas Verdes Descarozadas en Salmuera Nucete 190 Gr","marca":"NUCETE","presentacion":"190.0 gr","id":"7792070001065"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd776"},"nombre":"Aceitunas Verdes Descarozadas en Salmuera Nucete 150 Gr","marca":"NUCETE","presentacion":"150.0 gr","id":"7792070001102"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd777"},"nombre":"Aceitunas Verdes Rellenas con Morron en Salmuera Nucete 300 Gr","marca":"NUCETE","presentacion":"300.0 gr","id":"7792070001126"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd778"},"nombre":"Cuadritos de Avena Quaker 300 Gr","marca":"QUAKER","presentacion":"300.0 gr","id":"7792170000975"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd779"},"nombre":"Polenta Instantanea Magica Quaker 500 Gr","marca":"QUAKER","presentacion":"500.0 gr","id":"7792170007196"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77a"},"nombre":"Bebida Isotonica Manzana Gatorade 500 Ml","marca":"GATORADE","presentacion":"500.0 ml","id":"7792170042005"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77b"},"nombre":"Bebida Isotonica Naranja Gatorade 500 Ml","marca":"GATORADE","presentacion":"500.0 ml","id":"7792170042012"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77c"},"nombre":"Bebida Isotonica Cool Blue Gatorade 500 Ml","marca":"GATORADE","presentacion":"500.0 ml","id":"7792170042258"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77d"},"nombre":"Bebida Isotonica Manzana Gatorade 750 Cc","marca":"GATORADE","presentacion":"750.0 cc","id":"7792170052271"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77e"},"nombre":"Cuadritos de Avena Rellenos con Miel y Nuez Quaker 200 Gr","marca":"QUAKER","presentacion":"200.0 gr","id":"7792170063215"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd77f"},"nombre":"Bebida Isotonica Naranja Gatorade 1.25 Lt","marca":"GATORADE","presentacion":"1.25 lt","id":"7792170110551"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd780"},"nombre":"Bebida Isotonica Manzana Gatorade 1.25 Lt","marca":"GATORADE","presentacion":"1.25 lt","id":"7792170110575"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd781"},"nombre":"Bebida Isotonica Cool Blue Gatorade 1.25 Lt","marca":"GATORADE","presentacion":"1.25 lt","id":"7792170110704"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd782"},"nombre":"Harina de Trigo 000 Cañuelas 1 Kg","marca":"CAÑUELAS","presentacion":"1.0 kg","id":"7792180001528"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd783"},"nombre":"Aceite de Girasol Cañuelas 900 Cc","marca":"CAÑUELAS","presentacion":"900.0 cc","id":"7792180001641"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd784"},"nombre":"Aceite de Girasol Cañuelas 1.5 Lt","marca":"CAÑUELAS","presentacion":"1.5 lt","id":"7792180001665"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd785"},"nombre":"Harina con Levadura Pizza Pureza 1 Kg","marca":"PUREZA","presentacion":"1.0 kg","id":"7792180004567"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd786"},"nombre":"Harina de Trigo 0000 Ultra Refinada Pureza 1 Kg","marca":"PUREZA","presentacion":"1.0 kg","id":"7792180004871"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd787"},"nombre":"Harina Leudante Ultrarefinada Pureza 1 Kg","marca":"PUREZA","presentacion":"1.0 kg","id":"7792180004888"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd788"},"nombre":"Harina con Levadura para Pan Casero Pureza 1 Kg","marca":"PUREZA","presentacion":"1.0 kg","id":"7792180004901"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd789"},"nombre":"Premezcla para Pizza con Levadura Pureza 550 Gr","marca":"PUREZA","presentacion":"550.0 gr","id":"7792180005113"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78a"},"nombre":"Bizcochitos Agridulces 9 de Oro 200 Gr","marca":"9 DE ORO","presentacion":"200.0 gr","id":"7792200000128"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78b"},"nombre":"Bizcochitos Clasicas 9 de Oro 200 Gr","marca":"9 DE ORO","presentacion":"200.0 gr","id":"7792200000159"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78c"},"nombre":"Bizcochos Azucarados 9 de Oro 210 Gr","marca":"9 DE ORO","presentacion":"210.0 gr","id":"7792200000319"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78d"},"nombre":"Bizcochitos Light 9 de Oro 170 Gr","marca":"9 DE ORO","presentacion":"170.0 gr","id":"7792200000777"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78e"},"nombre":"Galletitas Sconcitos 9 de Oro 200 Gr","marca":"9 DE ORO","presentacion":"200.0 gr","id":"7792200000791"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd78f"},"nombre":"Te Amarillo en Saquitos Ensobrados Cachamai 20 Un","marca":"CACHAMAI","presentacion":"20.0 un","id":"7792280000339"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd790"},"nombre":"Vino Tinto Cosecha Tardia Bodega Norton 750 Cc","marca":"NORTON","presentacion":"750.0 cc","id":"7792319002976"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd791"},"nombre":"Vino Rosado Cosecha Tardia Norton 750 Cc","marca":"NORTON","presentacion":"750.0 cc","id":"7792319003072"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd792"},"nombre":"Vino Cosecha Tardia Norton 750 Ml","marca":"NORTON","presentacion":"750.0 ml","id":"7792319064073"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd793"},"nombre":"Vino Tinto Clasico Bodega Norton 750 Cc","marca":"NORTON","presentacion":"750.0 cc","id":"7792319065254"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd794"},"nombre":"Cafe en Saquitos Bonafide Sensaciones 100 Gr","marca":"BONAFIDE","presentacion":"100.0 gr","id":"7792360070153"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd795"},"nombre":"Capellettis Relleno Carne con Vitamina E Giacomo Capelettini 500 Gr","marca":"GIACOMO","presentacion":"500.0 gr","id":"7792390620021"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd796"},"nombre":"Capellettis Relleno Verdura con Vitamina E Giacomo Capelettini 500 Gr","marca":"GIACOMO","presentacion":"500.0 gr","id":"7792390620120"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd797"},"nombre":"Capellettis Tridicci con Vitaminia E Giacomo Capelettini 500 Gr","marca":"GIACOMO","presentacion":"500.0 gr","id":"7792390620328"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd798"},"nombre":"Licor de Huevo Cusenier 700 Cc","marca":"CUSENIER","presentacion":"700.0 cc","id":"7792410008051"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd799"},"nombre":"Licor de Chocolate Cusenier 700 Cc","marca":"CUSENIER","presentacion":"700.0 cc","id":"7792410008105"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79a"},"nombre":"Licor de Cafe al Cognac Cusenier 700 Cc","marca":"CUSENIER","presentacion":"700.0 cc","id":"7792410008365"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79b"},"nombre":"Aperitivo Granadina Cusenier 750 Ml","marca":"CUSENIER","presentacion":"750.0 ml","id":"7792410128803"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79c"},"nombre":"Yerba Mate Campo Amanda 1 Kg","marca":"AMANDA","presentacion":"1.0 kg","id":"7792710000243"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79d"},"nombre":"Cerveza Rubia Iguana 970 Cc","marca":"IGUANA","presentacion":"970.0 cc","id":"7792798000708"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79e"},"nombre":"Cerveza Rubia Stella Artois 970 Cc","marca":"STELLA ARTOIS","presentacion":"970.0 cc","id":"7792798006199"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd79f"},"nombre":"Cerveza Rubia Patagonia Amber Lager 740 Cc","marca":"PATAGONIA","presentacion":"740.0 cc","id":"7792798007158"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a0"},"nombre":"Cerveza Rubia Cristal Quilmes 1 Lt","marca":"QUILMES","presentacion":"1.0 lt","id":"7792798007387"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a1"},"nombre":"Cerveza Negra Quilmes Stout 1 Lt","marca":"QUILMES","presentacion":"1.0 lt","id":"7792798007400"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a2"},"nombre":"Cerveza Rubia Bajo Cero Quilmes 1 Lt","marca":"QUILMES","presentacion":"1.0 lt","id":"7792798007424"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a3"},"nombre":"Cerveza Rubia Chopp Brahma 1 Lt","marca":"BRAHMA","presentacion":"1.0 lt","id":"7792798007493"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a4"},"nombre":"Cerveza Rubia Quilmes 1890 1 Lt","marca":"QUILMES","presentacion":"1.0 lt","id":"7792798007738"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a5"},"nombre":"Cerveza Rubia Quilmes Cristal 340 Cc","marca":"QUILMES","presentacion":"330.0 cc","id":"7792798011087"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a6"},"nombre":"Cerveza Rubia en Lata Quilmes 473 Cc 6 Un","marca":"QUILMES","presentacion":"473.0 cc","id":"7792798012947"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a7"},"nombre":"Agua Mineral sin Gas Eco de Los Andes 500 Cc","marca":"ECO DE LOS ANDES","presentacion":"500.0 cc","id":"7792799000011"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a8"},"nombre":"Agua Mineral sin Gas en Bidon Nestle 6.3 Lt","marca":"NESTLÉ","presentacion":"6.3 lt","id":"7792799001032"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7a9"},"nombre":"Sal con Hierbas en Salero Dos Anclas 200 Gr","marca":"DOS ANCLAS","presentacion":"200.0 gr","id":"7792900000053"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7aa"},"nombre":"Sal Gruesa en Estuche Dos Anclas 1 Kg","marca":"DOS ANCLAS","presentacion":"1.0 kg","id":"7792900000121"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ab"},"nombre":"Sal Fina en Estuche Dos Anclas 500 Gr","marca":"DOS ANCLAS","presentacion":"500.0 gr","id":"7792900000138"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ac"},"nombre":"Sal Fina en Paquete Dos Anclas 500 Gr","marca":"DOS ANCLAS","presentacion":"500.0 gr","id":"7792900000206"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ad"},"nombre":"Sal Gruesa en Paquete Dos Anclas 1 Kg","marca":"DOS ANCLAS","presentacion":"1.0 kg","id":"7792900006949"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ae"},"nombre":"Oregano Dos Anclas 25 Gr","marca":"DOS ANCLAS","presentacion":"25.0 gr","id":"7792900009001"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7af"},"nombre":"Pimienta Blanca Molida Dos Anclas 25 Gr","marca":"DOS ANCLAS","presentacion":"25.0 gr","id":"7792900009025"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b0"},"nombre":"Aji Molido Dos Anclas 50 Gr","marca":"DOS ANCLAS","presentacion":"50.0 gr","id":"7792900009063"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b1"},"nombre":"Sal Fina Light en Estuche Dos Anclas 500 Gr","marca":"DOS ANCLAS","presentacion":"500.0 gr","id":"7792900009124"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b2"},"nombre":"Ajo Deshidratado Dos Anclas 25 Gr","marca":"DOS ANCLAS","presentacion":"25.0 gr","id":"7792900009292"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b3"},"nombre":"Canela Molida Dos Anclas 30 Gr","marca":"DOS ANCLAS","presentacion":"30.0 gr","id":"7792900009346"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b4"},"nombre":"Azucar Impalpable Dos Anclas 250 Gr","marca":"DOS ANCLAS","presentacion":"250.0 gr","id":"7792900092898"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b5"},"nombre":"Agua Mineralizada sin Gas Glaciar 1.5 Lt","marca":"GLACIAR","presentacion":"1.5 lt","id":"7792931000022"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b6"},"nombre":"Agua Mineralizada sin Gas Glaciar 2 Lt","marca":"GLACIAR","presentacion":"2.0 lt","id":"7792931000039"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b7"},"nombre":"Crema Dental Interdental Colgate 180 Gr","marca":"COLGATE","presentacion":"180.0 gr","id":"7793100111563"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b8"},"nombre":"Crema Dental Interdental Colgate 90 Gr","marca":"COLGATE","presentacion":"90.0 gr","id":"7793100111570"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7b9"},"nombre":"Crema Dental Accion Xtreme Colgate 90 Gr","marca":"COLGATE","presentacion":"90.0 gr","id":"7793100111877"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ba"},"nombre":"Crema Dental Accion Xtreme Colgate 180 Gr","marca":"COLGATE","presentacion":"180.0 gr","id":"7793100111884"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7bb"},"nombre":"Crema Dental Ultra Blanco Colgate 90 Gr","marca":"COLGATE","presentacion":"90.0 gr","id":"7793100111891"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7bc"},"nombre":"Crema Dental Brillante Herbal Colgate 90 Gr","marca":"COLGATE","presentacion":"90.0 gr","id":"7793100111914"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7bd"},"nombre":"Crema Dental Original Noc 10 50 Gr","marca":"NOC 10","presentacion":"50.0 gr","id":"7793100130120"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7be"},"nombre":"Cerveza Rubia Retornable Heineken 1 Lt","marca":"HEINEKEN","presentacion":"1.0 lt","id":"7793147000899"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7bf"},"nombre":"Cerveza Rubia Lager Imperial 1 Lt","marca":"IMPERIAL","presentacion":"1.0 lt","id":"7793147000981"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c0"},"nombre":"Cerveza Rubia Retornable Schneider 1 Lt","marca":"SCHNEIDER","presentacion":"1.0 lt","id":"7793147001025"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c1"},"nombre":"Cerveza Rubia Retornable Budweiser 1 Lt","marca":"BUDWEISER","presentacion":"1.0 lt","id":"7793147001056"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c2"},"nombre":"Cerveza Rubia en Lata Schneider 473 Cc","marca":"SCHNEIDER","presentacion":"473.0 cc","id":"7793147118860"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c3"},"nombre":"Cerveza Rubia en Lata Schneider 473 Cc 6 Un","marca":"SCHNEIDER","presentacion":"473.0 cc","id":"7793147118884"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c4"},"nombre":"Cerveza Rubia Miller Genuine Draft 1 Lt","marca":"MILLER","presentacion":"1.0 lt","id":"7793147570088"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c5"},"nombre":"Quitamanchas Efecto Espuma en Doypack Trenet Oxi 400 Cc","marca":"TRENET","presentacion":"400.0 cc","id":"7793253001186"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c6"},"nombre":"Quitamanchas Efecto Espuma en Doypack Trenet Oxi 400 Cc","marca":"TRENET","presentacion":"400.0 cc","id":"7793253001209"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c7"},"nombre":"Lavandina Multisuperficies Original Ayudin 1 Lt","marca":"AYUDÍN","presentacion":"1.0 lt","id":"7793253001353"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c8"},"nombre":"Lavandina Multisuperficies Original Ayudin 2 Lt","marca":"AYUDÍN","presentacion":"2.0 lt","id":"7793253001360"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7c9"},"nombre":"Lavandina Multisuperficies Lavanda Ayudin 1 Lt","marca":"AYUDÍN","presentacion":"1.0 lt","id":"7793253001377"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ca"},"nombre":"Lavandina Multisuperficies Lavanda Ayudin 2 Lt","marca":"AYUDÍN","presentacion":"2.0 lt","id":"7793253001384"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7cb"},"nombre":"Lavandina Pureza Glaciar Ayudin 2 Lt","marca":"AYUDÍN","presentacion":"2.0 lt","id":"7793253001414"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7cc"},"nombre":"Prelavado de Coleres Vivos Doypack Ayudin 470 Cc","marca":"AYUDÍN","presentacion":"470.0 cc","id":"7793253002329"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7cd"},"nombre":"Pastilla Inodoro Canasta Ayudin 16 Gr","marca":"AYUDÍN","presentacion":"16.0 gr","id":"7793253300081"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ce"},"nombre":"Tomate Pelado Perita en Lata La Campagnola 400 Gr","marca":"LA CAMPAGNOLA","presentacion":"400.0 gr","id":"7793360000089"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7cf"},"nombre":"Pure de Tomate Tetrabrik Salsati La Campagnola 520 Gr","marca":"LA CAMPAGNOLA","presentacion":"520.0 gr","id":"7793360000157"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d0"},"nombre":"Mayonesa Light Doypack BC La Campagnola 500 Gr","marca":"BC","presentacion":"475.0 gr","id":"7793360674105"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d1"},"nombre":"Mermelada de Durazno Frasco La Campagnola 454 Gr","marca":"LA CAMPAGNOLA","presentacion":"454.0 gr","id":"7793360800009"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d2"},"nombre":"Mermelada de Frutilla La Campagnola 454 Gr","marca":"LA CAMPAGNOLA","presentacion":"454.0 gr","id":"7793360800900"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d3"},"nombre":"Mermelada de Ciruela Frasco La Campagnola 454 Gr","marca":"LA CAMPAGNOLA","presentacion":"454.0 gr","id":"7793360801709"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d4"},"nombre":"Mermelada de Naranja Frasco La Campagnola 454 Gr","marca":"LA CAMPAGNOLA","presentacion":"454.0 gr","id":"7793360802300"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d5"},"nombre":"Mermelada de Frambuesa Frasco La Campagnola 454 Gr","marca":"LA CAMPAGNOLA","presentacion":"454.0 gr","id":"7793360805707"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d6"},"nombre":"Mermelada de Durazno Diet BC La Campagnola 390 Gr","marca":"LA CAMPAGNOLA","presentacion":"390.0 gr","id":"7793360811401"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d7"},"nombre":"Mermelada de Frutilla BC La Campagnola 390 Gr","marca":"LA CAMPAGNOLA","presentacion":"390.0 gr","id":"7793360812101"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d8"},"nombre":"Mermelada de Ciruela Diet BC La Campagnola 390 Gr","marca":"LA CAMPAGNOLA","presentacion":"390.0 gr","id":"7793360815003"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7d9"},"nombre":"Mermelada de Naranja Diet BC La Campagnola 390 Gr","marca":"LA CAMPAGNOLA","presentacion":"390.0 gr","id":"7793360815201"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7da"},"nombre":"Mermelada de Damasco Diet BC La Campagnola 390 G","marca":"LA CAMPAGNOLA","presentacion":"390.0 gr","id":"7793360816505"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7db"},"nombre":"Sal Fina Modificada 66% Menos de Sodio Genser 90 Gr","marca":"GENSER","presentacion":"90.0 gr","id":"7793433000480"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7dc"},"nombre":"Sal Fina Modificada 66% Menos de Sodio Genser 300 Gr","marca":"GENSER","presentacion":"300.0 gr","id":"7793433000497"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7dd"},"nombre":"Vino Tinto Malbec Nieto Senetiner 750 Cc","marca":"NIETO SANETINER","presentacion":"750.0 cc","id":"7793440000046"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7de"},"nombre":"Vino Tinto Malbec Emilia Nieto Senetiner 750 Cc","marca":"NIETO SANETINER","presentacion":"750.0 cc","id":"7793440000305"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7df"},"nombre":"Vino Rosado Dulce Coleccion Tardia Benjamin 750 Ml","marca":"BENJAMÍN","presentacion":"750.0 ml","id":"7793440001104"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e0"},"nombre":"Vino Tinto Cabernet Sauvignon Emilia Nieto Senetiner 750 Cc","marca":"NIETO SANETINER","presentacion":"750.0 cc","id":"7793440002316"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e1"},"nombre":"Vino Blanco Chardonnay Benjamin 750 Ml","marca":"BENJAMÍN","presentacion":"750.0 ml","id":"7793440702926"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e2"},"nombre":"Vino Tinto Malbec Benjamin Nieto Senetiner 750 Cc","marca":"NIETO SANETINER","presentacion":"750.0 cc","id":"7793440702940"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e3"},"nombre":"Vino Tinto Cabernet Sauvignon Nieto Senetiner Benjamin 750 Ml","marca":"NIETO SANETINER","presentacion":"750.0 ml","id":"7793440702964"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e4"},"nombre":"Toalla Femenina Nocturna con Alas Kotex 8 Un","marca":"KOTEX","presentacion":"8.0 un","id":"7793620003232"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e5"},"nombre":"Toalla Femenina Normal con Alas Kotex 16 Un","marca":"KOTEX","presentacion":"16.0 un","id":"7793620003256"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e6"},"nombre":"Toalla Femenina Normal con Alas Kotex 32 Un","marca":"KOTEX","presentacion":"32.0 un","id":"7793620003263"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e7"},"nombre":"Protectores Diarios Classic S Perf Kotex 60 Un","marca":"KOTEX","presentacion":"60.0 un","id":"7793620003522"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e8"},"nombre":"Protectores Diarios Multiforma sin Perfume Kotex 60 Un","marca":"KOTEX","presentacion":"60.0 un","id":"7793620003553"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7e9"},"nombre":"Yerba Mate con Palo Playadito 1 Kg","marca":"PLAYADITO","presentacion":"1.0 kg","id":"7793704000225"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ea"},"nombre":"Yerba Mate con Palo Playadito 500 Gr","marca":"PLAYADITO","presentacion":"500.0 gr","id":"7793704000232"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7eb"},"nombre":"Pan para Panchos Lactal 210 Gr","marca":"LACTAL","presentacion":"210.0 gr","id":"7793890001150"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ec"},"nombre":"Pan Hamburguesas Lactal 216 Gr","marca":"LACTAL","presentacion":"216.0 gr","id":"7793890001174"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ed"},"nombre":"Postre Vainilla con Dulce de Leche Serenito 125 Gr","marca":"SERENITO","presentacion":"125.0 gr","id":"7793940034169"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ee"},"nombre":"Manteca Extra La Serenisima 100 Gr","marca":"LA SERENÍSIMA","presentacion":"100.0 gr","id":"7793940052002"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ef"},"nombre":"Manteca La Serenisima 200 Gr","marca":"LA SERENÍSIMA","presentacion":"200.0 gr","id":"7793940054006"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f0"},"nombre":"Leche en Polvo Entera Deslactada La Serenisima 500 Gr","marca":"LA SERENÍSIMA","presentacion":"500.0 gr","id":"7793940064005"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f1"},"nombre":"Postre Vainilla Kull Serenito 120 Gr","marca":"SERENITO","presentacion":"120.0 gr","id":"7793940095405"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f2"},"nombre":"Yogur Descremado con Colchon de Frutas Frutilla Ser 175 Gr","marca":"SER","presentacion":"175.0 gr","id":"7793940102882"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f3"},"nombre":"Crema de Leche Vitamina A y E La Serenisima 200 Cc","marca":"LA SERENÍSIMA","presentacion":"200.0 cc","id":"7793940170003"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f4"},"nombre":"Leche Chocolatada Danone 250 Cc","marca":"CINDOR","presentacion":"250.0 cc","id":"7793940198007"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f5"},"nombre":"Leche Entera en Sachet Armonia 1 Lt","marca":"ARMONÍA","presentacion":"1.0 lt","id":"7793940305009"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f6"},"nombre":"Leche Parcialmente Descremada en Sachet Armonia 1 Lt","marca":"ARMONÍA","presentacion":"1.0 lt","id":"7793940306006"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f7"},"nombre":"Leche Entera Ultra Fortificante en Sachet La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7793940448003"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f8"},"nombre":"Crema de Leche Vitamina A y E La Serenisima 360 Cc","marca":"LA SERENÍSIMA","presentacion":"360.0 cc","id":"7793940472008"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7f9"},"nombre":"Leche Descremada Fortificada en Sachet La Serenisima 1 Lt","marca":"LA SERENÍSIMA","presentacion":"1.0 lt","id":"7793940491009"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7fa"},"nombre":"Leche UAT Reducida en Lactosa Calcio + Vitaminas La Serenisima Junior 200 Cc","marca":"LA SERENÍSIMA","presentacion":"200.0 cc","id":"7793940560026"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7fb"},"nombre":"Saborizador para Pollo con Limon y Oregano Knorr 25 Gr","marca":"KNORR","presentacion":"25.0 gr","id":"7794000595507"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7fc"},"nombre":"Saborizador para Carne Cebolla y Ajo Knorr 25 Gr","marca":"KNORR","presentacion":"25.0 gr","id":"7794000595514"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7fd"},"nombre":"Saborizador para Carne Romero y Tomillo Knorr 23 Gr","marca":"KNORR","presentacion":"23.0 gr","id":"7794000595927"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7fe"},"nombre":"Salsa 4 Quesos Deshidratada Knorr 35 Gr","marca":"KNORR","presentacion":"35.0 gr","id":"7794000597235"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd7ff"},"nombre":"Salsa Blanca Deshidratada Knorr 20 Gr","marca":"KNORR","presentacion":"20.0 gr","id":"7794000597280"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd800"},"nombre":"Caldo de Verduras con Recetas Knorr 12 Un","marca":"KNORR","presentacion":"12.0 un","id":"7794000597518"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd801"},"nombre":"Caldo de Gallina con Recetas Knorr 12 Un","marca":"KNORR","presentacion":"12.0 un","id":"7794000597525"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd802"},"nombre":"Caldo de Carne con Recetas Knorr 12 Un","marca":"KNORR","presentacion":"12.0 un","id":"7794000597532"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd803"},"nombre":"Caldo de Verduras Wilde 12 Un","marca":"WILDE","presentacion":"12.0 un","id":"7794000597723"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd804"},"nombre":"Sopa de Zapallo Knorr Quick 5 Un","marca":"KNORR QUICK","presentacion":"5.0 un","id":"7794000598508"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd805"},"nombre":"Sopa de Vegetales Light Knorr Quick 5 Un","marca":"KNORR QUICK","presentacion":"5.0 un","id":"7794000598591"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd806"},"nombre":"Pure de Papas Instantaneo Knorr 125 Gr","marca":"KNORR","presentacion":"125.0 gr","id":"7794000598805"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd807"},"nombre":"Salsa Pomarola Tradicional Knorr 340 Gr","marca":"KNORR","presentacion":"340.0 gr","id":"7794000598829"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd808"},"nombre":"Salsa Bolognesa Knorr 340 Gr","marca":"KNORR","presentacion":"340.0 gr","id":"7794000598836"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd809"},"nombre":"Salsa Filetto Knorr 340 Gr","marca":"KNORR","presentacion":"340.0 gr","id":"7794000598843"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80a"},"nombre":"Salsa de Pizza Knorr 340 Gr","marca":"KNORR","presentacion":"340.0 gr","id":"7794000598874"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80b"},"nombre":"Salsa Portuguesa Doypack Knorr 340 Gr","marca":"KNORR","presentacion":"340.0 gr","id":"7794000598898"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80c"},"nombre":"Almidon de Maiz Maizena 215 Gr","marca":"MAIZENA","presentacion":"215.0 gr","id":"7794000599178"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80d"},"nombre":"Almidon de Maiz Maizena 520 Gr","marca":"MAIZENA","presentacion":"520.0 gr","id":"7794000599185"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80e"},"nombre":"Mayonesa Doypack Hellmann's 475 Gr","marca":"HELLMANN'S","presentacion":"475.0 gr","id":"7794000960091"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd80f"},"nombre":"Mayonesa Doypack Hellmann's 237 Gr","marca":"HELLMANN'S","presentacion":"237.0 gr","id":"7794000960107"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd810"},"nombre":"Mayonesa Light Doypack Hellmanns 475 Gr","marca":"HELLMANN'S","presentacion":"475.0 gr","id":"7794000960138"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd811"},"nombre":"Mayonesa Light Doypack Hellmanns 237 Gr","marca":"HELLMANN'S","presentacion":"237.0 gr","id":"7794000960145"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd812"},"nombre":"Ketchup con Tomate Hellmanns 500 Gr","marca":"HELLMANN'S","presentacion":"500.0 gr","id":"7794000960244"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd813"},"nombre":"Ketchup con Tomate Hellmanns 250 Gr","marca":"HELLMANN'S","presentacion":"250.0 gr","id":"7794000960275"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd814"},"nombre":"Salsa Golf sin TACC Hellmanns 250 Gr","marca":"HELLMANN'S","presentacion":"250.0 gr","id":"7794000960329"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd815"},"nombre":"Mostaza Original Doypack Savora 250 Gr","marca":"SAVORA","presentacion":"250.0 gr","id":"7794000960435"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd816"},"nombre":"Papas Fritas sin Sal Krachitos 65 Gr","marca":"KRACHITOS","presentacion":"65.0 gr","id":"7794520000109"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd817"},"nombre":"Mani Salado Pelado KrachItos 120 Gr","marca":"KRACHITOS","presentacion":"120.0 gr","id":"7794520412216"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd818"},"nombre":"Papas Fritas Tradicional Bolsa KrachItos 300 Gr","marca":"KRACHITOS","presentacion":"180.0 gr","id":"7794520441308"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd819"},"nombre":"Papas Fritas Corte Americano Krachitos 65 Gr","marca":"KRACHITOS","presentacion":"65.0 gr","id":"7794520442657"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81a"},"nombre":"Toallitas Humedas Clasico y Cotidiano Huggies 48 Un","marca":"HUGGIES","presentacion":"48.0 un","id":"7794626007170"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81b"},"nombre":"Toallitas Humedas Puro y Natural Huggies 48 Un","marca":"HUGGIES","presentacion":"48.0 un","id":"7794626007217"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81c"},"nombre":"Toallitas Humedas Limpieza Humectante Huggies 48 Un","marca":"HUGGIES","presentacion":"48.0 un","id":"7794626007248"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81d"},"nombre":"Pañal G Active Sec Huggies 24 Un","marca":"HUGGIES","presentacion":"24.0 un","id":"7794626008832"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81e"},"nombre":"Crema Corporal Piel Seca Vitamina A Hinds Botella 350 Ml","marca":"HINDS","presentacion":"350.0 ml","id":"7794640171291"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd81f"},"nombre":"Edulcorante con Sacarina en Sobres Hileret Clasico 100 Un","marca":"HILERET","presentacion":"100.0 un","id":"7794940000116"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd820"},"nombre":"Azucar Light Doypack Hileret 500 Gr","marca":"HILERET","presentacion":"500.0 gr","id":"7794940000536"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd821"},"nombre":"Edulcorante Liquido Hileret Clasico 250 Cc","marca":"HILERET","presentacion":"250.0 cc","id":"7794940000819"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd822"},"nombre":"Edulcorante Liquido Hileret Clasico 500 Cc","marca":"HILERET","presentacion":"500.0 cc","id":"7794940000826"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd823"},"nombre":"Edulcorante Liquido Hileret Sweet 400 Cc","marca":"HILERET","presentacion":"400.0 cc","id":"7794940000840"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd824"},"nombre":"Leche Infantil Nutrilon Profutura Premium 1 200 Ml","marca":"NUTRILÓN","presentacion":"200.0 ml","id":"7795323002468"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd825"},"nombre":"Leche Infantil Nutrilon Profutura Premium 2 200 Ml","marca":"NUTRILÓN","presentacion":"200.0 ml","id":"7795323002475"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd826"},"nombre":"Leche Infantil Nutrilon Profutura Premium 3 200 Ml","marca":"NUTRILÓN","presentacion":"200.0 ml","id":"7795323002482"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd827"},"nombre":"Cerveza Rubia Isenbeck 970 Cc","marca":"ISENBECK","presentacion":"970.0 cc","id":"7795697001708"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd828"},"nombre":"Bizcochitos con Grasa Salados Don Satur 200 Gr","marca":"DON SATUR","presentacion":"200.0 gr","id":"7795735000328"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd829"},"nombre":"Bizcochos Agridulces Don Satur 200 Gr","marca":"DON SATUR","presentacion":"200.0 gr","id":"7795735000335"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82a"},"nombre":"Bizcocho Negrito Don Satur 200 Gr","marca":"DON SATUR","presentacion":"200.0 gr","id":"7795735000342"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82b"},"nombre":"Pan Hamburguesas Artesanal Bimbo 240 Gr","marca":"BIMBO","presentacion":"240.0 gr","id":"7796989008740"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82c"},"nombre":"Alimento para Gatos Carne Whiskas Gatitos 85 Gr","marca":"WHISKAS","presentacion":"85.0 gr","id":"7797453000406"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82d"},"nombre":"Alimento para Gatos Adultos Salmon Whiskas 85 Gr","marca":"WHISKAS","presentacion":"85.0 gr","id":"7797453000413"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82e"},"nombre":"Alimento para Gatos Adultos Carne Whiskas 85 Gr","marca":"WHISKAS","presentacion":"85.0 gr","id":"7797453000420"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd82f"},"nombre":"Alimento para Perros Cachorro Sano Crecimiento Pedigree 85 Gr","marca":"PEDIGREE","presentacion":"85.0 gr","id":"7797453000468"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd830"},"nombre":"Alimento para Perros Adultos Raza Pequeña Carne Pedigree 100 Gr","marca":"PEDIGREE","presentacion":"100.0 gr","id":"7797453000475"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd831"},"nombre":"Alimento para Perros Adultos Pollo Pouch Pedigree 85 Gr","marca":"PEDIGREE","presentacion":"85.0 gr","id":"7797453000482"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd832"},"nombre":"Papas Prefritas Tradicionales Supercongeladas Mc Cain 720 Gr","marca":"MC CAIN","presentacion":"720.0 gr","id":"7797906000380"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd833"},"nombre":"Vino Tinto Malbec Roble Finca Natalina 750 Cc","marca":"FINCA NATALINA","presentacion":"750.0 cc","id":"7797942000498"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd834"},"nombre":"Fideos Spaghetti Knorr 500 Gr","marca":"KNORR","presentacion":"500.0 gr","id":"7798031154153"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd835"},"nombre":"Agua Saborizada Pomelo sin Gas Villa Del Sur Levite 2.25 Lt","marca":"LEVITÉ","presentacion":"2.25 lt","id":"7798062540284"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd836"},"nombre":"Agua Saborizada Naranja sin Gas Villa Del Sur Levite 2.25 Lt","marca":"LEVITÉ","presentacion":"2.25 lt","id":"7798062540291"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd837"},"nombre":"Agua Mineral sin Gas en Bidon Villa del Sur 6.25 Lt","marca":"VILLA DEL SUR","presentacion":"6.25 lt","id":"7798062541397"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd838"},"nombre":"Agua Saborizada Pomelo con Gas We 2.2 Lt","marca":"SER","presentacion":"2.2 lt","id":"7798062541915"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd839"},"nombre":"Agua Saborizada Citrus con Gas Ser We 2.25 Lt","marca":"SER","presentacion":"2.25 lt","id":"7798062541939"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83a"},"nombre":"Agua Saborizada Lemon con Gas We 2.25 Lt","marca":"SER","presentacion":"2.25 lt","id":"7798062541946"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83b"},"nombre":"Agua Mineral sin Gas Villa del Sur 2.25 Lt","marca":"VILLA DEL SUR","presentacion":"2.25 lt","id":"7798062547559"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83c"},"nombre":"Agua Mineral con Gas Villavicencio 1.5 Lt","marca":"VILLAVICENCIO","presentacion":"1.5 lt","id":"7798062547788"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83d"},"nombre":"Agua Saborizada Naranja sin Gas Levite 1.5 Lt","marca":"LEVITÉ","presentacion":"1.5 lt","id":"7798062548648"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83e"},"nombre":"Agua Saborizada Manzana sin Gas Levite 1.5 Lt","marca":"LEVITÉ","presentacion":"1.5 lt","id":"7798062548709"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd83f"},"nombre":"Pizza Mozzarella a La Piedra Sibarita 470 Gr","marca":"SIBARITA","presentacion":"470.0 gr","id":"7798070680347"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd840"},"nombre":"Vino Blanco Sauvignon Blanc Finca El Portillo 750 Ml","marca":"FINCA EL PORTILLO","presentacion":"750.0 cc","id":"7798074860226"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd841"},"nombre":"Vino Tinto Cabernet Sauvignon Finca El Portillo 750 Cc","marca":"FINCA EL PORTILLO","presentacion":"750.0 cc","id":"7798074860233"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd842"},"nombre":"Vino Tinto Malbec Finca El Portillo 750 Cc","marca":"FINCA EL PORTILLO","presentacion":"750.0 cc","id":"7798074860240"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd843"},"nombre":"Vino Tinto Malbec Killka Art \u0026 Wine 750 Ml","marca":"KILLKA","presentacion":"750.0 ml","id":"7798074862077"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd844"},"nombre":"Fajitas Clasicas Tia Maruca 150 Gr","marca":"TÍA MARUCA","presentacion":"150.0 gr","id":"7798082741098"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd845"},"nombre":"Tostadas de Arroz Clasicas sin TACC Tia Maruca 120 Gr","marca":"TÍA MARUCA","presentacion":"120.0 gr","id":"7798082743726"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd846"},"nombre":"Jugo Listo Naranja Citric 500 Ml","marca":"CITRIC","presentacion":"500.0 ml","id":"7798085680127"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd847"},"nombre":"Jugo Listo Naranja Citric 1 Lt","marca":"CITRIC","presentacion":"1.0 lt","id":"7798085680141"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd848"},"nombre":"Vino Tinto Cabernet Sauvignion Aime 750 Cc","marca":"AIMÉ","presentacion":"750.0 cc","id":"7798090852526"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd849"},"nombre":"Vino Tinto Malbec Aime 750 Cc","marca":"AIMÉ","presentacion":"750.0 cc","id":"7798090852533"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84a"},"nombre":"Cera Depilatoria Aloe Vera Pote Micro Carrefour 180 Gr","marca":"CARREFOUR","presentacion":"180.0 gr","id":"7798108347303"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84b"},"nombre":"Vino Tinto Syrah Malbec Callia Alta 750 Ml","marca":"CALLIA","presentacion":"750.0 ml","id":"7798108830218"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84c"},"nombre":"Vino Tinto Cabernet Sauvignon Alta Callia 750 Cc","marca":"CALLIA","presentacion":"750.0 cc","id":"7798108830249"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84d"},"nombre":"Vino Tinto Malbec Alta Callia 750 Cc","marca":"CALLIA","presentacion":"750.0 cc","id":"7798108830751"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84e"},"nombre":"Galletitas Chocolate Rellena de Vainilla Toddy 115 Gr","marca":"TODDY","presentacion":"115.0 gr","id":"7798113151377"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd84f"},"nombre":"Bebida Energizante Speed Unlimited Regular 250 Ml","marca":"SPEED","presentacion":"250.0 ml","id":"7798119220015"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd850"},"nombre":"Whisky Old Smuggler 1 Lt","marca":"OLD SMUGGLER","presentacion":"1.0 lt","id":"7798131200613"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd851"},"nombre":"Aperitivo Americano Cinzano Rosso 950 Ml","marca":"CINZANO","presentacion":"950.0 ml","id":"7798131200828"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd852"},"nombre":"Leche Infantil UAT Larga Vida Nutricion Completa Sancor Bebe 3 1 Lt","marca":"SANCOR","presentacion":"1.0 lt","id":"7798176000384"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd853"},"nombre":"Leche Sancor EnfaBebe Premium 1 200 Ml","marca":"SANCOR","presentacion":"200.0 ml","id":"7798176000582"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd854"},"nombre":"Leche Infantil Sancor EnfaBebe Premium 2 200 Ml","marca":"SANCOR","presentacion":"200.0 ml","id":"7798176000599"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd855"},"nombre":"Leche Infantil UAT Larga Vida Nutricion Completa Sancor Bebe 1 200 Ml","marca":"SANCOR","presentacion":"200.0 ml","id":"7798176000841"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd856"},"nombre":"Leche Infantil UAT Larga Vida Nutricion Completa Sancor Bebe 2 200 Ml","marca":"SANCOR","presentacion":"200.0 ml","id":"7798176000858"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd857"},"nombre":"Leche Infantil UAT Larga Vida Nutricion Completa Sancor Bebe 3 200 Cc","marca":"SANCOR","presentacion":"200.0 cc","id":"7798176000865"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd858"},"nombre":"Leche Infantil UAT Larga Vida Nutricion Completa Sancor Bebe 1 500 Ml","marca":"SANCOR","presentacion":"500.0 ml","id":"7798176000872"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd859"},"nombre":"Leche Infantil Sancor Bebe 4 1 Lt","marca":"SANCOR","presentacion":"1.0 lt","id":"7798176001077"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85a"},"nombre":"Bocaditos de Pollo Nuggets Crocantes Sadia 900 Gr","marca":"SADIA","presentacion":"900.0 gr","id":"7798183044470"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85b"},"nombre":"Papas Fritas Original Lays Stax 140 Gr","marca":"LAYS","presentacion":"140.0 gr","id":"7802000009266"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85c"},"nombre":"Caldo de Gallina Maggi 12 Un","marca":"MAGGI","presentacion":"12.0 un","id":"7891000105450"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85d"},"nombre":"Toallitas Humedas Extra Cuidado Johnsons Baby 96 Un","marca":"JOHNSON'S","presentacion":"96.0 un","id":"7891010589615"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85e"},"nombre":"Toalla Femenina Nocturna con Alas Siempre Libre 8U","marca":"SIEMPRE LIBRE","presentacion":"8.0 un","id":"7891010599294"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd85f"},"nombre":"Tampones Medio Helix Ob 20 Un","marca":"OB","presentacion":"20.0 un","id":"7891010604905"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd860"},"nombre":"Tampones Super Helix Ob 20 Un","marca":"OB","presentacion":"20.0 un","id":"7891010604912"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd861"},"nombre":"Toalla Femenina Max Suave Nocturna con Alas Siempre Libre 16 Un","marca":"SIEMPRE LIBRE","presentacion":"16.0 un","id":"7891010607135"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd862"},"nombre":"Crema Dental Luminous White Colgate 90 Gr","marca":"COLGATE","presentacion":"90.0 gr","id":"7891024123027"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd863"},"nombre":"Aperitivo Bitter Campari 750 Ml","marca":"CAMPARI","presentacion":"750.0 ml","id":"7891136052000"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd864"},"nombre":"Atun en Aceite Gomes Da Costa 170 Gr","marca":"GOMES DA COSTA","presentacion":"170.0 gr","id":"7891167011731"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd865"},"nombre":"Atun en Lomitos al Natural Gomes Da Costa 170 Gr","marca":"GOMES DA COSTA","presentacion":"170.0 gr","id":"7891167011755"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd866"},"nombre":"Cepillo Dental Doctor Kolynos 2 Un","marca":"KOLYNOS","presentacion":"2.0 un","id":"7891528091716"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd867"},"nombre":"Granola de Maiz y Avena Azucarada con Miel Fortificada Kelloggs Kellness Muslix 300 Gr","marca":"KELLOGGS","presentacion":"300.0 gr","id":"7896004004051"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd868"},"nombre":"Crema de Avellana con Cacao Nutella 140 Gr","marca":"NUTELLA","presentacion":"140.0 gr","id":"7898024395232"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd869"},"nombre":"Jabon de Tocador Cream Dove 90 Gr","marca":"DOVE","presentacion":"90.0 gr","id":"7898422746759"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd86a"},"nombre":"Jabon Exfoliante Blanco Dove 90 Gr","marca":"DOVE","presentacion":"90.0 gr","id":"7898422746827"}
+{"_id":{"$oid":"5cbc69be7af152186c0cd86b"},"nombre":"Galletitas de Agua Clasica Dia 550 Gr","marca":"DÍA","presentacion":"550.0 gr","id":"8480017674449"}
