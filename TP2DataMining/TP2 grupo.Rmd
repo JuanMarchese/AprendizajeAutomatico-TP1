@@ -1,0 +1,312 @@
+
+```{r}
+library(jsonlite)
+library(tidyverse)
+library(imputeTS)
+library(readxl)
+library(arules)
+
+#Util si están en RStudio, y quieren que el path de data sea relativo a donde están con el script
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+```
+
+```{r}
+load.data.precios <- function() {
+  precios = stream_in(file("data/precios.json",open="r"))  
+}
+
+
+to.wide <- function(precios){
+  precios.wide <- precios %>%
+    group_by(producto, sucursal) %>%
+    filter(n() >= 7) %>%
+    ungroup() %>%
+    select(producto, sucursal, precio, medicion) %>%
+    spread(medicion, precio) %>%
+    setNames(c("producto", "sucursal", "m1","m2","m3","m4","m5","m6","m7","m8","m9","m10")) %>%
+    as.data.frame()
+  
+  precios.wide <- na.interpolation(precios.wide)
+}
+
+
+preprocesar <- function(precios.wide){
+  precios.wide.transformados <- precios.wide %>%
+    #Se agrupan los precios en 4 grupos
+    mutate(PrecioPeriodo1 = (m1 + m2 + m3) / 3) %>%
+    mutate(PrecioPeriodo2 = (m4 + m5) / 2) %>%
+    mutate(PrecioPeriodo3 = (m6 + m7) / 2) %>%
+    mutate(PrecioPeriodo4 = (m8 + m9 + m10) / 3) %>%
+    mutate(PrecioPromedio = (m1 + m2 + m3 + m4 + m5 + m6 + m7 + m8 + m9 + m10) / 10) %>%
+    #Se calculan las diferencias para poder discretizar después
+    mutate(Variacion1 = (PrecioPeriodo2 - PrecioPeriodo1) / PrecioPeriodo1) %>%
+    mutate(Variacion2 = (PrecioPeriodo3 - PrecioPeriodo2) / PrecioPeriodo2) %>%
+    mutate(Variacion3 = (PrecioPeriodo4 - PrecioPeriodo3) / PrecioPeriodo3) %>%
+    mutate(VariacionTotal = (PrecioPeriodo4 - PrecioPeriodo1) / PrecioPeriodo1) %>%
+    #LABELS PARA LA VARIACION DE PRECIO
+    mutate(VariacionDiscretizada1 = case_when(
+      Variacion1 < -0.05 ~ "Var1: ---",
+      Variacion1 >= -0.05 & Variacion1 < -0.02 ~ "Var1: --",
+      Variacion1 >= -0.02 & Variacion1 < -0.005 ~ "Var1: -",
+      Variacion1 >= -0.005 & Variacion1 < 0.005 ~ "Var1: =",
+      Variacion1 >= 0.005 & Variacion1 < 0.05 ~ "Var1: +",
+      Variacion1 >= 0.05 & Variacion1 < 0.1 ~ "Var1: ++",
+      Variacion1 >= 0.1  ~ "Var1: +++"
+    )) %>%
+    mutate(VariacionDiscretizada2 = case_when(
+      Variacion2 < -0.05 ~ "Var2: ---",
+      Variacion2 >= -0.05 & Variacion2 < -0.02 ~ "Var2: --",
+      Variacion2 >= -0.02 & Variacion2 < -0.005 ~ "Var2: -",
+      Variacion2 >= -0.005 & Variacion2 < 0.005 ~ "Var2: =",
+      Variacion2 >= 0.005 & Variacion2 < 0.05 ~ "Var2: +",
+      Variacion2 >= 0.05 & Variacion2 < 0.1 ~ "Var2: ++",
+      Variacion2 >= 0.1  ~ "Var2: +++"
+    )) %>% 
+    mutate(VariacionDiscretizada3 = case_when(
+      Variacion3 < -0.05 ~ "Var3: ---",
+      Variacion3 >= -0.05 & Variacion3 < -0.02 ~ "Var3: --",
+      Variacion3 >= -0.02 & Variacion3 < -0.005 ~ "Var3: -",
+      Variacion3 >= -0.005 & Variacion3 < 0.005 ~ "Var3: =",
+      Variacion3 >= 0.005 & Variacion3 < 0.05 ~ "Var3: +",
+      Variacion3 >= 0.05 & Variacion3 < 0.1 ~ "Var3: ++",
+      Variacion3 >= 0.1  ~ "Var3: +++"
+    )) %>% 
+    mutate(VariacionDiscretizadaTotal = case_when(
+      VariacionTotal < -0.05 ~ "VarTotal: ---",
+      VariacionTotal >= -0.05 & VariacionTotal < -0.02 ~ "VarTotal: --",
+      VariacionTotal >= -0.02 & VariacionTotal < -0.005 ~ "VarTotal: -",
+      VariacionTotal >= -0.005 & VariacionTotal < 0.005 ~ "VarTotal: =",
+      VariacionTotal >= 0.005 & VariacionTotal < 0.05 ~ "VarTotal: +",
+      VariacionTotal >= 0.05 & VariacionTotal < 0.1 ~ "VarTotal: ++",
+      VariacionTotal >= 0.1  ~ "VarTotal: +++"
+    ))
+  
+  #Hay que calcular la media por producto para cada medición
+  medias.producto <- precios.wide.transformados %>%
+    group_by(producto) %>%
+    summarize(PrecioMedioPeriodo1 = mean(PrecioPeriodo1), PrecioMedioPeriodo2 = mean(PrecioPeriodo2), PrecioMedioPeriodo3 = mean(PrecioPeriodo3), PrecioMedioPeriodo4 = mean(PrecioPeriodo4), PrecioPromedioTotal = mean(PrecioPromedio))
+  
+  #Calculamos los precios relativos
+  precios.wide.transformados <- precios.wide.transformados %>%
+    #Join para tener el valor medio de cada medición
+    left_join(medias.producto, by = "producto") %>%
+    #Se calculan los precios relativos de cada medición
+    mutate(PrecioRelativo1 = (PrecioPeriodo1 - PrecioMedioPeriodo1) / PrecioMedioPeriodo1) %>%
+    mutate(PrecioRelativo2 = (PrecioPeriodo2 - PrecioMedioPeriodo2) / PrecioMedioPeriodo2) %>%
+    mutate(PrecioRelativo3 = (PrecioPeriodo3 - PrecioMedioPeriodo3) / PrecioMedioPeriodo3) %>%
+    mutate(PrecioRelativo4 = (PrecioPeriodo4 - PrecioMedioPeriodo4) / PrecioMedioPeriodo4) %>%
+    mutate(PrecioRelativoMedio = (PrecioPromedio - PrecioPromedioTotal) / PrecioPromedioTotal) %>%
+    #Se los discretiza
+    mutate(PrecioRelativoDiscretizado1 = case_when(
+      PrecioRelativo1 < -0.1 ~ "PrecRel1: ---",
+      PrecioRelativo1 >= -0.1 & PrecioRelativo1 < -0.05 ~ "PrecRel1: --",
+      PrecioRelativo1 >= -0.05 & PrecioRelativo1 < -0.01 ~ "PrecRel1: -",
+      PrecioRelativo1 >= -0.01 & PrecioRelativo1 < 0.01 ~ "PrecRel1: =",
+      PrecioRelativo1 >= 0.01 & PrecioRelativo1 < 0.05 ~ "PrecRel1: +",
+      PrecioRelativo1 >= 0.05 & PrecioRelativo1 < 0.1 ~ "PrecRel1: ++",
+      PrecioRelativo1 >= 0.1  ~ "PrecRel1: +++"
+    )) %>%
+    mutate(PrecioRelativoDiscretizado2 = case_when(
+      PrecioRelativo2 < -0.1 ~ "PrecRel2: ---",
+      PrecioRelativo2 >= -0.1 & PrecioRelativo2 < -0.05 ~ "PrecRel2: --",
+      PrecioRelativo2 >= -0.05 & PrecioRelativo2 < -0.01 ~ "PrecRel2: -",
+      PrecioRelativo2 >= -0.01 & PrecioRelativo2 < 0.01 ~ "PrecRel2: =",
+      PrecioRelativo2 >= 0.01 & PrecioRelativo2 < 0.05 ~ "PrecRel2: +",
+      PrecioRelativo2 >= 0.05 & PrecioRelativo2 < 0.1 ~ "PrecRel2: ++",
+      PrecioRelativo2 >= 0.1  ~ "PrecRel2: +++"
+    )) %>%
+    mutate(PrecioRelativoDiscretizado3 = case_when(
+      PrecioRelativo3 < -0.1 ~ "PrecRel3: ---",
+      PrecioRelativo3 >= -0.1 & PrecioRelativo3 < -0.05 ~ "PrecRel3: --",
+      PrecioRelativo3 >= -0.05 & PrecioRelativo3 < -0.01 ~ "PrecRel3: -",
+      PrecioRelativo3 >= -0.01 & PrecioRelativo3 < 0.01 ~ "PrecRel3: =",
+      PrecioRelativo3 >= 0.01 & PrecioRelativo3 < 0.05 ~ "PrecRel3: +",
+      PrecioRelativo3 >= 0.05 & PrecioRelativo3 < 0.1 ~ "PrecRel3: ++",
+      PrecioRelativo3 >= 0.1  ~ "PrecRel3: +++"
+    )) %>%
+    mutate(PrecioRelativoDiscretizado4 = case_when(
+      PrecioRelativo4 < -0.1 ~ "PrecRel4: ---",
+      PrecioRelativo4 >= -0.1 & PrecioRelativo4 < -0.05 ~ "PrecRel4: --",
+      PrecioRelativo4 >= -0.05 & PrecioRelativo4 < -0.01 ~ "PrecRel4: -",
+      PrecioRelativo4 >= -0.01 & PrecioRelativo4 < 0.01 ~ "PrecRel4: =",
+      PrecioRelativo4 >= 0.01 & PrecioRelativo4 < 0.05 ~ "PrecRel4: +",
+      PrecioRelativo4 >= 0.05 & PrecioRelativo4 < 0.1 ~ "PrecRel4: ++",
+      PrecioRelativo4 >= 0.1  ~ "PrecRel4: +++"
+    )) %>%
+    mutate(PrecioRelativoDiscretizadoMedio = case_when(
+      PrecioRelativoMedio < -0.1 ~ "PrecRelMedio_label: ---",
+      PrecioRelativoMedio >= -0.1 & PrecioRelativoMedio < -0.05 ~ "PrecRelMedio_label: --",
+      PrecioRelativoMedio >= -0.05 & PrecioRelativoMedio < -0.01 ~ "PrecRelMedio_label: -",
+      PrecioRelativoMedio >= -0.01 & PrecioRelativoMedio < 0.01 ~ "PrecRelMedio_label: =",
+      PrecioRelativoMedio >= 0.01 & PrecioRelativoMedio < 0.05 ~ "PrecRelMedio_label: +",
+      PrecioRelativoMedio >= 0.05 & PrecioRelativoMedio < 0.1 ~ "PrecRelMedio_label: ++",
+      PrecioRelativoMedio >= 0.1  ~ "PrecRelMedio_label: +++"
+    ))
+}
+
+# cargamos los datos socioecomomicos y datos de la sucursal
+datosSocioEconomicos <- function(precios){
+
+	sucursales <- read.csv("data/Sucursales.csv",stringsAsFactors=FALSE)
+	sucursales <- sucursales[,c("id","BARRIO","COMUNA","sucursalTipo","cadena","nombre")]
+	Alquiler <- read.csv(file="data/AlquilerDepartamentos.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+	colnames(Alquiler) <- c("Barrio","USDm2Alquiler")
+
+	Venta <- read.csv(file="data/VentasDepartamentos.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+	colnames(Venta) <- c("Barrio","USDm2Venta")
+
+	Poblacion <- read.csv(file="data/PoblacionBarrio.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
+
+	Alquiler[,"Barrio"] <- toupper(Alquiler[,"Barrio"])
+	Venta[,"Barrio"] <- toupper(Venta[,"Barrio"])
+	Poblacion[,"Barrio"] <- toupper(Poblacion[,"Barrio"])
+
+	mergeado <- merge(sucursales, Alquiler,by.x = "BARRIO", by.y = "Barrio")
+	mergeado <- merge(mergeado, Venta,by.x = "BARRIO", by.y = "Barrio")
+	mergeado <- merge(mergeado, Poblacion,by.x = "BARRIO", by.y = "Barrio")
+	mergeado.final <- merge(mergeado, precios,by.x = "id", by.y = "sucursal")
+	return(mergeado.final)
+}
+
+# cargamos los datos de los productos
+mergeprod <- function(base){
+  prod <- stream_in(file("data/productos.json",open="r"))
+  prod <- as.data.frame(prod)
+	clasif_productos <- read_excel("data/agrupamiento productos.xlsx")
+	prod <- merge(prod, clasif_productos, by.x = "nombre",by.y = "Producto",all.x = T)
+  
+  prod <- prod %>% 
+	    mutate(nombre_1 = strsplit(nombre,' ')[[1]][1])
+
+  base <- merge(base, prod,by.x = "producto", by.y='id',all.x = TRUE)
+	
+    
+    return(base)
+}
+
+# labels para las variables demograficas
+labeldemo <- function(final) {
+  q_1 <- quantile(final$USDm2Alquiler,seq(0.1,0.9,.1))
+  q_2 <- quantile(final$USDm2Venta,seq(0.1,0.9,.1))
+  q_3 <- quantile(final$Densidad,seq(0.1,0.9,.1))
+  q_4 <- quantile(final$Poblacion,seq(0.1,0.9,.1))
+  q_5 <- quantile(final$Superficie,seq(0.1,0.9,.1))
+  
+  final %>%
+  mutate(USDm2alq_label = case_when(
+      USDm2Alquiler < q_1[1] ~ "USDm2Alq: ---",
+      USDm2Alquiler >= q_1[1] & USDm2Alquiler < q_1[3] ~ "USDm2Alq: --",
+      USDm2Alquiler >= q_1[3] & USDm2Alquiler < q_1[4] ~ "USDm2Alq: -",
+      USDm2Alquiler >= q_1[4] & USDm2Alquiler < q_1[6] ~ "USDm2Alq: =",
+      USDm2Alquiler >= q_1[6] & USDm2Alquiler < q_1[8] ~ "USDm2Alq: +",
+      USDm2Alquiler >= q_1[8] & USDm2Alquiler < q_1[9] ~ "USDm2Alq: ++",
+      USDm2Alquiler >= q_1[9]  ~ "USDm2Alq: +++"
+    )) %>%
+mutate(USDm2venta_label = case_when(
+      USDm2Venta < q_2[1] ~ "USDm2Venta: ---",
+      USDm2Venta >= q_2[1] & USDm2Venta < q_2[3] ~ "USDm2Venta: --",
+      USDm2Venta >= q_2[3] & USDm2Venta < q_2[4] ~ "USDm2Venta: -",
+      USDm2Venta >= q_2[4] & USDm2Venta < q_2[6] ~ "USDm2Venta: =",
+      USDm2Venta >= q_2[6] & USDm2Venta < q_2[8] ~ "USDm2Venta: +",
+      USDm2Venta >= q_2[8] & USDm2Venta < q_2[9] ~ "USDm2Venta: ++",
+      USDm2Venta >= q_2[9]  ~ "USDm2Venta: +++"
+    )) %>%
+mutate(Densidad_label = case_when(
+      Densidad < q_3[1] ~ "Densidad: ---",
+      Densidad >= q_3[1] & Densidad < q_3[3] ~ "Densidad: --",
+      Densidad >= q_3[3] & Densidad < q_3[4] ~ "Densidad: -",
+      Densidad >= q_3[4] & Densidad < q_3[6] ~ "Densidad: =",
+      Densidad >= q_3[6] & Densidad < q_3[8] ~ "Densidad: +",
+      Densidad >= q_3[8] & Densidad < q_3[9] ~ "Densidad: ++",
+      Densidad >= q_3[9]  ~ "Densidad: +++"
+    )) %>%
+mutate(Poblacion_label = case_when(
+      Poblacion < q_4[1] ~ "Poblacion: ---",
+      Poblacion >= q_4[1] & Poblacion < q_4[3] ~ "Poblacion: --",
+      Poblacion >= q_4[3] & Poblacion < q_4[4] ~ "Poblacion: -",
+      Poblacion >= q_4[4] & Poblacion < q_4[6] ~ "Poblacion: =",
+      Poblacion >= q_4[6] & Poblacion < q_4[8] ~ "Poblacion: +",
+      Poblacion >= q_4[8] & Poblacion < q_4[9] ~ "Poblacion: ++",
+      Poblacion >= q_4[9]  ~ "Poblacion: +++"
+    )) %>%
+mutate(Superficie_label = case_when(
+      Superficie < q_5[1] ~ "Superficie: ---",
+      Superficie >= q_5[1] & Superficie < q_5[3] ~ "Superficie: --",
+      Superficie >= q_5[3] & Superficie < q_5[4] ~ "Superficie: -",
+      Superficie >= q_5[4] & Superficie < q_5[6] ~ "Superficie: =",
+      Superficie >= q_5[6] & Superficie < q_5[8] ~ "Superficie: +",
+      Superficie >= q_5[8] & Superficie < q_5[9] ~ "Superficie: ++",
+      Superficie >= q_5[9]  ~ "Superficie: +++"
+    )) 
+
+}
+
+
+summary(final$PrecioRelativoMedio)
+
+```
+
+```{r}
+#Cargo los precios
+precios <- load.data.precios()
+
+#Los paso a wide
+precios.wide <- to.wide(precios)
+
+#Hago las transformaciones
+precios.wide.transformados <- preprocesar(precios.wide)
+
+# cargo la informacion de sucursales
+base <- datosSocioEconomicos(precios.wide.transformados)
+
+# cargo la informacion de productos
+final <- mergeprod(base)
+
+# agrego los labels demográficos
+final <- labeldemo(final)
+```
+
+```{r}
+# exploramos post merge
+names(final)
+sapply(base, function(x) sum(is.na(x)))
+```
+
+```{r}
+#Elegimos los atributos
+prueba <- select(final,
+producto,        
+BARRIO,                         
+COMUNA,                          
+sucursalTipo,                    
+cadena,                         
+VariacionDiscretizada1,          
+VariacionDiscretizada2,         
+VariacionDiscretizada3,          
+VariacionDiscretizadaTotal,      
+PrecioRelativoDiscretizado1,
+PrecioRelativoDiscretizado2,
+PrecioRelativoDiscretizado3,    
+PrecioRelativoDiscretizado4,
+PrecioRelativoDiscretizadoMedio,
+marca,                   
+`Clasf. Descripción`,
+#USDm2alq_label,                  
+#USDm2venta_label,                
+#Densidad_label,                 
+#Poblacion_label,                 
+#Superficie_label
+)    
+```
+
+```{r}
+# probamos reglas
+reglas <- apriori(prueba, parameter = list(support=0.01, confidence=0.01, target = "rules"))
+```
+```{r}
+inspect(head(sort(reglas, by="lift", decreasing = TRUE),100))
+```
+
+
+
+
