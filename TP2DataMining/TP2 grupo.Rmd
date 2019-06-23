@@ -31,6 +31,7 @@ to.wide <- function(precios){
 
 
 preprocesar <- function(precios.wide){
+  
   precios.wide.transformados <- precios.wide %>%
     #Se agrupan los precios en 4 grupos
     mutate(PrecioPeriodo1 = (m1 + m2 + m3) / 3) %>%
@@ -191,6 +192,9 @@ labeldemo <- function(final) {
   q_3 <- quantile(final$Densidad,seq(0.1,0.9,.1))
   q_4 <- quantile(final$Poblacion,seq(0.1,0.9,.1))
   q_5 <- quantile(final$Superficie,seq(0.1,0.9,.1))
+  centro <- c(1,3,5,6,11,15)
+  sur <- c(10,9,8,7,4)
+  norte <- c(12,13,14,2)
   
   final %>%
   mutate(USDm2alq_label = case_when(
@@ -237,12 +241,14 @@ mutate(Superficie_label = case_when(
       Superficie >= q_5[6] & Superficie < q_5[8] ~ "Superficie: +",
       Superficie >= q_5[8] & Superficie < q_5[9] ~ "Superficie: ++",
       Superficie >= q_5[9]  ~ "Superficie: +++"
-    )) 
+    )) %>% 
+mutate(Region = case_when(
+      COMUNA %in% centro ~ "Centro",
+      COMUNA %in% sur ~ "Sur",
+      COMUNA %in% norte ~ "Norte"
+      )) 
 
 }
-
-
-summary(final$PrecioRelativoMedio)
 
 ```
 
@@ -276,26 +282,27 @@ sapply(base, function(x) sum(is.na(x)))
 #Elegimos los atributos
 prueba <- select(final,
 producto,        
-BARRIO,                         
-COMUNA,                          
+#BARRIO,                         
+#COMUNA,                          
 sucursalTipo,                    
 cadena,                         
 VariacionDiscretizada1,          
 VariacionDiscretizada2,         
 VariacionDiscretizada3,          
 VariacionDiscretizadaTotal,      
-PrecioRelativoDiscretizado1,
-PrecioRelativoDiscretizado2,
-PrecioRelativoDiscretizado3,    
-PrecioRelativoDiscretizado4,
-PrecioRelativoDiscretizadoMedio,
-marca,                   
+#PrecioRelativoDiscretizado1,
+#PrecioRelativoDiscretizado2,
+#PrecioRelativoDiscretizado3,    
+#PrecioRelativoDiscretizado4,
+#PrecioRelativoDiscretizadoMedio,
+#marca,                   
 `Clasf. Descripción`,
 #USDm2alq_label,                  
 #USDm2venta_label,                
 #Densidad_label,                 
 #Poblacion_label,                 
-#Superficie_label
+#Superficie_label,
+Region
 )    
 ```
 
@@ -303,10 +310,13 @@ marca,
 # probamos reglas
 reglas <- apriori(prueba, parameter = list(support=0.01, confidence=0.01, target = "rules"))
 ```
+
 ```{r}
 inspect(head(sort(reglas, by="lift", decreasing = TRUE),100))
 ```
 
 
-
+```{r}
+unique(final$COMUNA)
+```
 
