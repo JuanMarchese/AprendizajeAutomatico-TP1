@@ -13,6 +13,8 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 ```{r}
 load.data.precios <- function() {
   precios = stream_in(file("data/precios.json",open="r"))  
+  #precios = stream_in(file("C:\\Maestria\\DataMining\\TP01_data\\precios.json",open="r"))  
+  
 }
 
 
@@ -149,7 +151,7 @@ preprocesar <- function(precios.wide){
 datosSocioEconomicos <- function(precios){
 
 	sucursales <- read.csv("data/Sucursales.csv",stringsAsFactors=FALSE)
-	sucursales <- sucursales[,c("id","BARRIO","COMUNA","sucursalTipo","cadena","nombre")]
+	sucursales <- sucursales[,c("id","BARRIO","COMUNA","sucursalTipo","cadena","nombre","Menos300")]
 	Alquiler <- read.csv(file="data/AlquilerDepartamentos.csv",stringsAsFactors=FALSE, header=TRUE, sep=",", encoding = "UTF-8")
 	colnames(Alquiler) <- c("Barrio","USDm2Alquiler")
 
@@ -246,8 +248,12 @@ mutate(Region = case_when(
       COMUNA %in% centro ~ "Centro",
       COMUNA %in% sur ~ "Sur",
       COMUNA %in% norte ~ "Norte"
-      )) 
-
+      )) %>% 
+mutate(Menos300 = case_when(
+      Menos300 < 4 ~ "Competencia: -",
+      Menos300 >= 4 & Menos300 < 7 ~ "Competencia: =",
+      Menos300 >= 7  ~ "Competencia: +"
+    ))
 }
 
 ```
@@ -272,6 +278,7 @@ final <- mergeprod(base)
 final <- labeldemo(final)
 ```
 
+
 ```{r}
 # exploramos post merge
 names(final)
@@ -283,7 +290,8 @@ sapply(base, function(x) sum(is.na(x)))
 prueba <- select(final,
 producto,        
 #BARRIO,                         
-#COMUNA,                          
+#COMUNA,
+Menos300,
 sucursalTipo,                    
 cadena,                         
 VariacionDiscretizada1,          
