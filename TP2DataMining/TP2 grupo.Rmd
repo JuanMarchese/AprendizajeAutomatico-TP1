@@ -57,13 +57,13 @@ preprocesar <- function(precios.wide){
       Variacion1 >= 0.1  ~ "Var1: +++"
     )) %>%
     mutate(VariacionDiscretizada2 = case_when(
-      Variacion2 < -0.05 ~ "Var2: ---",
-      Variacion2 >= -0.05 & Variacion2 < -0.02 ~ "Var2: --",
-      Variacion2 >= -0.02 & Variacion2 < -0.005 ~ "Var2: -",
-      Variacion2 >= -0.005 & Variacion2 < 0.005 ~ "Var2: =",
-      Variacion2 >= 0.005 & Variacion2 < 0.05 ~ "Var2: +",
-      Variacion2 >= 0.05 & Variacion2 < 0.1 ~ "Var2: ++",
-      Variacion2 >= 0.1  ~ "Var2: +++"
+      Variacion2 < -0.05/2 ~ "Var2: ---",
+      Variacion2 >= -0.05/2 & Variacion2 < -0.02/2 ~ "Var2: --",
+      Variacion2 >= -0.02/2 & Variacion2 < -0.005/2 ~ "Var2: -",
+      Variacion2 >= -0.005/2 & Variacion2 < 0.005/2 ~ "Var2: =",
+      Variacion2 >= 0.005/2 & Variacion2 < 0.05/2 ~ "Var2: +",
+      Variacion2 >= 0.05/2 & Variacion2 < 0.1/2 ~ "Var2: ++",
+      Variacion2 >= 0.1/2  ~ "Var2: +++"
     )) %>% 
     mutate(VariacionDiscretizada3 = case_when(
       Variacion3 < -0.05 ~ "Var3: ---",
@@ -74,14 +74,14 @@ preprocesar <- function(precios.wide){
       Variacion3 >= 0.05 & Variacion3 < 0.1 ~ "Var3: ++",
       Variacion3 >= 0.1  ~ "Var3: +++"
     )) %>% 
-    mutate(VariacionDiscretizadaTotal = case_when(
-      VariacionTotal < -0.05 ~ "VarTotal: ---",
-      VariacionTotal >= -0.05 & VariacionTotal < -0.02 ~ "VarTotal: --",
-      VariacionTotal >= -0.02 & VariacionTotal < -0.005 ~ "VarTotal: -",
-      VariacionTotal >= -0.005 & VariacionTotal < 0.005 ~ "VarTotal: =",
-      VariacionTotal >= 0.005 & VariacionTotal < 0.05 ~ "VarTotal: +",
-      VariacionTotal >= 0.05 & VariacionTotal < 0.1 ~ "VarTotal: ++",
-      VariacionTotal >= 0.1  ~ "VarTotal: +++"
+  mutate(VariacionDiscretizadaTotal = case_when(
+      VariacionTotal < -0.01 ~ "VarTotal: Deflacionaria",
+      VariacionTotal >= -0.01 & VariacionTotal < 0.01 ~ "VarTotal: Neutral",
+      VariacionTotal >= 0.01 & VariacionTotal < 0.04 ~ "VarTotal: Leve",
+      VariacionTotal >= 0.04 & VariacionTotal < 0.07 ~ "VarTotal: Regular",
+      VariacionTotal >= 0.07 & VariacionTotal < 0.14 ~ "VarTotal: Fuerte",
+      VariacionTotal >= 0.14 & VariacionTotal < 0.35 ~ "VarTotal: Muy Fuerte",
+      VariacionTotal >= 0.35  ~ "VarTotal: Hiperinflacionaria"
     ))
   
   #Hay que calcular la media por producto para cada medición
@@ -256,6 +256,51 @@ mutate(Menos300 = case_when(
     ))
 }
 
+
+#agregamos etiquetas para definir si un precio es atipico o no
+
+TipoPrecio <- function(final){
+#Hay que calcular los cuartiles
+  cuartiles.producto.comuna <- final %>%
+    group_by(producto, COMUNA) %>%
+    summarize(Q1.Periodo1 = quantile(log(PrecioPeriodo1),.25),Q3.Periodo1 = quantile(log(PrecioPeriodo1),.75),
+              Q1.Periodo2 = quantile(log(PrecioPeriodo2),.25),Q3.Periodo2 = quantile(log(PrecioPeriodo2),.75),
+              Q1.Periodo3 = quantile(log(PrecioPeriodo3),.25),Q3.Periodo3 = quantile(log(PrecioPeriodo3),.75),
+              Q1.Periodo4 = quantile(log(PrecioPeriodo4),.25),Q3.Periodo4 = quantile(log(PrecioPeriodo4),.75))
+  
+#Join para tener los cuartiles de cada medicion de cada medición
+final <- final %>%  
+  left_join(cuartiles.producto.comuna, by = c("producto",'COMUNA')) %>%
+#Etiquetamos las mediciones de acuerdo a los precios registrados en cada medicion
+  mutate(TipoDato.1 = case_when(
+      log(PrecioPeriodo1) < Q1.Periodo1-1.5*(Q3.Periodo1-Q1.Periodo1) ~ "TipoDato1: Atípico(-)",
+      log(PrecioPeriodo1) >= Q1.Periodo2-1.5*(Q3.Periodo1-Q1.Periodo1) & log(PrecioPeriodo1) < Q1.Periodo1 ~ "TipoDato1: Primer Cuartil",
+      log(PrecioPeriodo1) >= Q1.Periodo1 & log(PrecioPeriodo1) < Q3.Periodo1 ~ "TipoDato1: Regular",
+      log(PrecioPeriodo1) >= Q3.Periodo1 & log(PrecioPeriodo1) < Q3.Periodo1+1.5*(Q3.Periodo1-Q1.Periodo1) ~ "TipoDato1: Último Cuartil",
+      log(PrecioPeriodo1) <= Q3.Periodo1+1.5*(Q3.Periodo1-Q1.Periodo1) ~ "TipoDato1: Atípico(+)")) %>%
+  
+  mutate(TipoDato.2 = case_when(
+      log(PrecioPeriodo2) < Q1.Periodo2-1.5*(Q3.Periodo2-Q1.Periodo2) ~ "TipoDato2: Atípico(-)",
+      log(PrecioPeriodo2) >= Q1.Periodo2-1.5*(Q3.Periodo2-Q1.Periodo2) & log(PrecioPeriodo2) < Q1.Periodo2 ~ "TipoDato2: Primer Cuartil",
+      log(PrecioPeriodo2) >= Q1.Periodo2 & log(PrecioPeriodo2) < Q3.Periodo2 ~ "TipoDato2: Regular",
+      log(PrecioPeriodo2) >= Q3.Periodo2 & log(PrecioPeriodo2) < Q3.Periodo2+1.5*(Q3.Periodo2-Q1.Periodo2) ~ "TipoDato2: Último Cuartil",
+      log(PrecioPeriodo2) <= Q3.Periodo2+1.5*(Q3.Periodo2-Q1.Periodo2) ~ "TipoDato2: Atípico(+)")) %>%
+  
+    mutate(TipoDato.3 = case_when(
+      log(PrecioPeriodo3) < Q1.Periodo3-1.5*(Q3.Periodo3-Q1.Periodo3) ~ "TipoDato3: Atípico(-)",
+      log(PrecioPeriodo3) >= Q1.Periodo3-1.5*(Q3.Periodo3-Q1.Periodo3) & log(PrecioPeriodo3) < Q1.Periodo3 ~ "TipoDato3: Primer Cuartil",
+      log(PrecioPeriodo3) >= Q1.Periodo3 & log(PrecioPeriodo3) < Q3.Periodo3 ~ "TipoDato3: Regular",
+      log(PrecioPeriodo3) >= Q3.Periodo3 & log(PrecioPeriodo3) < Q3.Periodo3+1.5*(Q3.Periodo3-Q1.Periodo3) ~ "TipoDato3: Último Cuartil",
+      log(PrecioPeriodo3) <= Q3.Periodo3+1.5*(Q3.Periodo3-Q1.Periodo3) ~ "TipoDato3: Atípico(+)")) %>%
+    
+    mutate(TipoDato.4 = case_when(
+      log(PrecioPeriodo4) < Q1.Periodo4-1.5*(Q3.Periodo4-Q1.Periodo4) ~ "TipoDato4: Atípico(-)",
+      log(PrecioPeriodo4) >= Q1.Periodo4-1.5*(Q3.Periodo4-Q1.Periodo4) & log(PrecioPeriodo4) < Q1.Periodo4 ~ "TipoDato4: Primer Cuartil",
+      log(PrecioPeriodo4) >= Q1.Periodo4 & log(PrecioPeriodo4) < Q3.Periodo4 ~ "TipoDato4: Regular",
+      log(PrecioPeriodo4) >= Q3.Periodo4 & log(PrecioPeriodo4) < Q3.Periodo4+1.5*(Q3.Periodo4-Q1.Periodo4) ~ "TipoDato4: Último Cuartil",
+      log(PrecioPeriodo4) <= Q3.Periodo4+1.5*(Q3.Periodo4-Q1.Periodo4) ~ "TipoDato4: Atípico(+)"))
+}
+
 ```
 
 ```{r}
@@ -276,14 +321,17 @@ final <- mergeprod(base)
 
 # agrego los labels demográficos
 final <- labeldemo(final)
-```
 
+# agrego los labels del tipo de precio
+final <- TipoPrecio(final)
+
+```
 
 ```{r}
-# exploramos post merge
-names(final)
-sapply(base, function(x) sum(is.na(x)))
+# liberamos memoria
+rm("base", "datosSocioEconomicos" ,"labeldemo", "load.data.precios","mergeprod","precios",  "precios.wide", "precios.wide.transformados", "preprocesar",  "TipoPrecio","to.wide")}
 ```
+
 
 ```{r}
 #Elegimos los atributos
@@ -310,21 +358,21 @@ VariacionDiscretizadaTotal,
 #Densidad_label,                 
 #Poblacion_label,                 
 #Superficie_label,
-Region
+Region,
+TipoDato.1,
+TipoDato.2,
+TipoDato.3,                     
+TipoDato.4
 )    
 ```
 
 ```{r}
 # probamos reglas
-reglas <- apriori(prueba, parameter = list(support=0.01, confidence=0.01, target = "rules"))
+reglas <- apriori(prueba, parameter = list(support=0.3, confidence=0.01, target = "rules"))
 ```
 
 ```{r}
-inspect(head(sort(reglas, by="lift", decreasing = TRUE),100))
+inspect(head(sort(reglas, by="lift", decreasing = TRUE),25))
 ```
 
-
-```{r}
-unique(final$COMUNA)
-```
 
