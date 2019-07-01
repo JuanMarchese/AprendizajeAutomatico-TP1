@@ -12,8 +12,8 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ```{r}
 load.data.precios <- function() {
-  precios = stream_in(file("data/precios.json",open="r"))  
-  #precios = stream_in(file("C:\\Maestria\\DataMining\\TP01_data\\precios.json",open="r"))  
+  #precios = stream_in(file("data/precios.json",open="r"))  
+  precios = stream_in(file("C:\\Maestria\\DataMining\\TP01_data\\precios.json",open="r"))  
   
 }
 
@@ -31,6 +31,23 @@ to.wide <- function(precios){
   precios.wide <- na.interpolation(precios.wide)
 }
 
+dolar = c(35.5475,35.505,38.155,37.7017,38.3217,37.8083,37.705,37.24,38.32,38.96)
+variacion_dolar = dolar / dolar[1]
+
+calcularVariacion <- function(variacion,nombre){
+    resultado = case_when(
+      variacion < -0.05 ~ paste(nombre,": ---",sep=""),
+      variacion >= -0.05 & variacion < -0.02 ~ paste(nombre,": --",sep=""),
+      variacion >= -0.02 & variacion < -0.005 ~ paste(nombre,": -",sep=""),
+      variacion >= -0.005 & variacion < 0.005 ~ paste(nombre,": =",sep=""),
+      variacion >= 0.005 & variacion < 0.05 ~ paste(nombre,": +",sep=""),
+      variacion >= 0.05 & variacion < 0.1 ~ paste(nombre,": ++",sep=""),
+      variacion >= 0.1  ~ paste(nombre,": +++",sep="")
+    )
+    
+    return(resultado)
+}
+
 
 preprocesar <- function(precios.wide){
   
@@ -46,6 +63,28 @@ preprocesar <- function(precios.wide){
     mutate(Variacion2 = (PrecioPeriodo3 - PrecioPeriodo2) / PrecioPeriodo2) %>%
     mutate(Variacion3 = (PrecioPeriodo4 - PrecioPeriodo3) / PrecioPeriodo3) %>%
     mutate(VariacionTotal = (PrecioPeriodo4 - PrecioPeriodo1) / PrecioPeriodo1) %>%
+    
+    
+    #variacion de precios en dolares
+    mutate(PrecioDolarPeriodo1 = (m1 / dolar[1] + m2 / dolar[2] + m3 / dolar[3]) / 3) %>%
+    mutate(PrecioDolarPeriodo2 = (m4 / dolar[4] + m5 / dolar[5]) / 2) %>%
+    mutate(PrecioDolarPeriodo3 = (m6 / dolar[6] + m7 / dolar[7]) / 2) %>%
+    mutate(PrecioDolarPeriodo4 = (m8 / dolar[8] + m9 / dolar[9] + m10 / dolar[10]) / 3) %>%
+    mutate(PrecioDolarPromedio = (m1 / dolar[1] + m2 / dolar[2] + m3 / dolar[3] + 
+                                  m4 / dolar[4] + m5 / dolar[5] + m6 / dolar[6] +
+                                  m7 / dolar[7] + m8 / dolar[8] + m9 / dolar[9] + m10 / dolar[10]) / 10) %>%
+    #Se calculan las diferencias para poder discretizar después
+    mutate(VariacionPrecioDolar1 = (PrecioDolarPeriodo2 - PrecioDolarPeriodo1) / PrecioDolarPeriodo1) %>%
+    mutate(VariacionPrecioDolar2 = (PrecioDolarPeriodo3 - PrecioDolarPeriodo2) / PrecioDolarPeriodo2) %>%
+    mutate(VariacionPrecioDolar3 = (PrecioDolarPeriodo4 - PrecioDolarPeriodo3) / PrecioDolarPeriodo3) %>%
+    mutate(VariacionPrecioDolarTotal = (PrecioDolarPeriodo4 - PrecioDolarPeriodo1) / PrecioDolarPeriodo1) %>%
+    
+    mutate(VDolar1 = calcularVariacion(VariacionPrecioDolar1,"VarDolar1")) %>%
+    mutate(VDolar2 = calcularVariacion(VariacionPrecioDolar2,"VarDolar2")) %>%
+    mutate(VDolar3 = calcularVariacion(VariacionPrecioDolar3,"VarDolar3")) %>%
+    mutate(VDolarTotal = calcularVariacion(VariacionPrecioDolarTotal,"VarDolarTot")) %>%
+    
+    
     #LABELS PARA LA VARIACION DE PRECIO
     mutate(VariacionDiscretizada1 = case_when(
       Variacion1 < -0.05 ~ "Var1: ---",
@@ -182,9 +221,30 @@ mergeprod <- function(base){
 	    mutate(nombre_1 = strsplit(nombre,' ')[[1]][1])
 
   base <- merge(base, prod,by.x = "producto", by.y='id',all.x = TRUE)
-	
+  
+  base[,"termino_vino"] <- NA
+  base[,"termino_galletitas"] <- NA
+  base[,"termino_leche"] <- NA
+  base[,"termino_agua"] <- NA
+  base[,"termino_yogur"] <- NA
+  base[,"termino_fideos"] <- NA
+  base[,"termino_jabon"] <- NA
+  base[,"termino_gaseosa"] <- NA
+  base[,"termino_mate"] <- NA
+  base[,"termino_cerveza"] <- NA
+  
+  base[grepl("vino",tolower(base[,"nombre.y"])) ,"termino_vino"] <- "S"
+  base[grepl("galletitas",tolower(base[,"nombre.y"])) ,"termino_galletitas"] <- "S"
+  base[grepl("leche",tolower(base[,"nombre.y"])) ,"termino_leche"] <- "S"
+  base[grepl("agua",tolower(base[,"nombre.y"])) ,"termino_agua"] <- "S"
+  base[grepl("yogur",tolower(base[,"nombre.y"])) ,"termino_yogur"] <- "S"
+  base[grepl("fideos",tolower(base[,"nombre.y"])) ,"termino_fideos"] <- "S"
+  base[grepl("jabon",tolower(base[,"nombre.y"])) ,"termino_jabon"] <- "S"
+  base[grepl("gaseosa",tolower(base[,"nombre.y"])) ,"termino_gaseosa"] <- "S"
+  base[grepl("mate",tolower(base[,"nombre.y"])) ,"termino_mate"] <- "S"
+  base[grepl("cerveza",tolower(base[,"nombre.y"])) ,"termino_cerveza"] <- "S"
     
-    return(base)
+  return(base)
 }
 
 # labels para las variables demograficas
@@ -351,6 +411,20 @@ VariacionDiscretizadaTotal,
 #PrecioRelativoDiscretizado3,    
 #PrecioRelativoDiscretizado4,
 #PrecioRelativoDiscretizadoMedio,
+#VDolar1,
+#VDolar2,
+#VDolar3,
+#VDolarTotal,
+termino_vino,
+#termino_galletitas,
+#termino_leche,
+#termino_agua,
+#termino_yogur,
+#termino_fideos,
+#termino_jabon,
+#termino_gaseosa,
+#termino_mate,
+#termino_cerveza,
 marca,                   
 `Clasf. Descripción`,
 #USDm2alq_label,                  
@@ -370,6 +444,18 @@ TipoDato.4
 # probamos reglas
 reglas <- apriori(prueba, parameter = list(support=0.15, confidence=0.25, target = "rules"))
 ```
+
+
+```{r}
+reglas_ordenadas <- sort(reglas, by="lift", decreasing = TRUE)
+
+write(reglas_ordenadas,
+      file = "ReglasFull.csv",
+      sep = ",",
+      quote = TRUE,
+      row.names = FALSE)
+```
+
 
 ```{r}
 inspect(head(sort(reglas, by="lift", decreasing = TRUE),25))
