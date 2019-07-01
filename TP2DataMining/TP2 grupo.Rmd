@@ -250,9 +250,9 @@ mutate(Region = case_when(
       COMUNA %in% norte ~ "Norte"
       )) %>% 
 mutate(Menos300 = case_when(
-      Menos300 < 4 ~ "Competencia: -",
-      Menos300 >= 4 & Menos300 < 7 ~ "Competencia: =",
-      Menos300 >= 7  ~ "Competencia: +"
+      Menos300 < 4 ~ "Competencia: Baja",
+      Menos300 >= 4 & Menos300 < 7 ~ "Competencia: Regular",
+      Menos300 >= 7  ~ "Competencia: Alta"
     ))
 }
 
@@ -329,16 +329,16 @@ final <- TipoPrecio(final)
 
 ```{r}
 # liberamos memoria
-rm("base", "datosSocioEconomicos" ,"labeldemo", "load.data.precios","mergeprod","precios",  "precios.wide", "precios.wide.transformados", "preprocesar",  "TipoPrecio","to.wide")}
+rm("base", "datosSocioEconomicos" ,"labeldemo", "load.data.precios","mergeprod","precios",  "precios.wide", "precios.wide.transformados", "preprocesar",  "TipoPrecio","to.wide")
 ```
 
-
 ```{r}
+names(final)
 #Elegimos los atributos
 prueba <- select(final,
-producto,        
+#producto,        
 #BARRIO,                         
-#COMUNA,
+COMUNA,
 Menos300,
 sucursalTipo,                    
 cadena,                         
@@ -351,11 +351,11 @@ VariacionDiscretizadaTotal,
 #PrecioRelativoDiscretizado3,    
 #PrecioRelativoDiscretizado4,
 #PrecioRelativoDiscretizadoMedio,
-#marca,                   
+marca,                   
 `Clasf. Descripción`,
 #USDm2alq_label,                  
 #USDm2venta_label,                
-#Densidad_label,                 
+Densidad_label,                 
 #Poblacion_label,                 
 #Superficie_label,
 Region,
@@ -368,7 +368,7 @@ TipoDato.4
 
 ```{r}
 # probamos reglas
-reglas <- apriori(prueba, parameter = list(support=0.3, confidence=0.01, target = "rules"))
+reglas <- apriori(prueba, parameter = list(support=0.15, confidence=0.25, target = "rules"))
 ```
 
 ```{r}
